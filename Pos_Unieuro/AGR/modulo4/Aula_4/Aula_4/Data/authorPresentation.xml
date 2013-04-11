@@ -1,0 +1,1528 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<presentation>
+  <properties>
+    <title><![CDATA[Aula_04]]></title>
+    <creationdate>26/07/2012 19:46:36</creationdate>
+    <audio>on</audio>
+    <navigationonclick>false</navigationonclick>
+    <animations>true</animations>
+    <transitions>false</transitions>
+    <sdkversion>07</sdkversion>
+    <release>1.1</release>
+    <soundacrossslides>false</soundacrossslides>
+    <defaulturl>Slides/default_0.swf</defaulturl>
+    <video>
+    </video>
+    <templatecolor>Silver</templatecolor>
+    <layout>E-Learning Standard</layout>
+    <presentertitle><![CDATA[]]></presentertitle>
+    <presentername><![CDATA[]]></presentername>
+    <presentercompany><![CDATA[]]></presentercompany>
+    <presenteremail><![CDATA[]]></presenteremail>
+    <presentationtitle>Aula_04</presentationtitle>
+    <powerpointfile>Aula_04.ppt</powerpointfile>
+    <presentationdescription><![CDATA[]]></presentationdescription>
+    <presentationkeywords>Gerenciamento de Projetos,Gerenciamento de Projetos: Tipos de Planos,Gerenciamento de Projetos,Gerenciamento de Projetos: Gerenciamento de riscos,Gerenciamento de Projetos : Gerenciamento de riscos</presentationkeywords>
+    <audioquality>Medium</audioquality>
+    <imagequality>9</imagequality>
+    <showslidenotesinoutput>True</showslidenotesinoutput>
+    <usenarrations>True</usenarrations>
+  </properties>
+  <slides>
+    <slide id="1">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide1.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide1_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 1]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[MBA em Engenharia de Software a Distância  Disciplina:Análise e Gerência de Requisitos  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>102</totalframes>
+      <time>00:00:05</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="2">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide2.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide2_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos  Objetivos do MóduloProporcionar uma visão geral do gerenciamento de projetos de software. Para podermos: compreender as diferenças entre o gerenciamento de projetos de software e outros tipos de gerenciamento de projetos de engenharia; conhecer as principais tarefas dos gerentes de projeto de software; compreender por que o planejamento de projetos é essencial em todos os projetos de software;  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>561</totalframes>
+      <time>00:00:28</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="3">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide3.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide3_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos  compreender como representações gráficas (diagramas de barras, diagramas de atividades) são utilizadas pelos gerentes de projeto para representar programações de projeto, e compreender o processo de gerenciamento de riscos e alguns dos riscos que podem surgir em projetos de software.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>541</totalframes>
+      <time>00:00:27</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="4">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide4.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide4_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos  O Gerenciamento de Projeto de Software é a arte de confrontar os objetivos da concorrência, gerenciar riscos e superar obstáculos para liberar com êxito um produto que atenda às necessidades dos clientes e dos usuários.O fato de que tão poucos projetos sejam indiscutivelmente bem-sucedidos é o comentário suficiente sobre a dificuldade da tarefa.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>750</totalframes>
+      <time>00:00:37</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="5">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide5.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide5_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos  O fracasso de muitos projetos de software, na década de 60 e no início da década de 70, foi a primeira indicação das dificuldades de gerenciamento de software. O software era entregue com atraso, não era confiável, custava várias vezes mais do que previam as estimativas originais e, muitas vezes, exibia características precárias de desempenho.Esses projetos não fracassaram porque os gerentes ou os programadores eram incompetentes.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>1378</totalframes>
+      <time>00:01:08</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="6">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide6.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide6_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos  Necessitamos do gerenciamento de projetos de software porque a engenharia de software profissional está sempre sujeita às restrições de orçamento e de prazo. Essas restrições são estabelecidas pela organização que desenvolve o software. O trabalho do gerente de projeto de software é garantir que o projeto de software cumpra essas restrições e entregar um produto de software que contribua para as metas da empresa.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>587</totalframes>
+      <time>00:00:29</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="7">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide7.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide7_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos  Os gerentes de software são responsáveis por planejar e programar o desenvolvimento do projeto.Supervisionam o trabalho para assegurar que seja realizado em conformidade com os padrões requeridos e monitoram o progresso para verificar se o desenvolvimento está dentro do prazo e do orçamento.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>451</totalframes>
+      <time>00:00:22</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="8">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide8.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide8_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos  O bom gerenciamento não pode garantir o sucesso do projeto. Contudo, o mau gerenciamento geralmente resulta no fracasso do projeto: O software é entregue com atraso, custa mais do que originalmente foi estimado e apresenta falha no cumprimento de seus requisitos.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>557</totalframes>
+      <time>00:00:27</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="9">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide9.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide9_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos  A engenharia de software é distinta de outros tipos de engenharia, em uma variedade de modos que podem tornar o gerenciamento de software particularmente difícil. Algumas dessas diferenças são: 1)O produto é intangível: O gerente do projeto de construção de um navio ou de um projeto de engenharia civil pode ver o produto sendo desenvolvido. Se há um atraso na programação, o efeito no produto é visível.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>604</totalframes>
+      <time>00:00:30</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="10">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide10.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide10_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos  Partes da estrutura estão obviamente inacabadas. O software é intangível; não pode ser visto ou tocado. Os gerentes de projeto de software não podem ver o progresso, eles dependem de outras pessoas para produzir a documentação necessária, a fim de examinar o progresso. 	2) Não há processo de software-padrão Não temos uma compreensão clara das relações entre o processo de software e os tipos de produto.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>1056</totalframes>
+      <time>00:00:52</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="11">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide11.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide11_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos  Nas disciplinas de engenharia, o processo é experimentado e testado. Nossa compreensão do processo de software se desenvolveu significativamente nos últimos anos. Contudo, ainda não podemos prever com certeza quando um processo de software específico poderá causar problemas de desenvolvimento.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>452</totalframes>
+      <time>00:00:22</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="12">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide12.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide12_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos  3) Grandes projetos de software são, freqüentemente, projetos únicos, são normalmente diferentes de projetos anteriores. Os gerentes, na verdade, têm ampla experiência anterior, que pode ser utilizada para reduzir a incerteza nos planos. É difícil prever problemas. As lições aprendidas com  experiências podem não ser transferíveis para novos projetos.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>970</totalframes>
+      <time>00:00:48</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="13">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide13.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide13_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos  Por causa desses problemas, não é de surpreender que alguns projetos de software sofram atrasos e ultrapassem o orçamento previsto.Atividades de GerenciamentoÉ impossível dar uma descrição do trabalho-padrão de um gerente de software. O trabalho varia muito, dependendo da organização e do produto a ser desenvolvido.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>496</totalframes>
+      <time>00:00:24</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="14">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide14.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide14_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos  A maioria dos gerentes assume a responsabilidade, por algumas das seguintes atividades ou por todas elas: 	1) elaboração de propostas; 	2) planejamento e programação de projetos, custo do projeto;	3) monitoramento e revisões de projetos;	4) seleção e avaliação de pessoal;	5) elaboração de relatórios e apresentações.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>486</totalframes>
+      <time>00:00:24</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="15">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide15.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide15_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos  O primeiro estágio de um projeto de software pode envolver a elaboração de uma proposta para executar o projeto.A proposta descreve os objetivos do projeto e como será realizado. Em geral, inclui estimativas de custo e programação. Isso pode justificar por que o contrato do projeto deve ser delegado a uma organização ou equipe específica.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>531</totalframes>
+      <time>00:00:26</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="16">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide16.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide16_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos  O planejamento de projeto se ocupa de identificar as atividades, os marcos e os documentos a serem produzidos em um projeto. Um plano deve, então, ser traçado para guiar o desenvolvimento em direção aos objetivos do projeto. A estimativa de custos é uma atividade que se ocupa de estimar os recursos requeridos para realizar o projeto.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>583</totalframes>
+      <time>00:00:29</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="17">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide17.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide17_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos  O monitoramento de projeto é uma atividade continua.O gerente deve manter o acompanhamento do andamento do projeto e comparar os progressos e custos reais com os que foram planejados. Durante um projeto, é normal ocorrer uma série de revisões formais pelo gerente de projetos. Essas revisões se ocupam em examinar o progresso geral, o desenvolvimento técnico do projeto, considerando o status do projeto em relação aos objetivos da organização.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>709</totalframes>
+      <time>00:00:35</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="18">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide18.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide18_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos  Os gerentes de projeto, geralmente, precisam selecionar pessoal para trabalhar em seu projeto. O ideal é que uma equipe hábil e com experiência apropriada esteja disponível para trabalhar no projeto. Contudo, na maioria dos casos, os gerentes têm de se contentar com menos do que uma equipe ideal de projeto. As razões disso são:  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>496</totalframes>
+      <time>00:00:24</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="19">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide19.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide19_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos  1) Orçamento do projeto pode não ser suficiente para contratar uma equipe bem paga, e pode ser necessário utilizar uma equipe menos experiente e que exija menor remuneração. 	2) Uma equipe com a experiência apropriada pode não estar disponível, dentro ou fora da organização. Pode ser impossível recrutar uma equipe nova para o projeto. Dentro da organização, as melhores pessoas talvez já estejam alocadas em outros projetos.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>654</totalframes>
+      <time>00:00:32</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="20">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide20.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide20_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos  3) A organização pode querer desenvolver as habilidades de seus funcionários, por isso pode ser designada uma equipe inexperiente para um projeto, a fim de que essa equipe aprenda e ganhe experiência.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>343</totalframes>
+      <time>00:00:17</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="21">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide21.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide21_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos  Planejamento de Projeto: O gerenciamento eficaz de um projeto de software depende de um planejamento apurado do andamento do projeto. O gerente de projeto deve prever os problemas que podem surgir e preparar soluções experimentais para esses problemas. Um plano traçado no início do projeto deve ser utilizado como guia para esse projeto.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>518</totalframes>
+      <time>00:00:25</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="22">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide22.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide22_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos  O plano inicial deve ser o melhor possível, em face das informações disponíveis. Ele deve evoluir à medida que o projeto seja desenvolvido e melhores informações se tornem disponíveis.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>327</totalframes>
+      <time>00:00:16</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="23">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide23.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide23_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos: Tipos de Planos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos: Tipos de Planos  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>1107</totalframes>
+      <time>00:00:55</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="24">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide24.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide24_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos  O plano de projeto: Define os recursos disponíveis para o projeto, a estrutura analítica do trabalho e uma programação para realizar o trabalho. Em algumas organizações, o plano de projeto é um documento único que incorpora todos os diferentes tipos de plano. Em outros casos, o plano de projeto se ocupa exclusivamente do processo de desenvolvimento.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>586</totalframes>
+      <time>00:00:29</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="25">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide25.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide25_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos  Os detalhes do plano de projeto variam, dependendo do tipo de projeto e da empresa. Contudo, a maioria dos planos deve incluir as seguintes seções: 	1) Introdução: Descreve com brevidade os objetivos do projeto e define as restrições (por exemplo, orçamento e prazo) que afetam o gerenciamento do projeto.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>487</totalframes>
+      <time>00:00:24</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="26">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide26.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide26_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos  2) Organização de projeto: Descreve o modo como a equipe de desenvolvimento é organizada, as pessoas envolvidas e seus papéis na equipe. 	3) Análise de riscos: Descreve possíveis riscos de projeto, a probabilidade de surgir esses riscos e as estratégias propostas para a redução deles.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>467</totalframes>
+      <time>00:00:23</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="27">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide27.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide27_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos  4)Requisitos necessários de hardware e software:  Descreve o hardware e o software de apoio exigidos para realizar o desenvolvimento. Se o hardware tiver de ser comprado, deverão ser incluídos os prazos de entrega e as estimativas de preço. 	5)Estrutura analítica: Descreve a divisão do trabalho em atividades e identifica os marcos e os produtos a serem entregues com cada atividade.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>769</totalframes>
+      <time>00:00:38</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="28">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide28.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide28_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos  6)Programação de projeto: Descreve as dependências entre atividades, o tempo estimado requerido para atingir cada marco e a alocação de pessoas nas atividades. 	7)Mecanismos de monitoramento e de elaboração de relatórios: Descreve os relatórios de gerenciamento que devem ser produzidos, quando eles devem ser produzidos e quais mecanismos de monitoramento são utilizados.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>629</totalframes>
+      <time>00:00:31</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="29">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide29.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide29_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos  “O plano de projeto deve ser revisado regularmente durante o projeto. Algumas partes, como a programação do projeto, serão freqüentemente modificadas; outras partes serão mais estáveis”.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>311</totalframes>
+      <time>00:00:15</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="30">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide30.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide30_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos  Marcos e produtos a serem entregues: Os gerentes precisam de informações. Como o software é intangível, essas informações somente podem ser fornecidas como documentos que descrevem o estado do software que está sendo desenvolvido. Sem essas informações, é impossível julgar o progresso e as estimativas de custos e as programações não podem ser atualizadas.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>569</totalframes>
+      <time>00:00:28</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="31">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide31.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide31_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos  Quando se planeja um projeto, uma série de marcos deve ser estabelecido; um marco é o ponto final de uma atividade de processo de software. A cada marco deve haver uma saída formal, como um relatório.Os relatórios de marcos não precisam ser documentos extensos, eles podem ser um breve relatório das atividades de projeto realizadas.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>751</totalframes>
+      <time>00:00:37</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="32">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide32.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide32_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos  Programação de Projeto: É uma tarefa necessária para os engenheiros de projeto. Os gerentes estimam o tempo e os recursos exigidos para completar as atividades e os organizam em uma seqüência coerente. A menos que o projeto em programação seja similar a um projeto anterior, estimativas precedentes são uma base incerta para uma nova programação de projeto.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>584</totalframes>
+      <time>00:00:29</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="33">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide33.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide33_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos  A estimativa de programação é ainda mais complicada pelo fato de que diferentes projetos podem utilizar diferentes métodos de projeto e linguagens de implementação.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>276</totalframes>
+      <time>00:00:13</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="34">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide34.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide34_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos  A programação de projeto envolve dividir o trabalho total de um projeto em atividades distintas e avaliar o tempo necessário para completar essas atividades  Requisitos de software                   Diagramas de atividades e diagramas de barras  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>1167</totalframes>
+      <time>00:00:58</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="35">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide35.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide35_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos  Diagramas de barras e redes de atividades: São notações gráficas utilizadas para ilustrar a programação de projeto. Os diagramas de barras mostram quem é responsável por cada atividade e para quando está programado o início e o término da atividade. As redes de atividades mostram a dependência entre as diferentes atividades que constituem o projeto.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>549</totalframes>
+      <time>00:00:27</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="36">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide36.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide36_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos  A finalidade do Gerenciamento de Projeto é: Fornecer um framework para gerenciar projetos intensivos de software. Fornecer diretrizes práticas para planejar, montar a equipe, executar e monitorar os projetos. Fornecer um framework de gerenciamento de risco.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>446</totalframes>
+      <time>00:00:22</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="37">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide37.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide37_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 37]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projeto: Visão Geral  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>1148</totalframes>
+      <time>00:00:57</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="38">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide38.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide38_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos: Gerenciamento de riscos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos: Gerenciamento de riscos  Gerenciamento de riscos: Uma importante tarefa de um gerente de projeto é prever os riscos que podem afetar a programação do projeto ou a qualidade do software em desenvolvimento e tomar as medidas necessárias para evitar esses riscos. Os resultados da análise de riscos devem ser documentados no plano de projeto, juntamente com uma análise das conseqüências da ocorrência de algum fator de risco.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>574</totalframes>
+      <time>00:00:28</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="39">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide39.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide39_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos: Gerenciamento de riscos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos: Gerenciamento de riscos  Identificar riscos e traçar planos para minimizar seus efeitos sobre o projeto é o que se chama de gerenciamento de riscos.As categorias de riscos podem ser definidas como: 	1) Riscos relacionados ao projeto :são os riscos que afetam a programação ou os recursos do projeto.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>412</totalframes>
+      <time>00:00:20</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="40">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide40.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide40_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos  2) Riscos relacionados ao produto :são os riscos que afetam a qualidade ou o desempenho do software que está em desenvolvimento. 	3) Riscos para os negócios: são os riscos que afetam a organização que está desenvolvendo ou adquirindo o software.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>366</totalframes>
+      <time>00:00:18</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="41">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide41.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide41_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos  Um risco é uma variável que, em sua distribuição normal, pode ter um valor que comprometa ou elimine o sucesso de um projeto. Em termos simples, um risco é tudo que possa se encontrar no caminho do sucesso, e que atualmente é desconhecido ou incerto.Sucesso é atender ao conjunto completo de todos os requisitos e limitações mantidos como expectativas do projeto.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>593</totalframes>
+      <time>00:00:29</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="42">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide42.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide42_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos  O gerenciamento de riscos é importante para projetos de software, devido às incertezas inerentes que a maioria dos projetos enfrentam.Os riscos podem surgir como decorrência de requisitos mal definidos, de dificuldades em estimar o prazo e os recursos necessários, da dependência de habilidades individuais e de mudanças nos requisitos, em razão de modificações nas necessidades do cliente  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>592</totalframes>
+      <time>00:00:29</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="43">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide43.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide43_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos  O processo de gerenciamento de riscos envolve vários estágios: 1)  Identificação de riscos: São identificados os possíveis riscos de projeto, produto e negócios. 	 2) Análise de riscos:  São avaliadas as possibilidades e as conseqüências da ocorrência desses riscos.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>420</totalframes>
+      <time>00:00:21</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="44">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide44.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide44_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos  3) Planejamento de riscos: São traçados planos para enfrentar os riscos, seja evitando-os seja minimizando seus efeitos sobre o projeto. 	4) Monitoramento de riscos: O risco é constantemente avaliado e os planos para a diminuição de riscos são revisados, à medida que mais informações sobre eles se tornam disponíveis.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>528</totalframes>
+      <time>00:00:26</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="45">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide45.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide45_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos  O processo de gerenciamento de riscos, como todos os outros planejamentos de projeto, é um processo iterativo, que continua ao longo do projeto. Os resultados do processo de gerenciamento de riscos devem ser documentados em um plano de gerenciamento de riscos. Essa fase deve incluir uma discussão sobre os riscos apresentados pelo projeto, uma análise desses riscos e os planos que são necessários para gerenciá-los.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>625</totalframes>
+      <time>00:00:31</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="46">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide46.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide46_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos  O processo de gerenciamento de riscos.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>689</totalframes>
+      <time>00:00:34</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="47">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide47.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide47_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos  Identificação de riscos: É o primeiro estágio do gerenciamento de riscos; se preocupa em descobrir os possíveis riscos existentes no projeto. Em princípio, esses riscos não devem ser avaliados ou priorizados. Os riscos com conseqüências muito pequenas ou com muito pouca probabilidade não são normalmente levados em consideração.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>587</totalframes>
+      <time>00:00:29</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="48">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide48.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide48_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos  A identificação de riscos pode ser realizada como um processo em equipe, utilizando-se brainstorming, ou pode simplesmente ter como base a experiência de um gerente. Usar uma lista de possíveis tipos de riscos:	1) Riscos quanto à tecnologia :São os riscos que se originam de tecnologias de software ou de hardware, que são utilizadas como parte do sistema em desenvolvimento.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>637</totalframes>
+      <time>00:00:31</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="49">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide49.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide49_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos  2) Riscos quanto ao pessoal: São os riscos associados às pessoas da equipe de desenvolvimento. 	3) Riscos organizacionais : São os riscos que derivam do ambiente organizacional em que o software está sendo desenvolvido. 	4) Riscos quanto às ferramentas :São os riscos que derivam de ferramentas CASE e de outros tipos de software de apoio, utilizados para desenvolver o sistema.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>1062</totalframes>
+      <time>00:00:53</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="50">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide50.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide50_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos  5) Riscos quanto aos requisitos : São os riscos que derivam de modificações nos requisitos do cliente e do processo de gerenciamento da modificação de requisitos. 	6) Riscos quanto à estimativa : São os riscos que derivam das estimativas feitas pelo gerenciamento sobre as características do sistema e os recursos necessários para construí-lo.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>604</totalframes>
+      <time>00:00:30</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="51">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide51.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide51_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos  Análise de riscos : Durante o processo de análise de riscos, cada risco identificado é considerado individualmente e é feito um julgamento sobre a probabilidade e a seriedade desse risco. Não existe uma maneira fácil de fazer, isso tudo depende do julgamento e da experiência do gerente de projeto.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>534</totalframes>
+      <time>00:00:26</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="52">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide52.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide52_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos  Não é preciso uma avaliação numérica exata, mas a análise deve ter como base uma análise com utilização de intervalos:	1) A probabilidade do risco pode ser determinada como muito baixa (menor do que 10 por cento), baixa (10-25 por cento), moderada (25-50 por cento), alta (50-75 por cento) ou muito alta (maior do que 75 por cento). 	2) Os efeitos do risco podem ser determinados como catastróficos, sérios, toleráveis ou insignificantes.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>564</totalframes>
+      <time>00:00:28</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="53">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide53.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide53_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>936</totalframes>
+      <time>00:00:46</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="54">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide54.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide54_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>647</totalframes>
+      <time>00:00:32</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="55">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide55.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide55_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>708</totalframes>
+      <time>00:00:35</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="56">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide56.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide56_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>510</totalframes>
+      <time>00:00:25</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="57">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide57.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide57_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos  Planejamento de riscos: O processo de planejamento de riscos considera cada um dos riscos mais importantes que foram identificados e define estratégias para gerenciá-lo. Mais uma vez, não há nenhum processo simples que possa ser seguido para estabelecer planos de gerenciamento de riscos. Isso depende do julgamento e da experiência do gerente de projeto.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>537</totalframes>
+      <time>00:00:26</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="58">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide58.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide58_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos  As estratégias classificam-se em três categorias:	1)Estratégias preventivas: Seguir essas estratégias significa que a probabilidade de o risco surgir será reduzida. 	2)Estratégias de minimização:  Seguir essas estratégias significa que o impacto do risco será reduzido. 	3)Planos de contingência: Seguir essas estratégias significa que, se o pior acontecer, você está preparado e tem uma estratégia pronta para lidar com o caso.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>648</totalframes>
+      <time>00:00:32</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="59">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide59.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide59_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 59]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>972</totalframes>
+      <time>00:00:48</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="60">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide60.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide60_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Monitoramento de riscos: envolve avaliar regularmente cada um dos riscos individuais, a fim de decidir se esse risco está se tornando mais ou menos provável e se seus efeitos decorrentes se modificaram.  Gerenciamento de Projetos : Gerenciamento de riscos  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>355</totalframes>
+      <time>00:00:17</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="61">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide61.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide61_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos  Fatores de Risco:  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>1098</totalframes>
+      <time>00:00:54</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="62">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide62.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide62_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[PONTOS-CHAVE Um bom gerenciamento de projeto de software é essencial para que os projetos sejam desenvolvidos dentro do prazo e do orçamento. O gerenciamento de software é diferente dos outros gerenciamentos de engenharia. O software é intangível. Os projetos podem ser novos ou inovadores, de modo que não haja nenhuma experiência prévia para orientar seu gerenciamento.  Gerenciamento de Projetos : Gerenciamento de riscos  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>549</totalframes>
+      <time>00:00:27</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="63">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide63.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide63_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[PONTOS-CHAVE Os gerentes de software têm diversos papéis: planejamento de projeto, estimativa e programação. O planejamento e a estimativa são processos iterativos, que continuam ao longo do projeto.Um marco de projeto é o resultado previsto de uma atividade em que algum relatório de progresso deve ser apresentado à gerência. Os marcos devem ocorrer regularmente ao longo de um projeto.  Gerenciamento de Projetos : Gerenciamento de riscos  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>579</totalframes>
+      <time>00:00:28</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="64">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide64.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide64_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[PONTOS-CHAVE A programação de projeto envolve a criação de várias representações gráficas de parte do plano de projeto: diagramas de atividades(mostram o inter-relacionamento de atividades de projeto), e diagramas de barras(mostram a duração das atividades).  Gerenciamento de Projetos : Gerenciamento de riscos  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>417</totalframes>
+      <time>00:00:20</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="65">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide65.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide65_200,150.jpg</slideimage>
+      <title><![CDATA[Gerenciamento de Projetos : Gerenciamento de riscos]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[PONTOS-CHAVE Os principais riscos de projeto devem ser identificados e avaliados, a fim de estabelecer sua probabilidade e suas conseqüências para o projeto. Os riscos devem ser explicitamente discutidos em cada reunião sobre o progresso do projeto.  Gerenciamento de Projetos : Gerenciamento de riscos  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>421</totalframes>
+      <time>00:00:21</time>
+      <transitionmediaurl />
+    </slide>
+  </slides>
+</presentation>
