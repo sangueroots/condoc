@@ -1,0 +1,1064 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<presentation>
+  <properties>
+    <title><![CDATA[Aula01]]></title>
+    <creationdate>26/07/2012 20:11:52</creationdate>
+    <audio>on</audio>
+    <navigationonclick>false</navigationonclick>
+    <animations>true</animations>
+    <transitions>false</transitions>
+    <sdkversion>07</sdkversion>
+    <release>1.1</release>
+    <soundacrossslides>false</soundacrossslides>
+    <defaulturl>Slides/default_0.swf</defaulturl>
+    <video>
+    </video>
+    <templatecolor>Silver</templatecolor>
+    <layout>E-Learning Standard</layout>
+    <presentertitle><![CDATA[]]></presentertitle>
+    <presentername><![CDATA[]]></presentername>
+    <presentercompany><![CDATA[]]></presentercompany>
+    <presenteremail><![CDATA[]]></presenteremail>
+    <presentationtitle>Aula01</presentationtitle>
+    <powerpointfile>Aula01.ppt</powerpointfile>
+    <presentationdescription><![CDATA[]]></presentationdescription>
+    <presentationkeywords>
+    </presentationkeywords>
+    <audioquality>Medium</audioquality>
+    <imagequality>9</imagequality>
+    <showslidenotesinoutput>True</showslidenotesinoutput>
+    <usenarrations>True</usenarrations>
+  </properties>
+  <slides>
+    <slide id="1">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound />
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide1.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide1_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 1]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Disciplina: Análise e Projeto Orientado a Objetos: UML  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <waitforuser>false</waitforuser>
+      <totalframes>381</totalframes>
+      <time>00:00:19</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="2">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide2.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide2_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 2]]></title>
+      <notes><![CDATA[2]]></notes>
+      <slidetext><![CDATA[1. IntroduçãoA necessidade é a mãe das invenções Em consequência do crescimento da importância da informação, surgiu a necessidade de gerenciar informações de uma forma adequada e eficiente e, desta necessidade, surgiram os denominados sistemas de informações.  2  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>681</totalframes>
+      <time>00:00:34</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="3">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide3.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide3_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 3]]></title>
+      <notes><![CDATA[3]]></notes>
+      <slidetext><![CDATA[Um SI é uma combinação de pessoas, dados, processos, interfaces, redes de comunicação e tecnologia que interagem com o objetivo de dar suporte e melhorar o processo de negócio de uma organização com relação às informações.O principal objetivo da construção de um SI é a adição de valor à organização.  3  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>547</totalframes>
+      <time>00:00:27</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="4">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide4.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide4_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 4]]></title>
+      <notes><![CDATA[4]]></notes>
+      <slidetext><![CDATA[Um dos componentes de um SI é denominado sistema de software.Compreende os módulos funcionais computadorizados que interagem entre si para proporcionar a automatização de diversas tarefas.Característica intrínseca do desenvolvimento de sistemas de software: complexidade.  4  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>495</totalframes>
+      <time>00:00:24</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="5">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide5.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide5_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 5]]></title>
+      <notes><![CDATA[5]]></notes>
+      <slidetext><![CDATA[1.1 Modelagem de sistemas de softwareNa construção de sistemas de software, assim como na construção de sistemas habitacionais, também há uma gradação de complexidade. A construção desses sistemas necessita de um planejamento inicial.  5  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>449</totalframes>
+      <time>00:00:22</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="6">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide6.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide6_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 6]]></title>
+      <notes><![CDATA[6]]></notes>
+      <slidetext><![CDATA[6  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>650</totalframes>
+      <time>00:00:32</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="7">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide7.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide7_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 7]]></title>
+      <notes><![CDATA[7]]></notes>
+      <slidetext><![CDATA[Um modelo pode ser visto como uma representação idealizada de um sistema que se pretende construir. Maquetes de edifícios e de aviões e plantas de circuitos eletrônicos são apenas alguns exemplos de modelos.  7  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>357</totalframes>
+      <time>00:00:17</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="8">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide8.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide8_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 8]]></title>
+      <notes><![CDATA[8]]></notes>
+      <slidetext><![CDATA[Razões para construção de modelosA princípio, podemos ver a construção de modelos como uma atividade que atrasa o desenvolvimento do software propriamente dito.Mas essa atividade propicia...O gerenciamento da complexidade inerente ao desenvolvimento de software.  8  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>416</totalframes>
+      <time>00:00:20</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="9">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide9.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide9_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 9]]></title>
+      <notes><![CDATA[9]]></notes>
+      <slidetext><![CDATA[O gerenciamento da complexidade inerente ao desenvolvimento de software.A comunicação entre as pessoas envolvidas.A redução dos custos no desenvolvimento.A predição do comportamento futuro do sistema.  Entretanto, note o fator complexidade como condicionante dessas vantagens.  9  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>506</totalframes>
+      <time>00:00:25</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="10">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide10.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide10_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 10]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Diagramas e DocumentaçãoNo contexto de desenvolvimento de software,  correspondem a desenhos gráficos que seguem algum padrão lógico.Podemos também dizer que um diagrama é uma apresentação de uma coleção de elementos gráficos que possuem um significado predefinido.  10  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>435</totalframes>
+      <time>00:00:21</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="11">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide11.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide11_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 11]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Diagramas normalmente são construídos de acordo com regras de notação bem definidas.Diagramas  permitem a construção de  uma representação concisa  de   um  sistema  a ser construído .  11  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>434</totalframes>
+      <time>00:00:21</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="12">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide12.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide12_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 12]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[12  Uma figura vale por mil palavras, no entanto, modelos também são compostos de informações  textuais.Dado um modelo de uma das perspectivas de um sistema, diz- se que o seu diagrama, juntamente com a informação textual  associada, formam a documentação  deste modelo.  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>429</totalframes>
+      <time>00:00:21</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="13">
+      <transition>2,Photo,0.7</transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide13.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide13_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 13]]></title>
+      <notes><![CDATA[13]]></notes>
+      <slidetext><![CDATA[13  Modelagem de SoftwareA modelagem de sistemas de software consiste na utilização de notações gráficas e textuais com o objetivo de construir modelos que representam as partes essenciais de um sistema, considerando-se diversas perspectivas diferentes e complementares  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>421</totalframes>
+      <time>00:00:21</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="14">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide14.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide14_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 14]]></title>
+      <notes><![CDATA[14]]></notes>
+      <slidetext><![CDATA[1.2 O paradigma da orientação a objetosO paradigma estruturado foi a primeira abordagem usada para modelagem de sistemas de software.O paradigma da orientação a objetos surgiu no fim dos anos 60.Alan Kay formulou a chamada analogia biológica.O paradigma orientado a serviço vem ganhando cada vez mais espaço.  14  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>1716</totalframes>
+      <time>00:01:25</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="15">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide15.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide15_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 15]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Fundamentos da Orientação a Objetos:Através de sua analogia biológica, Alan Kay definiu os fundamentos da orientação a objetos.Qualquer coisa é um objeto.Objetos realizam tarefas através da requisição de serviços a outros objetos.Cada objeto pertence a uma determinada classe. Uma classe agrupa objetos similares.A classe é um repositório para comportamento associado ao objeto.Classes são organizadas em hierarquias.  15  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>842</totalframes>
+      <time>00:00:42</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="16">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide16.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide16_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 16]]></title>
+      <notes><![CDATA[16]]></notes>
+      <slidetext><![CDATA[16  O paradigma da orientação a objetos visualiza um sistema de software como uma coleção de agentes interconectados chamados objetos. Cada objeto é responsável por realizar tarefas específicas. É através da interação entre objetos que uma tarefa computacional é realizada.  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>726</totalframes>
+      <time>00:00:36</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="17">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide17.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide17_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 17]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Conceitos e Princípios da OOConceitosClasseObjetoMensagemPrincípiosEncapsulamentoPolimorfismoGeneralização (Herança)Agregação (Composição)  17  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>576</totalframes>
+      <time>00:00:28</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="18">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide18.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide18_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 18]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Classes, objetos e mensagensO mundo real é formado de coisas. Na terminologia de orientação a objetos, estas coisas do mundo real são denominadas objetos. Seres humanos costumam agrupar os objetos para entendê-los. A descrição de um grupo de objetos é denominada classe de objetos, ou simplesmente de classe.  18  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>611</totalframes>
+      <time>00:00:30</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="19">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide19.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide19_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 19]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[O que é uma classe?Uma classe é um molde para objetos. Diz-se que um objeto é uma instância de uma classe.Uma classe é uma abstração das características relevantes de um grupo de coisas do mundo real.  19  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>947</totalframes>
+      <time>00:00:47</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="20">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide20.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide20_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 20]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[20  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>1541</totalframes>
+      <time>00:01:17</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="21">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide21.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide21_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 21]]></title>
+      <notes><![CDATA[21]]></notes>
+      <slidetext><![CDATA[AbstraçãoUma abstração é qualquer modelo que inclui os aspectos relevantes de alguma coisa, ao mesmo tempo em que ignora os menos importantes. Abstração depende do observador.  21  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>775</totalframes>
+      <time>00:00:38</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="22">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide22.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide22_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 22]]></title>
+      <notes><![CDATA[22]]></notes>
+      <slidetext><![CDATA[22  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>847</totalframes>
+      <time>00:00:42</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="23">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide23.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide23_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 23]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Objetos como abstraçõesUma abstração é uma representação das características e dos comportamentos relevantes de um conceito do mundo real para um determinado problema.Dependendo do contexto, um mesmo conceito do mundo real pode ser representado por diferentes abstrações.  23  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>449</totalframes>
+      <time>00:00:22</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="24">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide24.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide24_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 24]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Classe X ObjetoObjetos é a instância de uma classe, possuem comportamento e características. Classes são definições estáticas, que possibilitam o entendimento de um grupo de objetos.  24  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>930</totalframes>
+      <time>00:00:46</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="25">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide25.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide25_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 25]]></title>
+      <notes><![CDATA[25]]></notes>
+      <slidetext><![CDATA[MensagensPara que um objeto realize alguma tarefa, deve haver um estímulo enviado a este objeto.Pense em um objeto como uma entidade ativa que representa uma abstração de algo do mundo realEntão faz sentido dizer que tal objeto pode responder a estímulos a ele enviadosAssim como faz sentido dizer que seres vivos reagem a estímulos que eles recebem.  25  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>856</totalframes>
+      <time>00:00:42</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="26">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide26.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide26_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 26]]></title>
+      <notes><![CDATA[26]]></notes>
+      <slidetext><![CDATA[Independentemente da origem do estímulo, quando ele ocorre, diz-se que o objeto em questão está recebendo uma mensagem.Uma mensagem é uma requisição enviada de um objeto a outro para que este último realize alguma operação.  Princípios de Análise e Projeto de Sistemas com UML - 2ª edição  26  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>815</totalframes>
+      <time>00:00:40</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="27">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide27.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide27_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 27]]></title>
+      <notes><![CDATA[27]]></notes>
+      <slidetext><![CDATA[27  Objetos de um sistema trocam mensagens  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>662</totalframes>
+      <time>00:00:33</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="28">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide28.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide28_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 28]]></title>
+      <notes><![CDATA[28]]></notes>
+      <slidetext><![CDATA[Princípios da OO: Encapsulamento;Polimorfismo;Generalização (Herança);Composição.  28  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>354</totalframes>
+      <time>00:00:17</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="29">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide29.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide29_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 29]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[EncapsulamentoObjetos possuem comportamento.De acordo com o encapsulamento, objetos devem “esconder” a sua complexidade...Esse princípio aumenta qualidade do SSOO, em termos de:LegibilidadeClarezaReuso  29  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>1460</totalframes>
+      <time>00:01:13</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="30">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide30.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide30_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 30]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[30  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>2064</totalframes>
+      <time>00:01:43</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="31">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide31.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide31_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 31]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[31  PolimorfismoUm outro principio de OO é o polimorfismo.Do grego: (poli = várias, morphos = formas). “várias formas" Em OO, polimorfismo é a habilidade de objetos de classes diferentes responderem a mesma mensagem de diferentes maneiras.Polimorfismo é um dos princípios mais importante de OOP, tanto que a Boa parte dos padrões de projeto de software baseiam-se no uso de polimorfismo  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>727</totalframes>
+      <time>00:00:36</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="32">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide32.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide32_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 32]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[32  Objeto receptor  Objeto remetente (Jogo de futebol?!)  Objeto receptor  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>767</totalframes>
+      <time>00:00:38</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="33">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide33.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide33_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 33]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Generalização (Herança)A herança pode ser vista como um nível de abstração acima da encontrada entre classes e objetos.Na herança, classes semelhantes são agrupadas em hierarquias.As diferenças ou variações de uma classe em particular podem ser organizadas de forma mais clara.  33  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>1212</totalframes>
+      <time>00:01:00</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="34">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide34.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide34_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 34]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[A herança facilita o compartilhamento de comportamento e características entre classes semelhantes.Permite que uma classe aproveite o comportamento de outra classe, além de adaptar esse comportamento aproveitado, tornando-o único.É a principal característica que possibilita a OO a implementar facilmente o reuso de aplicações existentes.  34  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>724</totalframes>
+      <time>00:00:36</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="35">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide35.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide35_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 35]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[35  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>1225</totalframes>
+      <time>00:01:01</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="36">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide36.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide36_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 36]]></title>
+      <notes><![CDATA[36]]></notes>
+      <slidetext><![CDATA[36  Evolução histórica da modelagem de sistemasA Linguagem de modelagem unificada  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>499</totalframes>
+      <time>00:00:24</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="37">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide37.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide37_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 37]]></title>
+      <notes><![CDATA[A Lei de Moore (na verdade, um chute) vem se verificando há vários anos.]]></notes>
+      <slidetext><![CDATA[Evolução do HardwareA chamada Lei de Moore é bastante conhecida da comunidade de computação.Essa lei foi declarada em 1965 pelo engenheiro Gordon Moore, co-fundador da Intel.Lei de Moore: “A densidade de um transistor dobra em um período entre 18 e 24 meses”. Isso implicava no aumento da capacidade de processamento em 100%, pelo mesmo custo.  37  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>828</totalframes>
+      <time>00:00:41</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="38">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide38.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide38_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 38]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[38  Evolução do SoftwareO rápido crescimento da capacidade computacional das máquinas resultou na demanda por sistemas de software cada vez mais complexos.O surgimento de sistemas de software mais complexos resultou na necessidade de reavaliação da forma de se desenvolver sistemas.  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>488</totalframes>
+      <time>00:00:24</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="39">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide39.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide39_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 39]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[39  Consequentemente as técnicas utilizadas para a construção de sistemas computacionais evoluem de forma impressionante no que diz respeito à modelagem de sistemas.  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>318</totalframes>
+      <time>00:00:15</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="40">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide40.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide40_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 40]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[40  Na primeira metade da década de 90 surgiram várias propostas de técnicas para modelagem de sistemas segundo o paradigma orientado a objetos.Houve uma grande proliferação de propostas para modelagem orientada a objetos.diferentes notações gráficas para modelar uma mesma perspectiva de um sistema.cada técnica tinha seus pontos fortes e fracos.  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>535</totalframes>
+      <time>00:00:26</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="41">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide41.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide41_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 41]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Necessidade de um padrãoPercebeu-se a necessidade de um padrão para a modelagem de sistemas, que fosse aceito e utilizado amplamente.Houve alguns esforços nesse sentido de padronização, o principal deles foi liderado pelo “três amigos” Booch, Rumbaugh e Jacobson.Surge a UML (Unified Modeling Language) em 1996 como a melhor candidata para ser linguagem “unificadora”.  41  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>736</totalframes>
+      <time>00:00:36</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="42">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide42.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide42_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 42]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Em 1997, a UML foi aprovada como padrão pelo OMG. Desde então, a UML tem tido grande aceitação pela comunidade de desenvolvedores de sistemas. É uma linguagem ainda em desenvolvimento.Atualmente estamos na versão 2.2.  42  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>584</totalframes>
+      <time>00:00:29</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="43">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide43.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide43_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 43]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[UML (Linguagem de Modelagem Unificada)“A UML é a linguagem padrão para visualizar, especificar, construir e documentar os artefatos de software de um sistema.”Unificação de diversas notações anteriores.Mentores: Booch, Rumbaugh e Jacobson“Três Amigos”IBM Rational (www.rational.com)  43  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>480</totalframes>
+      <time>00:00:24</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="44">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide44.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide44_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 44]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[UML (Linguagem de Modelagem Unificada)UML é...uma linguagem visual.independente de linguagem de programação.independente de processo de desenvolvimento.UML não é...uma linguagem programação.uma técnica de modelagem.  44  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>495</totalframes>
+      <time>00:00:24</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="45">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide45.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide45_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 45]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Diagramas da UMLUm diagrama na UML é uma apresentação de uma coleção de elementos gráficos que possuem um significado predefinido. Um processo de desenvolvimento que utilize a UML como linguagem de modelagem envolve a criação de diversos documentos.Os artefatos gráficos produzidos no desenvolvimento de um SSOO são definidos através dos diagramas da UML.  45  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>874</totalframes>
+      <time>00:00:43</time>
+      <transitionmediaurl />
+    </slide>
+  </slides>
+</presentation>
