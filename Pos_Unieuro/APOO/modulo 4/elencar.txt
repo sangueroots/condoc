@@ -1,0 +1,10 @@
+Pacotes
+Peso
+Localidades
+Transporte
+Rotas
+Distância
+Trens, Aviões, Caminhões
+Carga máxima/meio de transporte
+Posição da localidade do pacote
+Controle do meio de tranporte utilizado em cada parte da rota
