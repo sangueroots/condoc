@@ -1,0 +1,14 @@
+INDEX VERSION 1.126+D:\Pós Graduação\Engenharia de Software\POOJ-1-Parte\CodigosUirá\.metadata\.plugins\org.eclipse.jdt.core
+941565030.index
+2323779128.index
+1508366415.index
+1433696321.index
+4112919177.index
+3759314740.index
+3539630766.index
+972949042.index
+2520689807.index
+3701513912.index
+3245416051.index
+3090229164.index
+291800007.index
