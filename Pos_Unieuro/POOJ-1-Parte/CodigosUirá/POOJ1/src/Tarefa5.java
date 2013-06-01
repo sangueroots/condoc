@@ -15,17 +15,79 @@
  *                                                                         *
  * @version 1.00 2013/06/01                                                *
  *************************************************************************/
-import java.util.Scanner;
+
 
 public class Tarefa5 {
-	/**
-	 * 
-	 */
+	
+	
+	private String nome;
+	private double horaTrabalhada;
+	private double valorHora;
+	private double salarioLiquido;
+	
+	public Tarefa5(String nome, double horaTrabalhada,
+			double valorHora) {
+		
+		this.nome = nome;
+		this.horaTrabalhada = horaTrabalhada;
+		this.valorHora = valorHora;
+		
+	}
+
+
+	public String getNome() {
+		return nome;
+	}
+
+
+	public void setNome(String nome) {
+		this.nome = nome;
+	}
+
+	public double getHoraTrabalhada() {
+		return horaTrabalhada;
+	}
+
+
+	public void setHoraTrabalhada(double horaTrabalhada) {
+		this.horaTrabalhada = horaTrabalhada;
+	}
+
+
+	public double getValorHora() {
+		return valorHora;
+	}
+
+
+	public void setValorHora(double valorHora) {
+		this.valorHora = valorHora;
+	}
+
+
 	
 	
 	public Tarefa5() {
 		// TODO Auto-generated constructor stub
 	}
-
+	
+	public double calculaSalario(double valorHora, double horasTrabalhada){
+		
+		double subTotal;
+		double horaExtra;
+		
+		if(horaTrabalhada <= 40){
+		
+			salarioLiquido = horaTrabalhada * valorHora;
+		
+		}else{
+			
+			subTotal = 40 * valorHora;
+			horaExtra = (horaTrabalhada - 40) * (1.5 * valorHora);
+			salarioLiquido = subTotal + horaExtra;
+		}
+		
+		return salarioLiquido;
+		
+	}
 
 }
