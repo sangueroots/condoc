@@ -1,0 +1,42 @@
+/**************************************************************************
+ * @autor Uirá Peixoto                                                     *
+ * Tarefa 5 - Desenvolva um aplicativo em Java que 
+ * 1.determina o salário bruto semanal de 3 funcionários. 
+ * 2. Seu aplicativo deve ler:
+ *       usuário
+ *       número de horas trabalhadas na semana
+ *	     valor da hora de cada um dos funcionários. 
+ * 3. A companhia paga o valor integral da hora para as primeiras 40 horas 
+ * trabalhadas na semana para cada funcionário,
+ * e uma vez e meia por hora adicional. 
+ * 4. Após o cálculo dos salários dos 3 funcionários, o programa deve 
+ * imprimir na tela de comando esses valores.                              *
+ *                                                                         *
+ *                                                                         *
+ * @version 1.00 2013/06/01                                                *
+ *************************************************************************/
+import java.util.Scanner;
+
+
+/**
+ * @author Uira
+ *
+ */
+public class Tarefa5 {
+
+	/**
+	 * 
+	 */
+	public Tarefa5() {
+		// TODO Auto-generated constructor stub
+	}
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
