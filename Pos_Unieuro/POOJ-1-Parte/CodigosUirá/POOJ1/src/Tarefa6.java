@@ -15,18 +15,27 @@
 
 public class Tarefa6 {
 
-	public int integerPower(int base, int expoente) {
+	public String integerPower(int base, int expoente) {
 
 		int result = 1;
-
+		String msg = "";
+		
+		if (expoente >= 0) {
 			for (int i = 0; i < expoente; i++) {
 
 				result *= base;
 
-			}			
+			}
+			
+			msg = ""+result;
+		} else {
+			
+			msg = "Valor inválido. Informe um valor maior que 0 (Zero)";
+		}
 		
 		
-		return result;
+		
+		return msg;
 	}
 
 }
