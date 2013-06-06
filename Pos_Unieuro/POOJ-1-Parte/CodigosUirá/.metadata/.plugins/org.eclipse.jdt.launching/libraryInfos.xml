@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <libraryInfos>
-<libraryInfo home="C:\Users\Uira\Downloads\eclipse" version="1.7.0">
+<libraryInfo home="C:\Users\Uira\Downloads\eclipse\jre" version="1.7.0">
 <bootpath>
 <entry path="C:\Users\Uira\Downloads\eclipse\jre\lib\resources.jar"/>
 <entry path="C:\Users\Uira\Downloads\eclipse\jre\lib\rt.jar"/>
@@ -18,7 +18,7 @@
 <entry path="C:\Users\Uira\Downloads\eclipse\jre\lib\endorsed"/>
 </endorsedDirs>
 </libraryInfo>
-<libraryInfo home="C:\Users\Uira\Downloads\eclipse\jre" version="1.7.0">
+<libraryInfo home="C:\Users\Uira\Downloads\eclipse" version="1.7.0">
 <bootpath>
 <entry path="C:\Users\Uira\Downloads\eclipse\jre\lib\resources.jar"/>
 <entry path="C:\Users\Uira\Downloads\eclipse\jre\lib\rt.jar"/>
