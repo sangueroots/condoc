@@ -16,7 +16,7 @@
  * @version 1.00 2013/06/01                                                *
  *************************************************************************/
 
-
+import java.util.Scanner;
 public class Tarefa5 {
 	
 	
@@ -25,13 +25,8 @@ public class Tarefa5 {
 	private double valorHora;
 	private double salarioLiquido;
 	
-	public Tarefa5(String nome, double horaTrabalhada,
-			double valorHora) {
-		
-		this.nome = nome;
-		this.horaTrabalhada = horaTrabalhada;
-		this.valorHora = valorHora;
-		
+	public Tarefa5() {
+		// TODO Auto-generated constructor stub
 	}
 
 
@@ -62,13 +57,8 @@ public class Tarefa5 {
 	public void setValorHora(double valorHora) {
 		this.valorHora = valorHora;
 	}
-
-
 	
 	
-	public Tarefa5() {
-		// TODO Auto-generated constructor stub
-	}
 	
 	public double calculaSalario(double valorHora, double horasTrabalhada){
 		
@@ -89,5 +79,38 @@ public class Tarefa5 {
 		return salarioLiquido;
 		
 	}
+	
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		String posicao[] = {"primeiro", "segundo","terceiro"};
+		
+		for (int i = 0; i < 3; i++) {
+			Scanner scan = new Scanner(System.in);
+			
+			System.out.println("Digite o nome do "+posicao[i]+" funcionário: ");
+			String nome = scan.next();
+					
+			System.out.println("Digite o valor da quantidade de horas trabalhadas: ");
+			int qtdHoras = scan.nextInt();
+			
+			System.out.println("Digite o valor por hora: ");
+			double vlrHoras = scan.nextDouble();
+			
+			Tarefa5 t = new Tarefa5();
+			
+			t.setNome(nome);
+			t.setHoraTrabalhada(qtdHoras);
+			t.setValorHora(vlrHoras);
+			
+			System.out.printf("Nome do "+posicao[i]+" funcionário: %s\n\n", t.getNome());
+			System.out.printf("Valor a receber: %s\n\n\n", t.calculaSalario(t.getValorHora(), t.getHoraTrabalhada()));	
+			
+		}
+		
+
+	}
+	
 
 }
