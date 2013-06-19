@@ -42,8 +42,8 @@ public class Account {
 		Account conta1 = new Account(50.0);
 		Account conta2 = new Account(-7.53);
 		
-		System.out.printf("Conta1 balanço: R$%.2f\n", conta1.getBalance());
-		System.out.printf("Conta2 balanço: R$%.2f\n", conta2.getBalance());
+		System.out.printf("Conta1 saldo: R$%.2f\n", conta1.getBalance());
+		System.out.printf("Conta2 saldo: R$%.2f\n", conta2.getBalance());
 		
 		
 		System.out.println("Informe o valor do depósito da conta1:");
