@@ -1,0 +1,27 @@
+/*
+ * 1) Crie uma classe chamada Retângulo que representa a forma geométrica.
+ *    Essa classe deve ter os atributos altura e largura, ambos com o valor padrão igual a 1.
+ *    A classe deve ter também métodos para calcular o perímetro e a área do retângulo.
+ *    Escreva também métodos get e set para ambos os atributos.
+ *    Os métodos set devem verificar os valores (ponto flutuante) maiores que zero e menores ou iguais a 20.
+ *    Escreva um programa para testar sua classe Retângulo.
+ * */
+
+import java.util.Scanner;
+public class Retangulo {
+
+	public Retangulo() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
