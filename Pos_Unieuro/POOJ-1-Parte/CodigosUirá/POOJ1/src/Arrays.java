@@ -52,7 +52,14 @@ public class Arrays {
 
 		
 	}
-	
+	/*
+	 *  40 alunos avaliam a qualidade da comida:
+		• Escala de avaliação de 1-10 — 1 significa
+		horrível, 10 significa excelente
+		Coloque 40 respostas no array de inteiros.
+		– Resuma os resultados da enquete.
+	 * 
+	 * */
 	public void StudentPoll() {
 		// array de respostas da pesquisa
 		int responses[] = { 1, 2, 6, 4, 8, 5, 9, 7, 8, 10, 1, 6, 3, 8, 6, 10,
@@ -71,6 +78,53 @@ public class Arrays {
 		for (int rating = 1; rating < frequency.length; rating++)
 			System.out.printf("%d%10d\n", rating, frequency[rating]);
 	} // fim de StudentPoll
+	
+
+	/*
+	 * – Novo recurso do J2SE 5.0.
+		– Permite iterar por elementos de um array ou
+		por uma coleção sem utilizar um contador.
+		– Sintaxe:
+		for ( parâmetro : nomeDoArray )
+		instrução
+	 * */
+	public void EnhancedForTest() {
+
+		int array[] = { 87, 68, 94, 100, 83, 78, 85, 91, 76, 87 };
+		int total = 0;
+
+		// adiciona o valor de cada elemento ao total
+		for (int number : array)
+			total += number;
+
+		System.out.printf("Total of array elements: %d\n", total);
+
+	} // fim da classe EnhancedForTest
+	
+	// gera saída de linhas e colunas de um array bidimensional
+	public static void outputArray(int array[][]) {
+		// faz um loop pelas linhas do array
+		for (int row = 0; row < array.length; row++) {
+			// faz um loop pelas colunas da linha atual
+			for (int column = 0; column < array[row].length; column++)
+				System.out.printf("%d ", array[row][column]);
+
+			System.out.println(); // inicia nova linha de saída
+		} // fim do for externo
+	} // fim do método outputArray
+	
+	public void InitArray() {
+		// cria e gera saída de arrays bidimensionais	
+		
+		int array1[][] = { { 1, 2, 3 }, { 4, 5, 6 } };
+		int array2[][] = { { 1, 2 }, { 3 }, { 4, 5, 6 } };
+
+		System.out.println("Values in array1 by row are");
+		outputArray(array1); // exibe array1 por linha
+
+		System.out.println("\nValues in array2 by row are");
+		outputArray(array2); // exibe array2 por linha
+	} // fim de main
 
 	/**
 	 * @param args
@@ -80,7 +134,7 @@ public class Arrays {
 		
 		Arrays arr = new Arrays();
 		
-		arr.StudentPoll();
+		arr.InitArray();
 		
 	}
 
