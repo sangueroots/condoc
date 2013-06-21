@@ -8,11 +8,11 @@
  *    Escreva um programa para testar sua classe Retângulo.
  * */
 
-public  class TrianguloEsoceles extends Poligonos{
+public  class TrianguloEquilatero extends Poligonos{
 
 	
 	
-	public TrianguloEsoceles(int numeroLados, double base, double altura) {
+	public TrianguloEquilatero(int numeroLados, double base, double altura) {
 		super(numeroLados, base, altura);
 		// TODO Auto-generated constructor stub
 	}
@@ -23,9 +23,8 @@ public  class TrianguloEsoceles extends Poligonos{
 		double perimetro;
 
 		base = super.getBase();
-		altura = super.getAltura();
 
-		perimetro = 2 * (base + altura);
+		perimetro = 3 * base;
 
 		return perimetro;
 
@@ -38,7 +37,7 @@ public  class TrianguloEsoceles extends Poligonos{
 		
 		base = super.getBase();
 		altura = super.getAltura();
-		area = base * altura;
+		area = (Math.pow(base, 2) + Math.sqrt(3.0))/4;
 
 		return area;
 	}
