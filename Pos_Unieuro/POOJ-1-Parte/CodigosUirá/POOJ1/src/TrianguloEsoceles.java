@@ -8,11 +8,11 @@
  *    Escreva um programa para testar sua classe Retângulo.
  * */
 
-public  class Retangulo extends Poligonos{
+public  class TrianguloEsoceles extends Poligonos{
 
 	
 	
-	public Retangulo(int numeroLados, double base, double altura) {
+	public TrianguloEsoceles(int numeroLados, double base, double altura) {
 		super(numeroLados, base, altura);
 		// TODO Auto-generated constructor stub
 	}

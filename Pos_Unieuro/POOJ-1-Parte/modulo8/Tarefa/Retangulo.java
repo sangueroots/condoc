@@ -8,22 +8,50 @@
  *    Escreva um programa para testar sua classe Retângulo.
  * */
 
-public  class Retangulo extends Poligonos{
+import java.util.Scanner;
 
-	
-	
-	public Retangulo(int numeroLados, double base, double altura) {
-		super(numeroLados, base, altura);
-		// TODO Auto-generated constructor stub
+public class Retangulo {
+
+	double altura = 1;
+	double largura = 1;
+
+	public double getAltura() {
+		return altura;
 	}
 
-	
+	public void setAltura(double altura) {
+
+		if (altura >= 0 && altura <= 20) {
+			this.altura = altura;
+		} else {
+			System.out.println("Verifique se valor está entre 0 e 20.");
+		}
+	}
+
+	public double getLargura() {
+		return largura;
+	}
+
+	public void setLargura(double largura) {
+
+		if (largura >= 0 && largura <= 20) {
+			this.largura = largura;
+		} else {
+			System.out.println("Verifique se valor está entre 0 e 20.");
+		}
+	}
+
+	public Retangulo() {
+		// TODO Auto-generated constructor stub
+
+	}
+
 	public double calculaPerimetro(double base, double altura) {
 
 		double perimetro;
 
-		base = super.getBase();
-		altura = super.getAltura();
+		base = largura;
+		altura = this.altura;
 
 		perimetro = 2 * (base + altura);
 
@@ -31,19 +59,18 @@ public  class Retangulo extends Poligonos{
 
 	}
 
-	
-	public double calculaArea( double base, double altura) {
-		
+	public double calculaArea(double base, double altura) {
+
 		double area;
-		
-		base = super.getBase();
-		altura = super.getAltura();
+		base = largura;
+
+		altura = this.altura;
+
 		area = base * altura;
 
 		return area;
+
 	}
-
-
 	
 
 }
