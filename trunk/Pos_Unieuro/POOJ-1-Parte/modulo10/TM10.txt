@@ -1,3 +1,10 @@
 Tarefa do Módulo 10 (4,0 pontos)
 
-1) Utilizando a mesma estrutura da tarefa anterior, crie as classes Quadrado, Retângulo, Trapézio, TrianguloEquilatero, TrianguloEscaleno e Circulo, representando tais formas geométricas. Todas as classes devem ter métodos para retornar a área e o perímetro da figura. No caso da classe Circulo, o método de cálculo do perímetro deve retornar o comprimento do círculo, no entanto mantenha o mesmo nome das demais classes para esse método. Para garantir maior reaproveitamento de código, e a possibilidade de inclusão de outras classes no mesmo contexto, organize essas classes em uma hierarquia, utilizando classes abstratas e polimorfismo. Ao final, desenvolva um aplicativo para testar as classes dessa hierarquia.
+1) Utilizando a mesma estrutura da tarefa anterior, crie as classes 
+Quadrado, Retângulo, Trapézio, TrianguloEquilatero, TrianguloEscaleno e Circulo, 
+representando tais formas geométricas. 
+Todas as classes devem ter métodos para retornar a área e o perímetro da figura. 
+No caso da classe Circulo, o método de cálculo do perímetro deve retornar o comprimento do círculo,
+no entanto mantenha o mesmo nome das demais classes para esse método. Para garantir maior reaproveitamento de código,
+e a possibilidade de inclusão de outras classes no mesmo contexto, organize essas classes em uma hierarquia, utilizando 
+classes abstratas e polimorfismo. Ao final, desenvolva um aplicativo para testar as classes dessa hierarquia.
