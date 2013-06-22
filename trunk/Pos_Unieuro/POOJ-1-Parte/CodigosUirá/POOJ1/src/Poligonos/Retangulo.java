@@ -1,3 +1,4 @@
+package Poligonos;
 /*
  * 1) Crie uma classe chamada Retângulo que representa a forma geométrica.
  *    Essa classe deve ter os atributos altura e largura, 
@@ -8,11 +9,11 @@
  *    Escreva um programa para testar sua classe Retângulo.
  * */
 
-public  class TrianguloEquilatero extends Poligonos{
+public  class Retangulo extends Poligonos{
 
 	
 	
-	public TrianguloEquilatero(int numeroLados, double base, double altura) {
+	public Retangulo(int numeroLados, double base, double altura) {
 		super(numeroLados, base, altura);
 		// TODO Auto-generated constructor stub
 	}
@@ -23,8 +24,9 @@ public  class TrianguloEquilatero extends Poligonos{
 		double perimetro;
 
 		base = super.getBase();
+		altura = super.getAltura();
 
-		perimetro = 3 * base;
+		perimetro = 2 * (base + altura);
 
 		return perimetro;
 
@@ -37,7 +39,7 @@ public  class TrianguloEquilatero extends Poligonos{
 		
 		base = super.getBase();
 		altura = super.getAltura();
-		area = (Math.pow(base, 2) + Math.sqrt(3.0))/4;
+		area = base * altura;
 
 		return area;
 	}
