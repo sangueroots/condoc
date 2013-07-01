@@ -33,7 +33,7 @@ public class PoligonoTeste {
 		System.out.printf("Area do quadrado: %s\nPerimetro do quadrado é: %s\n",quadrado.calculaArea(),quadrado.calculaPerimetro());
 		System.out.printf("Area do triangulo equilatero: %s\nPerimetro do triangulo equilateroé: %s\n",trieq.calculaArea(),trieq.calculaPerimetro());
 		System.out.printf("Area do triangulo escaleno: %s\nPerimetro do triangulo escaleno é: %s\n",trieq.calculaArea(),trieq.calculaPerimetro());
-		System.out.printf("Area do circulo: %.2f\n",circ.calculaArea());
+		System.out.printf("Area do circulos: %.2f\n",circ.calculaArea());
 	}
 
 }
