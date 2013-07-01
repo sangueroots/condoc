@@ -1,0 +1,2 @@
+1) Modifique a classe DisplayAuthors da figura 25.
+25 do livro texto (slides 35, 36 e 37 do arquivo ppt com áudio), para que a visualização do resultado da busca no banco de dados Books seja ordenada, de forma crescente, pelos valores da coluna firstName.

@@ -1,0 +1,1 @@
+1) Modifique o programa da tarefa 1 para que as possíveis exceções sejam capturadas e tratadas, evitando a interrupção na execução da calculadora.
