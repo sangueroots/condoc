@@ -1,0 +1,9 @@
+1) Desenvolva um aplicativo Java que crie duas threads que compartilham o mesmo objeto (espaço na memória).
+ A primeira thread deve gravar a cada 2 segundos nesse objeto um número aleatório entre 1 e 3000.
+ A segunda thread deve ler esse valor armazenado no objeto compartilhado e entrar no estado de espera cronometrado, no qual o tempo de espera deverá ser o valor lido em milisegundos.
+
+
+Todos os valores escritos pela primeira thread deve ser lidos pela segunda, portanto, caso a segunda thread ainda esteja no estado de espera, a primeira não pode escrever nenhum valor no objeto compartilhado.
+
+
+Esse processo de escrita e leitura deve ocorrer 5 vezes cada, ou seja, a primeira thread deve escrever 5 vezes um número no objeto compartilhado e a segunda thread deve ler esses 5 valores.

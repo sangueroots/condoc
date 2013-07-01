@@ -1,0 +1,8 @@
+Tarefa do Módulo 01(4,0 pontos)
+
+Para todas as tarefas deve ser entregue apenas o arquivo com o código-fonte (extensão .java).
+ Não serão aceitos documentos em formatos MS Word (.doc), documento portável (.pdf), OpenOffice (.odt) ou em formato próprio de qualquer outro editor de texto.
+
+1) Desenvolva um aplicativo em Java que implemente uma calculadora simples, onde o usuário insere por meio de uma interface gráfica dois valores reais (com parte fracionária) e escolhe a operação aritmética a ser realizada.
+ As operações devem ser: soma, subtração, multiplicação e divisão.
+ O layout da interface gráfica e a forma de visualização do resultado são de escolha do aluno.

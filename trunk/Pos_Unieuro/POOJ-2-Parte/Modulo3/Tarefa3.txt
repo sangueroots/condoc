@@ -1,0 +1,1 @@
+Modifique o programa da tarefa 2 para que o resultado seja armazenado em um arquivo no disco rígido, que deve conter: a operação realizada, os números inseridos pelo usuário e o resultado da operação.
