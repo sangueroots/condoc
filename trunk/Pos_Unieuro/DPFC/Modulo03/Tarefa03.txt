@@ -1,0 +1,10 @@
+Tarefa do Módulo 03 (4,0 pontos)
+
+1) Escolha um padrão GRASP que não tenha sido detalhado em nossa aula 3 e descreva as características abaixo.
+
+
+Problema
+Solução
+Exemplo
+Benefícios
+Contra Indicações.

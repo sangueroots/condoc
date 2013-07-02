@@ -1,0 +1,2 @@
+Tarefa do Módulo 05 (4,0 pontos)
+1) Baseado nos Tipos de Plano de Teste (IEEE, QAI e PMBOK), elabore um template de Plano de Teste que atenda as necessidades da sua empresa.

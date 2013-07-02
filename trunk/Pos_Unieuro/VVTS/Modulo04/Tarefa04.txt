@@ -1,0 +1,2 @@
+Tarefa do Módulo 04 (4,0 pontos)
+1) O que é Teste de Aceitação? Qual o objetivo desse teste? Quem executa? Elabore um checklist dos pontos de verificações abordados durante os testes de aceitação.

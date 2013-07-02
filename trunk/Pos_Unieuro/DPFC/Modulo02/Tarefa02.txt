@@ -1,0 +1,13 @@
+Tarefa do Módulo 02 (4,0 pontos)
+
+1) Escolha um padrão catalogado pela gangue dos quatro que não tenha sido detalhado em nossa aula 2 e descreva as características abaixo.
+
+
+Nome:
+Intenção:
+Motivação:
+Aplicabilidade:
+Estrutura:
+Participantes
+Colaboração
+Consequências

@@ -1,0 +1,7 @@
+Tarefa do Módulo 01 (4,0 pontos)
+
+Com base no primeiro princípio de projeto: "Programe para uma interface, não para uma implementação". 
+
+01) Explique o que é programar para uma interface. 
+
+02) Explique o que é programar para uma implementação.
