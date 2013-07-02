@@ -1,0 +1,2 @@
+1) Defina Componente e Objeto. Quais são as diferenças básicas entre os dois
+conceitos?

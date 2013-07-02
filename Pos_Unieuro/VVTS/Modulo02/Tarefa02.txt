@@ -1,0 +1,2 @@
+Tarefa do Módulo 02 (3,0 pontos)
+1) Elabore um checklist para verificação do Plano de Teste conforme a leitura complementar. (Elabore no mínimo 07 itens a serem verificados).

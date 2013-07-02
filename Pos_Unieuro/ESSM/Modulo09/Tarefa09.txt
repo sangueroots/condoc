@@ -1,0 +1,5 @@
+Tarefa do Módulo 09 (5,0 pontos)
+
+1) A equipe A encontrou 342 erros durante o processo de engenharia de software anterior a entrega. 
+A equipe B encontrou 184 erros. Que informações ainda seriam necessárias para avaliar qual das equipes eliminou erros mais eficientemente? 
+Que métrica(s) poderia(m) ser utilizada(s) para realizar tal avaliação? Justifique sua resposta.

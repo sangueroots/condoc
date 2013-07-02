@@ -1,0 +1,4 @@
+Tarefa do Módulo 02 (5,0 pontos) 1) 
+Com base na aula 02 e no texto “IEEE Recommended Practice for Software Requirements Specifications”, 
+determine se a característica de “modificabilidade” (Suscetível a mudanças) da especificação de requisitos é importante para a evolução do desenvolvimento de um software? 
+Justifique sua resposta.

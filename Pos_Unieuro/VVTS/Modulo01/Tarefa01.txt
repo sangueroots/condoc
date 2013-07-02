@@ -1,0 +1,4 @@
+Tarefa do Módulo 01 (3,0 pontos)
+1) Justifique porque o teste é necessário?
+
+2) Descreva alguma experiência com “bug” que tenha passado ou tenha conhecimento.

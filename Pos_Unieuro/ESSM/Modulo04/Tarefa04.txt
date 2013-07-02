@@ -1,0 +1,4 @@
+Tarefa do Módulo 04 (5,0 pontos)
+
+3)	Com base no conteúdo e textos complementares das aulas 03 e 04, identifique a importância do build automático e sua correlação com a gerência de configuração. 
+Justifique sua resposta.

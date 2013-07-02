@@ -1,0 +1,1 @@
+1) Defina Biblioteca de Classes OO e Framework. Quais são as diferenças entre os dois conceitos?
