@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=numeroLados\ base\ altura
+comment0.target=Poligonos(int,\ double,\ double)
+comment1.params=
+comment1.target=int\ getNumeroLados()
+comment2.params=numeroLados
+comment2.target=void\ setNumeroLados(int)
+comment3.params=
+comment3.target=double\ getBase()
+comment4.params=base
+comment4.target=void\ setBase(double)
+comment5.params=
+comment5.target=double\ getAltura()
+comment6.params=altura
+comment6.target=void\ setAltura(double)
+comment7.params=base\ altura
+comment7.target=double\ calculaArea(double,\ double)
+numComments=8

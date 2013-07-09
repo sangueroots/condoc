@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=numeroLados\ base\ altura
+comment0.target=Retangulo(int,\ double,\ double)
+comment1.params=base\ altura
+comment1.target=double\ calculaPerimetro(double,\ double)
+comment2.params=base\ altura
+comment2.target=double\ calculaArea(double,\ double)
+numComments=3

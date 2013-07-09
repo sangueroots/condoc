@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=double\ getBase()
+comment1.params=base
+comment1.target=void\ setBase(double)
+comment2.params=
+comment2.target=double\ getAltura()
+comment3.params=altura
+comment3.target=void\ setAltura(double)
+comment4.params=base\ altura
+comment4.target=TrianguloEquilatero(double,\ double)
+comment5.params=
+comment5.target=double\ calculaPerimetro()
+comment6.params=
+comment6.target=double\ calculaArea()
+numComments=7
