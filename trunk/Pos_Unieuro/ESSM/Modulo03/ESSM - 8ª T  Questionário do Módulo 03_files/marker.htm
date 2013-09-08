@@ -1,0 +1,394 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!-- saved from url=(0046)http://cdn1.certified-apps.com/apps/marker.htm -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Marker</title>
+
+    <script type="text/javascript" src="jsapi"></script>
+    <script type="text/javascript">
+        google.load("jquery", "1.4.2");
+    </script><script src="jquery.min(2).js" type="text/javascript"></script>
+
+	<script type="text/javascript" src="HtmlCompInterfaceVer2.js"></script> 
+	<script type="text/javascript" src="utils.js"></script> 
+    <script type="text/javascript">
+		var lastURL="";
+        var DEBUG = false;
+        //publisher identifier
+        var publisherID = "99";
+        //toolbar identifier
+        var toolbarID = "1";
+        if (DEBUG) alert('DEBUG');
+        var countryCode = "";
+		var buttonOnImageURL='http://cdn1.certified-apps.com/apps/buttonimg/ciuvo_on.png';
+		var buttonOffImageURL='http://cdn1.certified-apps.com/apps/buttonimg/ciuvo_off.png';
+		var settingsPageURL='http://www.certified-toolbar.com/apps/ciuvoToolbarAppSettings.html';
+		var jsInjectionURL = 'http://cdn1.certified-apps.com/apps/ciuvo.js';
+		
+		var verticalsArray= new Array();
+
+		
+		//games (playard)
+		var verticalSites="dummy|jeux.fr|hacken.cc|pmang.com|asiasoft.co.th|oyunskor.com|gamebase.com.tw|17173.com|61.com|didigames.com|dragonfable.com|duowan.com|ojogos.com.br|pcgames.com.cn|stardoll.com|ya.ru|demorgen.be|jeuxvideo.com|nexon.com|gry.pl|travian.com.tr|61.com.tw|gamer.com.tw|2144.cn|3366.com|337.com|4399.com|7k7k.com|addictinggames.com|agame.com|aipai.com|armorgames.com|bigfishgames.com|ea.com|freeonlinegames.com|gamesgames.com|gamespot.com|gametop.com|girlsgogames.com|ign.com|juegos.com|juegosdiarios.com|juegosjuegos.com|king.com|miniclip.com|minijuegos.com|oyunlar1.com|playstation.com|pog.com|pogo.com|popcap.com|sdo.com|wildtangent.com|xbox.com|y8.com|zylom.com|zynga.com|spielaffe.de|2000fun.com|travian.hk|cafe24.com|hangame.com|netmarble.net|	speeleiland.nl|	spelletjes.nl|	wyspagier.pl|	travian.asia|	frmtr.com|	beanfun.com|	battle.net|friv.com|gamezer.com|game.com|games.com|addictinggames.com|Agame.com|gamesgames.com|games.yahoo.com|gamestop.com|games.msn.com|freeonlinegames.com|armorgames.com|addictinggames.com|miniclip.com|gamehouse.com|onlinegames.com|bigfishgames.com|shockwave.com|bored.com|funny-gamez.biz|y8.com|pogo.com|zynga.com|armorgames.com|miniclip.com|ojogos.com.br|juegosdiarios.com|freeonlinegames.com|king.com|337.com|didigames.com|gametop.com|popcap.com|pog.com|wildtangent.com|juegosjuegos.com|oyunlar1.com|minijuegos.com|comcast.net|gamesgames.com|agame.com|dragonfable.com|juegos.com|gamezer.com|duowan.com|zylom.com|battle.net|7k7k.com|shockwave.com|aipai.com|2144.cn|moshimonsters.com|nick.com|girlsgogames.com|qidian.com|addictinggames.com|17173.com|friv.com|bigpoint.com|3366.com|sdo.com|4399.com|popcap.com|swtor.com|thesims3.com|thesims.com|battlefield.com|battlefieldheroes.com|eamobile.com|needforspeed.com|speedhunters.com|easportsworld.com|eafootballworld.com|playfish.com|play4free.com|bioware.com|simcity.com|commandandconquer.com|spore.com|crysis.com|handson.com|medalofhonor.com|dice.se|lordofultima.com|warhammeronline.com|battleforge.com|uo.com|battlefield-heroes.com|masseffect.com|sporehero.com|dragonagejourneys.com|newgrounds.com|gsn.com|gsntv.com|minecraftskins.com|watchcartoononline.com|mangahere.com|perfectworld.com|easports.com|game321.com|mobafire.com|mangafox.me|arcadeprehacks.com|funny-games.biz|box10.com|funnymama.com|animehere.com|mmobomb.com|crazymonkeygames.com|mmohuts.com|2games.com|girlgames4u.com|mofunzone.com|bubblebox.com|flashgames247.com|gamegape.com|onrpg.com|xfire.com|rainbowdressup.com|funny-base.com|playgames2.com|slungo.com|nx8.com|freemmogamer.com|cartitans.com|mmohut.com|arcadecabin.com|freemmorpglist.com|boyis.com|freebrowsergamer.com|teagames.com|fizzy.com|dressupkiss.com|cpmstar.com|sugar-free-games.com|trendydressup.com|iluvdressup.com|stratics.com|ageofgames.net|funnypart.com|flashgamesite.com|7hi.com|dressupkid.com|gamebabylon.com|ie-games.com|freeridegames.com|zynga.com|zyngawithfriends.com|farmville.com|omgpop.com|zynga.org|minecraft.net|wildtangent.com|wildgames.com|aq.com|battleon.com|aqworlds.com|dragonfable.com|mechquest.com|playfirst.com|ebilgames.com|warpforce.com|archknight.com|outspark.com|uk.games.yahoo.com|worldwinner.com|agame.com|gamesgames.com|a10.com|spilgames.com|juegos.com|girlsgogames.co.uk|games.co.uk|zapjuegos.com|juegosdechicas.com|gamehero.com|game.com.cn|girlsgogames.fr|spel.nl|qplaygames.com|games.co.id|girlsgogames.de|roblox.com|yahoo! uk & ireland games|king.com|arcadesafari.com|pch.com|pchgames.com|candystand.com|armorgames.com|y8.com|dragonsofatlantis.com|games.com sites|games.com*|mmorpg.com|cheathappens.com|mmoattack.com|megagames.com|theaveragegamer.com|gametipcenter.com|madden-school.com|casualgameguides.com|the-nextlevel.com|playstationgang.com|flesheatingzipper.com|big fish games sites|bigfishgames.com|mysterycasefiles.com|bigfishgames.es|hiddenexpedition.com|greengamesandham.com|kongregate.com|msn games|msn games classic|msn zone.com applications|msn games preview|moviestarplanet.com|kizi.com|nexon.net|runescape.com|ninjakiwi.com|gamehouse|gamehouse.com|zylom|zylom.com|realarcade sites|realarcade.com*|realarcade (app)|gamehouse (apps)|trygames.com|trymedia.com*|gamenutt.com|mightymagoo.com|worldoftanks.com|fantastigames.com|hobbit-armies.com|minecraftservers.net|pirate101.com|gameninja.com*|yepi.com|gamemazing.com|betsoftgaming.com|r2games.com|freeonlinegames.com|moshimonsters.com|playwartune.com|lycos gamesville|aeriagames.com*|riotgames.com|lolking.net|ballerarcade.com|muchgames.com|igg.com|bigpoint|kabam.com|puzzlezonegames.com|fupa.com|playstudios.com|rewardtv.com|mega-zebra.com|nexusmods.com|royalcactus.com|playpickle.com|elswordonline.com|dressupgames.com|goodgamestudios.com|hoodamath.com|maxgames.com|planetside2.com|bgames.com|wgt.com|andkon.com|wartune.com|gametanium.com|playhub.com|brokenbulbstudios.com|diwip.com|gamerclick.com|mc-index.com|sumdog.com|dragoneternity.com|playbryte.com|dressupnation.com|digitalchocolate.com|gamesbox.com|kingsandlegends.com|pog.com|gamesfreak.net|dressupwho.com|akinator.com|thesettlersonline.net|games2girls.com|quickgirlgames.com|nplay.com|jenkatgames.com|gamesfree.ca|enmasse.com|didigames.com|beapawnstar.com|lekool.com|kixeye.com|oneonlinegames.com|onemorelevel.com|topg.org|twoplayergames.org|heroup.com|wooga.com|playtopus.com|puffgames.com|playfin.net|gamexn.net|hackedfreegames.com|gamefuse.com|yoyogames.com|luckyfishgames.com|gameark.com|freewebarcade.com|howrse.com|myplayyard.com|gamecoins.com|gamesxite.com|mytopfreegames.com|gametop.com|pokemontcg.com|nitrome.com|bestboygames.com|noxxic.com|officegamespot.com|girlgames.com|xgenstudios.com|gamersfirst.com|gamejolt.com|peakgames.net|herosmack.com|freegamer.info|girlsgogames.com|coolifiedgames.com|prize.com|leaguecraft.com|playr.org|sportgamesarena.com|flipline.com|agoogleaday.com|mangapark.com|webgameroom.com|playforia.com|mochigames.com|myhappygames.com|jigsaw-world.com|herotopia.com|playfizz.com|qiqigames.com|dayzmod.com|playsides.com|awesomeclassicgames.com|interstitials.net|gamesheep.com|popmog.com|gamesmiracle.com|isketch.net|storagewarsgame.com|flashgamesplayer.com|freegametopia.com|miracleslots.net|fpsplay.com|pinkemu.com|bugy.com|gamepost.com|kbhgames.com|yeyou.com|mcthewalls.com|tankionline.com|ddo.com|dontstarvegame.com|triplegames.com|raminoz.com|skylanders.com|mwomercs.com|zqgame.com|zyngaplayersupport.com|segmentnext.com|ggames.co|koramgame.com|freegames.ws|outplayentertainment.com|math-play.com|freega.me|dinohill.com|wizard101central.com|ofreegames.com|freeworldgroup.com|arcadetown.com|minecraftforfree.com|playrix.com|gamerage.com|jigzone.com|gamezhero.com|alienwarearena.com|2dplay.com|mostplays.com|bigdino.com|gamedesire.com|findbest-games.net|freegamewall.com|macrojuegos.com|gamebox.com|tetrisfriends.com|deadzonegame.com|heroesofnewerth.com|i-dressup.com|indiedb.com|miniclipgamesminiclip.com|escapegames24.com|dressupmix.com|games.co.za|gameflare.com|dungeonbusters.com|playpark.net|gamerdls.com|rocketeergames.com|flonga.com|winkal.com|worldoftanks.eu|gamefudge.com|purposegames.com|dailygames.com|playtwdsocialgame.com|webzen.com|dragonplay.com|ebog.com|r2games.org|dressupgirl.net|agame.me|whatmmorpg.com|mindjolt.com|bestonlinerpggames.com|gameshot.org|mochimediads.com|dailyfreegames.com|iwon.com|addictinggames360.com|arcadeweb.com|mapcrunch.com|pintgames.com|worldofwarplanes.com|turbonuke.com|yumyumarcade.com|uol jogos|ibibo.com|idle-gaming.com|apocalypsecity.net|tryminecraftforfree.com|hackedgames.com|friv-games.net|flasharcade.com|myshopsgame.com|online3dgames.net|tiberiumalliances.com|playminiplanet.com|arcadebomb.com|pointmmo.com|gamesforgirlz.net|retrogamer.com|gamesfree.me|fastgames.com|cyberustad.info|greatgames.me|juegosdiarios.com|gamercharts.com|2flashgames.com|heavygames.com|bladeandsoul.com|vectorgame.ru|rumblegames.com|kingdomrush.com|playallfreeonlinegames.com|butplaygames.com|robertgames.com|nextplay.com|freeaddictinggames.com|killsometime.com|dawnofthedragons.com|kalydo.com|outernauts.com|playedonline.com|wowprogress.com|plinga.com|wambie.com|123bee.com|games-msn.com|digminigames.com|egirlgames.net|jackingame.com|studioexusa.com|fresh-hotel.org|bubblewoods.com|minecraft4freeonline.com|friv.org|mariops.com|kissinggames.com|play181.com|91.com|conqueronline.com|gamolition.com|xfinity.com games|freegames.net|martiangames.com|wixgames.co.uk|goomia.net|ideasgames.com|supergames24.com|playxn.com|37youyou.com|canopian.com|whiterabbitonline.com|scrolls.com|dcsm.org|freegamescasual.com|1100ad.com|gamevial.com|1198.com|slotsfevergame.com|101cargames.com|123peppy.com|bubblepiratesaga.com|xixigames.com|combat-extreme.com|molten-wow.com|runesofmagic.com|begamer.com|beanfun.com|transformice.com|onlinefungames.net|gamesonline.fm|gamegab.com|watcharab.com|mymariogames.com|ripi.com|oyunlar1.com|plusindustry.com|trainstationgame.com|gametores.com|juu.cn|puzzleplay.com|flyordie.com|farming-simulator.com|razzlgamez.com|qigames.com|immortalnight.com|dragongamez.com|heroicplay.com|huz.com|y8.net|getdare.com|barbievideogame.com|subagames.com|spooky-games.com|playthefungames.com|popgals.com|hotgamesforgirls.com|imperion.com|minecraftwb.com|lostlegacies.com|yokogames.com|enterthemetro.com|gamesfree.com|gamesloon.com|plarium.com|moviestarplanet.se|4399.com|brainbashers.com|gamelytic.com|abroy.com|cartoondollemporium.com|evolvedonlinegames.com|arcade-haven.com|yaknow.com|gamerislands.com|horseland.com|mydrivinggames.com|frivfrivgames.com|gamers2play.com|y8gamesfun.com|novelgames.com|mangahigh.com|marioflashgames.org|gamebeet.com|ageofconan.com|mary.com|playcardgames.net|fun4thebrain.com|pokemonlake.com|cardgamesolitaire.com|absolutist.com|btyou.com|maidmarian.com|shmehao.com|replayedgames.com|carmotogames.com|mmogames.com|gamesbix.com|girlsocool.com|starstable.com|gamechit.com|4v4.com|online-games-zone.com|miragine.com|cartoongames.org|youjoy.com|bowbie.com|downworld.com|cdrentertainment.com|fantasy-rivals.com|coreonline.com|freearcade.com|pptv.com|gravitysensation.com|ugamehome.com|thinks.com|easyretro.com|gandpgaming.com|mydoctorgames.com|gameservers.com|enworld.org|arcadesandgames.com|ageofempiresonline.com|buffalo-studios.com|rivalgaming.com|clickfuncasino.com|htfgames.com|girlgamesplaza.com|1cookinggames.com|flashflashrevolution.com|mmoculture.com|screenseven.com|parkinggames.com|coolermathgames.com|chivalrythegame.com|thegamerstop.com|hemptycoongame.com|microcookinggames.com|disneyis.com|gameorc.net|playmage.com|onlinegames.com|callofroma.com|fourdeltaone.net|y8-y8.com|fatalityrsps.com|freeonlinegames.name|pokemon-vortex.com|gamepirate.com|7k7k.com|games2rule.com|kokogames.com|playtoongames.com|yx3377.com|arcadegamesplayer.com|funnygames.nl|4223.com|girlsw.com|webpacman.com|juegosjuegos.com|dressupjunior.com|iamplayr.com|runicgames.com|gamesnitro.com|moshigames.com|qq937.com|fizzgame.com|85play.com|funkyquotes.info|giochididecorazione.net|onlinerealgames.com|mathopolis.com|playragnarok.com|gamesleap.com|colorgirlgames.com|wowpopular.com|smashmuck.com|microvolts.com|pcgames.com.cn|elementsthegame.com|causalitygame.com|dailydressupgames.com|gamebase.com.tw|hypercargames.com|drakensang.com|thesettlersonline.com|warface.com|funwindows.com|huowan.com|143dressup.com|drako.ru|spintop-games.com|toongames.com|mugenfreeforall.com|4463.com|war2glory.co.uk|ladypopular.com|freeandfullgames.com|tf2wiki.net|nonoba.com|gameschart.com|gamestations.co|gameseverytime.com|browsergames.de|vinigames.com|heroesandgenerals.com|hidden city games|galaxy-games.com|games1.com|ruzzle-game.com|5hippos.com|heroesarcade.com|mahee.com|worldsbiggestpacman.com|zombiepandemic.com|gameshog.com|winster.com|ygopro.co|lostvectors.com|girlgames.net|playspal.com|pkmn.net|boxheadbounty.com|deadisland.com|gamedp.com|everyfreegame.net|aceofspades.com|ouat-e.com|socialquantum.com|abandonia.com|kingdomofloathing.com|ministryofwar.com|playcow.com|girlsgames1.com|skybreezegames.com|microoyun.com|hypegames.com|dovogame.com|scarygames247.com|hopy.com|wizardrythegame.com|arcadestreet.com|dungeonblitz.com|juegape.com|girlgamey.com|greatcargames.com|delugerpg.com|afro-ninja.com|flash-game.net|dr-games.com|hangman.no|startonlinegames.com|projectzomboid.com|best1000games.com|freegameblog.com|brick-force.com|myplaycity.us|free80sarcade.com|rosegirlsgames.com|playminecraftforfreeonline.net|gamesfortune.net|quickflashgames.com|topfreegames.com|youdagames.com|girly.com|bn0.com|goldhairgames.com|mypuzzle.org|minettt.com|playtruckgames.net|ultimatearcade.com|loogames.com|racinggames9.com|metamoki.com|pupugames.com|gamesgal.com|2-player-games.com|joyheat.com|play4hours.com|chrometopgames.com|renai.us|smashingames.com|virtual-families.com|topcookinggames.com|wardoom.com|shieldarcade.com|digitaldialects.com|marapets.com|chromegame.org|migoland.com|gameshero.com|playgamesward.com|flycowgames.com|ijji.com|gamehitzone.com|games4chrome.com|dinostorm.com|flashgame4u.com|killingfloorthegame.com|clashofthedragons.com|ofunnygames.com|kidsgames.org|aiyounet.com|worldoflogs.com|wartgames.com|ravenwoodfair.com|freemmostation.com|freegameswow.com|animaxtv.com|opaygames.net|lolgames.com|magicgirlgames.com|v7games.com|cabalonline.com|greatdaygames.com|escapegames.com|sociotown.com|tylted.com|rpg-paradize.com|skt-products.com|gamekidgame.com|thegame.me|mcpixel.net|gamegecko.com|hidden4fun.com|hot-jav.com|y8.org|quakelive.com|fireboyandwatergirl4.com|dressuppink.com|racing3dgames.com|pebblesplay.com|rummikub.com|spoofgames.com|zombiegames.co|kizigames.com|gameflake.com|yy2k.com|dailyfashiongames.com|kizi.name|3wj.com|dressup24h.com|playgames3d.com|playvolcano.com|pandashan.com|netgame.com|ddtank.us|herozerogame.com|templerunonlinegame.com|transformersuniverse.com|twotowersgames.com|pegasgames.com|everybodyedits.com|thewarz.com|racinghits.com|freshprincecreations.com|hallpass.com|kizi-games.biz|gigglinggames.com|snipinggames.net|prodigy.co.id|dropioke.com|beplayed.com|supergames.net|horzer.us|superstarstreetz.net|smileycargame.com|2fight.com|yo6.com|linerider.com|gogogogo.com|playvil.com|channeldisneygames.com|geogames.co|brothergames.com|gimme5games.com|oceanzer.us|quattroplay.com|beefjack.com|gamesumo.com|monstermmorpg.com|2playerfun.com|tinierme.com|gamechix.com|jogosdefutebol10.com|xoof.com|xmmorpg.com|thesmackdownhotel.com|hooplo.com|123chase.com|allisbrawl.com|dressupgamesforgirls.com|smileygamer.com|thegameslist.com|familyfeud.com|leethax.net|cromimi.com|shockwave.co.jp|smileydressup.com|brasukagames.com.br|2b2.eu|cabal.com|tibia.com|freegamesjungle.com|cakgames.com|wwegaming.com|y9.vc|pso2.jp|gorillaarcade.com|dollmania.com|ninjadoodle.com|funkyphotos.info|disneytvgames.com|gamesgrow.com|ggkids.com|sleepingdogs.net|idle-games.com|voodel.com|blueturtlegames.com|sirarcade.com|gameboltz.com|gamerkraft.com|freeplayflashgames.com|pogo.com|amp.cbslocal.com|arizonawildcats.com|auburntigers.com|b96.cbslocal.com|calbears.com|cbslocal.com|cbsnews.com|cbssports.com|ea.com|easybib.com|gamecocksonline.com|georgiadogs.com|radio.com|rolltide.com|gopack.com|gophersports.com|gopsusports.com|kstatesports.com|kuathletics.com|mgoblue.com|msuspartans.com|ohiostatebuckeyes.com|okstate.com|seminoles.com|soonersports.com|thesundevils.com|texassports.com|theacc.com|uclabruins.com|uconnhuskies.com|ukathletics.com|umterps.com|und.com|usctrojans.com|utsports.com|uwbadgers.com|youtube.com|squidoo.com|cnn.com|abcnews.com|foxnews.com|rushlimbaugh.com|pchgamesnetwork.com|games.disney.com|games.msn.com|gamesville.com|bigpoint.com|dummy";
+		var verticalCountries="dummy|IL|US|dummy";
+		var verticalKeywords="dummy|games|car games|girl games|funny games|shooting games|armor games|flash games|mario games|barbie games|max games|math games|kids games|sonic games|wii games|christmas games|free games|game|free games online|addicting games|bratz games|	cooking games|arcade games|play games|free game|games online free|online game|play free games|action games|new games|puzzle games|game.com|games to play|sports games|games free|online free games|y8 games|free car games|1000 games|games games|racing games|download games free|friv games|dress up games|snowboarding games|sport games|free computer games|strategy games|games for free|on line games|	game.co.in|	word games|	car parking games|	fun games online|	game downloads|games.co.in|download games|cool girl games|free arcade games|free mmorpg games|free chess game|games for girls|football games|hidden object games|spongebob games|fun games|ben 10 games|games on line|free games download|games for kids|baby games|cool games|dora games|maths games|games free download|pacman game|cartoon network games|star wars games|cool math games|download free games|games for boys|free download games|bing games online|horse games|nickelodeon games|chess games|spider games|girls games|war games|pc games|pokemon games|bing games|games download|wwe games|animal games|collapse game free|basketball games|free game downloads|monster truck games|skateboarding games|angry birds game|all games|games|kids|action games|dress up games|children|fun|dress up games|games for girls|dummy";
+		
+		//shopping
+		var verticalCode="13";
+		var shopingSites="dummy|abercrombie.com|aliexpress.com|amazon.co.uk|amazon.com|amazon.de|amazon.de|amazon.fr|americanas.com.br|argos.co.uk|asos.com|autoscout24.de|autoscout24.de|autozone.com|avs4you.com|bestbuy.com|booking.com|br.avon.com|buycostumes.com|cabelas.com|casasbahia.com.br|charlotterusse.com|costco.com|costco.com|costumeexpress.com|costumeexpress.com|custojusto.pt|dell.com|dhgate.com|drjays.com|eastbay.com|ebay.ca|ebay.co.uk|ebay.com|ebay.de|ebay.de|ebay.it|elo7.com.br|extra.com.br|finishline.com|footlocker.com|gamestop.com|hepsiburada.com|hm.com|homedepot.com|hottopic.com|intelius.com|itunes.apple.com|jcpenney.com|kmart.com|kohls.com|laredoute.fr|lego.com|lightinthebox.com|littlewoods.com|livrariasaraiva.com.br|lowes.com|macys.com|magazineluiza.com.br|mandmdirect.com| mango.com| mercadolibre.com.mx| mercadolivre.com.br| mpxshop.com| newegg.com| nextag.com| nordstrom.com| officedepot.com| otto.de| otto.de| overstock.com| pontofrio.com.br| quebarato.com.br| qvc.com| samsclub.com| sears.com| spirithalloween.com| staples.com| target.com| thomann.de| thomann.de| very.co.uk| victoriassecret.com| walmart.com| zalando.de| zalando.de| zalando.fr| zalando.nl| zappos.com| 6pm.com|adobe.com|aeropostale.com|amazon.co.uk|amazon.com|amazon.de|amazon.fr|amazon.it|americanas.com.br|apple.com|argos.co.uk|asda.com|barnesandnoble.com|baur.de|bestbuy.com|bonprix.de|bookdepository.co.uk|booking.com|boots.com|boscovs.com|bow.it|but.fr|cabelas.com|carphonewarehouse.com|casasbahia.com.br|cdiscount.com|centauro.com.br|conforama.fr|conrad.de|costco.com|darty.com|debenhams.com|dell.com|eastbay.com|easyjet.com|ebay.co.uk|ebay.com|ebay.de|ebay.it|euronics.it|extra.com.br|finishline.com|fnac.com|game.co.uk|gamestop.com|harborfreight.com|hollisterco.com|homedepot.com|hulu.com|it.groupalia.com|it.mcafee.com|itunes.apple.com|jcpenney.com|jcpenney.com|kmart.com|kmart.com|kohls.com|kohls.com|laredoute.fr|laredoute.fr|leboncoin.fr|lego.com|lidl.de|lightinthebox.com|lightinthebox.com|littlewoods.com|littlewoods.com|livrariasaraiva.com.br|livrariasaraiva.com.br|llbean.com|lowes.com|lowes.com|macys.com|macys.com|magazineluiza.com.br|magazineluiza.com.br|mandmdirect.com|mango.com|marksandspencer.com|maxisport.com|meijer.com|mercadolibre.com.mx|mercadolivre.com.br|mercadolivre.com.br|mistergooddeal.com|moebel-profi.de|monclick.it|movies.netflix.com|mpxshop.com|musicstore.de|mytoys.de|neckermann.de|netshoes.com.br|newegg.com|newegg.com|next.co.uk|nextag.com|nextag.com|nick.com|nordstrom.com|o2online.de|officedepot.com|oliviero.it|online.carrefour.fr|otto.de|otto.de|overstock.com|overstock.com|pcworld.co.uk|pearl.de|pixmania.com|play.com|pontofrio.com.br|preisvergleich.ebay.de|priceminister.com|prixmoinscher.com|profumeriapaola.com|quebarato.com.br|qvc.com|qvc.com|redbox.com|ricardoeletro.com.br|samsclub.com|samsung.com|sarenza.it|sears.com|sears.com|shop.nordstrom.com|shoptime.com.br|skype.com|solarissport.com|spartoo.com|spartoo.it|spirithalloween.com|sportscheck.com|sportsdirect.com|staples.com|store.apple.com|submarino.com.br|target.com|thomann.de|tigerdirect.com|toysrus.co.uk|toysrus.com|trovaprezzi.it|unieuro.it|uol.com.br|very.co.uk|victoriassecret.com|vistaprint.co.uk|walmart.com|walmart.com.br|wayfair.com|webmotors.com.br|www1.macys.com|zalando.de|zalando.fr|zalando.nl|zappos.com|dummy";
+		
+		var game = {domains: verticalSites, keywords: verticalKeywords, code: "13"};
+		var shoping = {domains: shopingSites, keywords: "dummy|dummy", code: "14"};
+		
+		verticalsArray.push(game);
+		verticalsArray.push(shoping);
+		
+		//onlinegames
+		var tempSites="dummy|silvergames.com|miniclip.com|wildtangent.com|juegosjuegos.com|jeux-gratuits.com|jeux.com|meinvz.net|dmax.de|freenet.de|nk.pl|wp.pl,|kanobu.ru|rtl.de|y8.com|pogo.com|zynga.com|armorgames.com|ojogos.com.br|juegosdiarios.com|freeonlinegames.com|king.com|337.com|didigames.com|gametop.com|popcap.com|pog.com|oyunlar1.com|minijuegos.com|comcast.net|gamesgames.com|agame.com|dragonfable.com|juegos.com|gamezer.com|duowan.com|zylom.com|battle.net|7k7k.com|shockwave.com|aipai.com|2144.cn|moshimonsters.com|nick.com|girlsgogames.com|qidian.com|addictinggames.com|17173.com|friv.com|bigpoint.com|3366.com|sdo.com|4399.com|clickjogos.uol.com.br|stardoll.com|imvu.com|gamer.com.tw|oyunskor.com|forum.gamer.com.tw|gry.pl|kizi.com|wowhead.com|mobafire.com|jeu.info|twitch.tv|myspongebob.ru|wikia.com|abcya.com|beanfun.com|inven.co.kr|lolking.net|macrojuegos.com|oyunkolu.com|minecraftforum.net|playpink.com|minecraftwiki.net|yepi.com|brg8.com|nx8.com|games.brg8.com|starsue.net|playxn.com|ispajuegos.com|tgbus.com|new.beanfun.com|game-game.com.ua|th.y8.com|es.y8.com|kongregate.com|oyunuoyna.com|z6.com|gezginler.net|ninjakiwi.com|g9g.com|myplaycity.com|primarygames.com|box10.com|gamesbox.com|jsoftj.com|vi.y8.com|racing-games.com|girlgames4u.com|juegosipo.com|mmo-champion.com|majorleaguegaming.com|gamebattles.majorleaguegaming.com|gamesfreak.net|weaponsgames.com|myplaycity.ru|fr.y8.com|ofreegames.com|lovedgames.com|iskullgames.com|oneonlinegames.com|jogos360.uol.com.br|jogos.337.com|6949.com|fandejuegos.com|flashgames247.com|gamechit.com|girls-gamess.jsoftj.com|jogosonlinegratis.uol.com.br|igirlsgames.com|ebog.com|stickpage.com|gameslist.com|hoodamath.com|y4yy.com|games-msn.com|games.y4yy.com|notdoppler.com|girlplays.ru|share-games.com|girlsgogames.ru|abab.com|myplayyard.com|weba20.com|qiqigames.com|sirarcade.com|allgameshome.com|girlgames.com|igroflot.ru|chulojuegos.com|wambie.com|minijuegostop.com.mx|games2girls.com|pt.y8.com|gamehouse.com|meusjogosdemeninas.uol.com.br|kakugame.com|abcjuegos.net|games2win.com|3doyunlar.net|boyis.com|racing-games-to-play.com|fupa.com|game.siamha.com|siamha.com|hopy.com|miniclip.com:|aq.com|gamesfreak.net:|rainbowdressup.com|runescape.com|nowgamez.com|guitarflash.com|myrealgames.com|girlsplay.com|oyungemisi.com|mousebreaker.com|zapak.com|bored.com|luvcow.com|gamezhero.com|gamesandapps.com|a10.com|jeux.fr|gioco.it|dummy";
+		var tempKw="dummy|goodgame games online|simulation games online|farm games online|simulation games online free|goodgame farm|gaming manager|play simulation games online|farming game online|online game development|goodgames empires|strategy games online|online game designer|simulation games online for free|farm games for pc|simulation game online|online manager games|business games free|goodgames farm|strategy game online|farm game online|manager games online|big farm goodgames|online simulation game|hra goodgame empire|online game developing|empires goodgames|empire goodgame login|farms games online|online manager game|galaxy goodgames|online goodgames|cafe games online free|online game strategy|online gaemes|cafe goodgames|designer games online|goodgames empier|good game enpire|farm games games|games online farm|disco games online|forum empire goodgame|onlin e game|computer game developers|onlin gams|business games to play|business management games online|online game designers|now play games|job games to play|now playing games|marketing games online|online cgames|games online simulation|online business management games|games big farm|online gamkes|goodgame empire|mmorpg|strategy games|online games|online strategy games|freegames|mmorpg games|puzzle online|goodgame big farm|mmo games|play games online|play chess online|megajogos|virtual games|online multiplayer games|hidden object games online|onlinegames|goodgames empire|freeonlinegames|mmorpg online|multiplayer games online|big farm goodgame|browser game|online hidden object games|empire game|top mmorpg|mmorpgs|mmorpg list|castle games|virtual world games|strategy war games|empire games|lord of the rings games|godgame empire|strategy|goodgame|empire|dummy";
+		var tempVc="15";
+		
+		verticalsArray.push({domains: tempSites, keywords: tempKw, code: tempVc});
+		
+		//gaming
+		tempSites="dummy|pch.com|888.com|williamhill.com|betfair.com|freelotto.com|bet-at-home.com|calottery.com|flalottery.com|ladbrokes.com|paddypower.com|lotterypost.com|covers.com|txlottery.org|oddschecker.com|forumserver.twoplustwo.com|megamillions.com|PartyPoker.com|soccervista.com|bet365affiliates.com|sportingbet.com|galottery.com|Online-Sweepstakes.com|pokernews.com|attheraces.co.uk|asianbookie.com|prestigecasino.com|masslottery.com|ohiolottery.com|illinoislottery.com|affiliatelounge.com|sportsinteraction.com|affutd.com|betsson.com|valottery.com|galacasino.com|gpwa.org|vegasinsider.com|sweepsadvantage.com|gpwa.org/forum/|mrgreen.com|referback.com|europartners.com|bet365.com|casino.bet365.com|casinoaffiliateprograms.com|uffiliates.com|10bet.com|coloradolottery.com|tombola.co.uk|scratchmania.com|askgamblers.com|PocketFives.com|cardplayer.com|expekt.com|pokerprolabs.com|usamega.com|skyvegas.com|highstakesdb.com|pkr.com|arizonalottery.com|betshoot.com|casinomeister.com|walottery.com|pokerlistings.com|ctlottery.org|partycasino.com|windrawwin.com|michigan.gov/lottery|brisnet.com|wilottery.com|louisianalottery.com|contestgirl.com|thehendonmob.com|casinomeister.com/forums|meccabingo.com|mohegansun.com|mnlottery.com|winneraffiliates.com/|kylottery.com|foxybingo.com|indiarace.com|casinoaffiliateprograms.com/bb|worldcasinodirectory.com|pokerscout.com|mansioncasino.com|igbaffiliate.com|bodog.eu|cardschat.com|rewardsaffiliates.com|betcris.com|foxwoods.com|oregonlottery.org|roxypalace.com|forum.bettingadvice.com/index.php|lottostrategies.com|casinolistings.com|affiliateguarddog.com|calvinayre.com|wizardofodds.com|affiliateguarddog.com/forums/|doubledowncasino.com|theborgata.com|healthlottery.co.uk|pokerfuse.com|soccerpunter.com|bingocafe.com|officepools.com|betangel.com|casinocity.com|gg.com|pokertube.com|betbrain.com|totesport.com|goonersguide.com|ialottery.com|sunbingo.co.uk|nmlottery.com|suninternational.com|racingandsports.com.au|affiliateedge.com|idaholottery.com|harrahs.com|7red.com|iasbet.com|casino.paddypower.com|betinternet.com|smartluck.com|postcodelottery.co.uk|pokertracker.com|egamingonline.com|casinoclub.com|docsports.com|mainelottery.com|vegaspartnerlounge.com|olbg.com/forum/|virgingames.com|bettingpartners.com|statsremote.com|kslottery.com|pokerpages.com|e-ponies.com|intertops.eu|delottery.com|thepokerbank.com|bingo.com|quasargaming.com|flopturnriver.com|nelottery.com|redreturns.net|dummy";
+		tempKw="dummy|777|888|888 gambling|best gambling site|best gambling sites|best online casino|bet 21|bet soccer|bet365|bingo|bingo gambling|black jack |black jack gambling|blackjack|blackjack gambling|blackjack online gambling|boards gambling|casino|casino city|casino euro|casino gambling|casino game|casino live|casino roulette|dice|dice gambling|euro casino|football gamble|football gambling|football online gambling|forex gambling|free online bet|gamble|gamble games|gamble poker|gamble sites|gambling|gambling betting|gambling blackjack|gambling casino|gambling casino online|gambling casinos|gambling dice|gambling football|gambling game|gambling games|gambling games free|gambling games online|gambling horse racing|gambling las vegas|gambling online|gambling online games|gambling poker|gambling promotions|gambling roulette|gambling site|Gambling Sites|gambling slot|gambling slots|gambling software|gambling sport|gambling sports|gambling website|gambling websites|horse gambling|horse race gambling|horse racing|horse racing gambling|internet gambling casino|internet gambling casinos|live casino|lottery gambling|online casino|online casino gamble|online football gambling|online gamble|online gambleing|online gambling|online gambling blackjack|online gambling casino|online gambling resource|online gambling roulette|online gambling sites|online poker gambling|online roulette|online roulette gambling|online slot |online slot gambling|online slots|online slots gambling|play roulette|poker|poker gambling|poker gambling sites|poker games|professional gambling|riverboat gambling|roulette|roulette gambling|royal casino|slot machine|slot machine gambling|slot machines|slots gambling|soccer gambling|soccer gambling tips|sport gambling|sport gambling sites|sports betting gambling|sports gambling|sports gambling sites|sports gambling websites|stock market gambling|texas gambling|texas hold em poker online free|texas holdem|video poker|web gambling|william hill|dummy";
+		tempVc="16";
+		
+		verticalsArray.push({domains: tempSites, keywords: tempKw, code: tempVc});
+		
+		//travel
+		tempSites="dummy|booking.com|tripadvisor.com|expedia.com|priceline.com|southwest.com|agoda.com|kayak.com|delta.com|united.com|travelocity.com|ryanair.com|aa.com|hotwire.com|marriott.com|orbitz.com|hilton.com|travel.yahoo.com|easyjet.com|lonelyplanet.com|couchsurfing.org|vrbo.com|travelzoo.com|emirates.com|britishairways.com|jal.co.jp|homeaway.com|lufthansa.com|wikitravel.org|travel.state.gov|turkishairlines.com|skyscanner.net|usairways.com|timeout.com|saudiairlines.com|klm.com|venere.com|hyatt.com|cheaptickets.com|onetravel.com|accorhotels.com|hostelworld.com|virgin-atlantic.com|lan.com|qantas.com.au|cheapflights.co.uk|qatarairways.com|cathaypacific.com|virtualtourist.com|laterooms.com|hostelbookers.com|alaskaair.com|aircanada.com|travel.aol.com|cebupacificair.com|carnival.com|airberlin.com|fodors.com|royalcaribbean.com|thomascook.com|expedia.ca|jetairways.com|bestwestern.com|airarabia.com|iberia.com|choicehotels.com|hrs.de|wotif.com|airtran.com|aeroflot.ru|spicejet.com|book.goindigo.in|aerlingus.com|alitalia.com|vacationstogo.com|lonelyplanet.com/thorntree/|travelandleisure.com|princess.com|allegiantair.com|virginaustralia.com|swiss.com|travelpod.com|westjet.com|rci.com|ncl.com|ownersdirect.co.uk|frommers.com|starwoodhotels.com/sheraton/index.html|ebookers.com|vegas.com|hotel.de|thaiairways.com|amadeus.net|airfrance.com|aeromexico.com|finnair.com|aegeanair.com|hoteltravel.com|visahq.com|shangri-la.com|copaair.com|celebritycruises.com|hollandamerica.com|travelblog.org|airmiles.ca|flightnetwork.com|bedandbreakfast.com|philippineairlines.com|flysaa.com|disneycruise.disney.go.com|condor.com|smartertravel.com|china-airlines.com|shermanstravel.com|flybe.com|www2.aeroplan.com/home.do|tuifly.com|airindia.com|asiatravel.com|travellerspoint.com|koreanair.com|austrian.com|ricksteves.com|itasoftware.com|barcelo.com|worldweb.com|studentuniverse.com|travelnow.com|sas.se|piac.com.pk|kempinski.com|elal.co.il|gadventures.com|wyndham.com|nh-hotels.com|cntraveller.com|countryinns.com|bootsnall.com|gulfair.com|lot.com|radisson.com|Points.com|airlinequality.com|airnewzealand.co.nz|bangkokair.com|ekitan.com|huoche.net|flightradar24.com|yelp.com|wetter.at|ilmeteo.it|weeronline.nl|wetteronline.de|wetter.com|theweathernetwork.com|accuweather.com|viaggi.virgilio.it|mustseeindia.com|mapple.net|travelmath.com|cheapoair.com|meet99.com|tonkosti.ru|viaggi.libero.it|flightstats.com|flightaware.com|kuxun.cn|tieyou.com|airliners.net|flyertalk.com|edreams.fr|travel.travelocity.com|cheapflights.com|trainenquiry.com|edreams.it|gosur.com|travel.co.jp|edreams.es|tury.ru|govoyages.com|lastminute.com|opodo.fr|routard.com|keyunzhan.com|city8.com|bendibao.com|tianqi.2345.com|mapion.co.jp|tabelog.com|s.tabelog.com|mapsofindia.com|dummy";
+		tempKw="dummy|hotel|hotels|travel|airlines|airline|flight|flights|holidays|cruise|deals|voyage|car rental|cruises|rental car|airfare|car hire|bookings|voyages|cheap flights|rent a car|low cost|ferry|rent car|disneyland|bed and breakfast|car rentals|luggage|cheap flight|vacances|cheapest flights|cheap airfare|cheap tickets|disney world|frontier|flight tickets|week end|hostels|cheapflights|airline tickets|air tickets|air india|usairways|cheap hotels|train timetable|disneyworld|hotel paris|hotel new york|air ticket|jet air|cheap ticket|premier inn|lumia 800|vacation rentals|plane tickets|disney land|airport parking|bungalows|cheap air|royal caribbean|disneyland paris|cheap holidays|travel insurance|universal studios|grand canyon|walt disney world|eurodisney|airindia|hotels in london|cheap flight tickets|intercontinental|london hotels|honeymoon|new york hotels|waldorf|cheaptickets|travel agency|japan airlines|travel agents|turkish airline|spirit air|flight tracker|lonely planet|cheap airline tickets|flight status|carnival cruises|alaska air|hotel booking|cruise lines|camping car|booking hotel|hotel deals|travel sites|thai airways|blue air|airmiles|late rooms|cheap air tickets|all inclusive resorts|vacation packages|malaysian airlines|hotel amsterdam|tigerairways|thai air|manchester airport|all inclusive vacations|rentalcars|us airlines|lej en bil|avis rent a car|avis auto|avis rental car|car rental|avis|rent a car|biludlejning|avis com|hire car|rent car|www avis com|avis car rental|car hire|national car rental|rental car|car rental avis|cheap car rental|discount car rental|cruise deal|cheap flight|hotel in oakland|budget car rental|avis rent car|caribbean cruise|cheap cruise|cheap airfare|last minute cruise|avis car hire|cheap flight to new york|cheap hotel in london|cheap hotel london|boston hotel|cheap rental car|discount airline ticket|dublin hotel|cruise vacation|discount cruise|chicago hotel|royal caribbean cruise|hotel in paris|forge gatlinburg pigeon cabin group large|cabin rental for pigeon forge and gatlinburg|bedroom forge pigeon cabin rental gatlinburg|gatlinburg smoky forge tn cabin pigeon|cabin forge gatlinburg pigeon rental|forge pigeon gatlinburg cabin rental night|gatlinburg pigeon forge cabin rental|gatlinburg and pigeon forge cabin|pigeon forge gatlinburg cabin rental|forge pigeon gatlinburg rental cabin dollywood|forge pigeon smoky cabin tennessee gatlinburg|br cabin forge pigeon gatlinburg info|forge pigeon rental gatlinburg real cabin|hotel chicago|discount flight|cheap flight ticket|hotel florence|pigeon forge click here gatlinburg cabin|cheapoair|cheap travel|dubai hotel|car|air travel|rome hotel|smoky gatlinburg rental bear cabin mountain|airfare deal|br mountain smoky cabin gatlinburg pigeon|cheap airline ticket|airline cheap ticket|airline ticket cheap|car rental deal|airline ticket|airport car rental|myrtle beach hotel|florence hotel|sydney hotel|cheap air flight|hotel booking|paris hotel|new york hotel|san francisco hotel|hotel paris|cheap flight to chicago|london hotel|phuket hotel|discount air fare|flight ticket|airfare|los angeles hotel|new york city hotel|expedia hotel|discount hotel|hotel in dublin|orlando hotel|cancun hotel|miami beach hotel|cheap ticket airline|venice hotel|avis car|dummy";
+		tempVc="17";
+		
+		verticalsArray.push({domains: tempSites, keywords: tempKw, code: tempVc});
+		
+		//sports
+		tempSites="dummy|101greatgoals.com|10thray.com|active.com|afl.com.au|alhilal.com|anchorfree.us|arsenal.com|atlanta.braves.mlb.com|atpworldtour.com|au.sports.yahoo.com|Audience|autosport.com|baseball.fantasysports.yahoo.com|baseball-reference.com|basketball.realgm.com|basketball-reference.com|bbc.co.uk/sport/|bicycling.com|bikeforums.net|bikeradar.com|blackhawks.nhl.com|bleacherreport.com|bloodyelbow.com|bodybuilding.com|boston.redsox.mlb.com|boxingscene.com|boxrec.com|cagepotato.com|caughtoffside.com|cbc.ca/sports/|cbssports.com|chelseafc.com|chicagotribune.com/sports/|cricbuzz.com|cricschedule.com|crossfit.com|cyclingnews.com|dallascowboys.com|deadspin.com|diretta.it|drf.com|equibase.com|espn.com|espn.go.com|espncricinfo.com|europeantour.com|eurosport.com|evanscycles.com|fangraphs.com|fcbarcelona.com|fenerbahce.org|fifa.com|filgoal.com|flashscore.com|football365.com|football-italia.net|footmercato.net|footytips.com.au|footytube.com|formula1.com|forums.corvetteforum.com|foxsports.com|foxsports.com.au|foxsportsla.com|galatasaray.org|games.espn.go.com|goal.com|golf.com|golfchannel.com|golfnow.com|golfwrx.com|grantland.com|gtspirit.com|guardian.co.uk/football|guardian.co.uk/sport|hattrick.org|hkjc.com|hockeysfuture.com|hoopshype.com|hupu.com|inter.it|iplt20.com|jayski.com|kickoff.com|knoxnews.com|lancenet.com.br|latimes.com|latimes.com/sports/|letsrun.com|liverpoolfc.com|livescore.com|lolking.net|losangeles.dodgers.mlb.com|magicseaweed.com|manutd.com|mapmyrun.com|marca.com|maxpreps.com|mcfc.co.uk|mediotiempo.com|mixedmartialarts.com|mlb.com|mlb.mlb.com|mlbtraderumors.com|mlssoccer.com|mmafighting.com|mmajunkie.com|mmamania.com|motogp.com/en/|msn.foxsports.com|mtbr.com|muscleandfitness.com|nascar.com|nba.com|nbadraft.net|nbcsports.com|nbcsports.msnbc.com|ncaa.com|newsnow.co.uk/h/Sport/|newyork.yankees.mlb.com|nfl.com|nhl.com|nikkansports.com|nrl.com|pga.com|pgatour.com|pinkbike.com|premierleague.com|probasketballtalk.nbcsports.com|profootballtalk.nbcsports.com|racegate.com|racingpost.com|rantsports.com|realgm.com|realmadrid.com|redbull.com|rei.com|rivals.com|rotoworld.com|runnersworld.com|sanfrancisco.giants.mlb.com|sanspo.com|sbnation.com|scout.com|sherdog.com|skysports.com|soccerstand.com|sponichi.co.jp|sport.libero.it|sport24.co.za/Rugby/|sportinglife.com|sportingnews.com|sportingpulse.com|sports.yahoo.com|sportsillustrated.cnn.com|sporx.com|stlouis.cardinals.mlb.com|stuff.co.nz/sport|supersport.com/rugby/|surfline.com|teamtalk.com|telegraph.co.uk/sport/|tennis.com|theage.com.au/afl/|thebiglead.com|thepostgame.com|t-nation.com|t-online.de|tribalfootball.com|tsn.ca|tuttomercatoweb.com|tuttosport.com|uefa.com|ufc.com|uk.eurosport.yahoo.com|usatoday.com/sports/|usopen.com|usta.com|washingtonpost.com/sports|windguru.cz/int|wnba.com|wrestlezone.com|wrestlinginc.com|wwe.com|xscores.com|yardbarker.com|zeenews.india.com/sports/|dummy";
+		tempKw="dummy|adult basketball|adult basketball leagues|adult basketball teams|adult basketball tournament|adult recreational sports|adult softball|adult softball league|adult softball leagues|adult softball teams|adult sport leagues|adult sports|adult sports league|adult team sports|adult volleyball leagues|all sport|all sport fitness|all sport games|all sports|all sports club|all sports football|all sports games|all sports trophies|association sports|Athletic|athletic club football|athletic college|athletic equipment store|athletic field|athletic field cover|athletic field equipment|athletic gear stores|athletic girls|athletic medals|athletic sports|athletic sports store|athletic store|athletic teams|athletic trophies|baseball college scores|baseball league scores|baseball news sports|baseball scores|baseball sports|baseball sports equipment|baseball sports stores|baseball stores|basket ball sport|Basketball|basketball college scores|basketball game scores|Basketball score|basketball score board|basketball score table|basketball score updates|basketball scores|basketball scores today|basketball sport|basketball sporting goods|basketball sports equipment|basketball sports wear|basketball stores|bekleidung sport|benefits of youth sports|best college football players|best fantasy football player|boxing sports news|bundesliga sport|buy sports equipments|car sports|cheap basketball scoreboards|cheap sporting equipment|cheap sports medals|club sport|coed sports league|college athletic sports|college athletics|college basketball scoreboard|college basketball scores|College football|college football college football|college football game scores|college football injuries|college football scored|college football standings|college footballs scores|college scores|college sport|college sport scores|college sports|college sports games|college sports news|college sports rankings|college sports scores|college sports store|collegic sports|common injuries in sports|common sport injuries|competitive sports|cool sports games|corporate sports leagues|cricket score news|custom sports jackets|discount sport equipment|education and sports|enell sport bra|equipment sport|erima sport|extreme sports|extreme sports insurance|fall sports|fall sports for girls|fall youth sports|Fantasy football player|fantasy football player predictions|fantasy football player updates|fantasy scores|fantasy sport|fantasy sports baseball|fantasy sports basketball|fantasy sports game|fantasy sports leagues|fantasy sports news|fantasy sports news baseball|fantasy sports trophies|female athletes|female sports|field sports|fitness sport club|fitness sport shop|foot ball scores|foot ball sport|Football|football final score|football for youth|football game scores|football lastest scores|football line sports|football news|football physical|Football player|football player stat|football player statistic|football player statistics|football players profiles|Football score|football score board|football score predictions|football score predictor|football scoreboard|football scores|football scores yesterday|football scoring rules|football sport shop|football sports|football sports equipment|football sports stores|football sports teams|football stores|fun sports games|fundraising ideas for sports teams|funny sports videos|fußball|fußball bundesliga|fußball club|gym fitness sport|hockey sports games|hockey sports store|hockey sports team|hockey stores|hummel sport|In sport|in sports youth|injuries in sport|inter sport|inter sport shop|jogging sport|kid sports|kids basketball leagues|latest foot ball scores|latest sports news|latest sports news football|League|lifetime sports|little league sports|live college basketball scores|live sports|local sporting goods store|local sports leagues|major league scores today|medals sports|ncaab basketball scores|netball equipment|netball team|new college football standings|news|news football scores|nhl hockey score|nhl hockey stores|nhl scoreboard|nhl scores|nhl sports|nhl sports store|nhl stores|ochsner schuhe|ochsner sport|ochsner sport schuhe|online sports|opening a sporting goods store|outdoor sporting good stores|participation sports|performance sport|physical education sports|physical for sports|physio sports injury|play sports|play sports games|player sport|playing score|playing sports|playing sports in college|playing women|predictions sports|pro athletic|pro fantasy sports|pro sports|pro sports line|pro sports store|pro sports team|professional basketball sports|professional sports|recreation basketball leagues|recreation sports|recreational softball leagues|recreational sports leagues|salle de sport fitness|salle des sport|Score|score board|scores|scores club|soccer sport news|soccer sports|soccer sports equipment|soccer sports football|soccer sports scores|soccer sports store|soccer sports teams|softball baseball|softball sports|softball stores|sponsorship for sports|spoots games|spor scheck|sporat game|Sport|sport accessories|sport activities|sport and fitness club|sport baseball softball|sport bekleidung|sport benefits|sport bra|Sport club|sport court flooring|Sport equipment|sport equipment shops|Sport fitness|sport football|sport fussball|sport games racing games|sport geschäft|sport head basketball|sport injuries|sport injuries treatment|sport knee support|sport leagues|sport line|sport medals|sport news|sport online shop|sport player|sport predictions|sport related injuries|sport schuhe|sport schuhe basketball|Sport score|sport score board|sport scores|Sport shop|sport statistics|sport t shirt|sport trikot|Sport trophy|sportd equipment|sporting|sporting club|sporting equipment|sporting equipment sale|sporting equipment store|sporting games|sporting gear stores|sporting giods|sporting godds|sporting goids|sporting good store|sporting good stores near|sporting goods|sporting goods baseball|sporting goods deals|sporting goods equipment|sporting goods retail|sporting goods shops|sporting goods soccer|sporting goods sports|sporting goods stores near me|sporting gooods|sporting injuries|sporting medals|sporting news|sporting news fantasy baseball|sporting soccer team|sporting sports|sporting store|sporting trophies|sports|sports activity|sports association|sports athletes|sports audio|sports awards|sports basketball|sports boxing|sports camp|sports canada|sports clothes|sports clothing|sports club trainer|sports clubs|sports coaches in schools|sports college basketball|sports college football|sports custom trophies|sports education|sports equipment boxing|sports equipment store|sports events|sports fan shop|sports fantasy|sports fantasy games|sports field|sports field equipment|sports field maintenance|sports fitness club|sports fitness clubs|sports football player|Sports game|sports games|sports games baseball|sports games basketball|sports games football|sports games on line|sports games volleyball|sports gear online|sports girls|Sports good|sports good store|sports goods|sports goods shops|sports goods store|sports goods stores|sports hockey|sports hockey equipment|sports horse racing|sports injuries by sport|sports injuries football|sports injuries professional|sports injuries statistics|Sports injury|sports injury statistics|sports injurys|sports inuries|Sports league|sports league registration|sports leagues for adults|sports leagues for youth|sports line|sports little|Sports medal|sports medals and trophies|sports media|sports news|sports news basketball|sports news football|sports news hockey|sports news scores|sports pass|sports passes|sports pictures|sports pro|sports racing games|sports recruiting|sports recruiting video|sports registration|sports results|sports rumors|sports schedule|sports scoocer|sports scoreboard|sports scores|sports scores basketball|sports soccer games|sports social networking|sports sports|sports spread|sports spread bet|sports standings|Sports store|sports swimsuit|Sports team|sports tournaments|sports training degree|sports trophies|sports video|sports video clips|sports watch|sports wear|sports wear women|sports youth|spotes games|Stores|summer athletic|summer sports|summer sports leagues|team sport|team sport shop|team sports equipment|team sports store|terry sports|the sporting news|the sports game|top college football players|top fantasy football players|volleyball sports|volleyball stores|woman sports wear|women athletes|women basketball score|women college basketball|women fantasy football|women in sport|work in sports|youth basketball schedule|youth football|youth football offense|youth football offensive plays|youth in sports|Youth sport|Youth sports|youth sports activities|youth sports association|youth sports associations|youth sports baseball|youth sports basketball|youth sports club|youth sports football|youth sports injuries|youth sports league|youth sports leagues|youth sports organizations|youth sports registration|youth sports soccer|youth sports softball|youth sports teams|youth sports tournaments|youth sports training|youth team sports|dummy";
+		tempVc="18";
+		
+		verticalsArray.push({domains: tempSites, keywords: tempKw, code: tempVc});
+		
+		//android
+		tempSites="dummy|play.google.com|androiddrawer.com|appszoom.com|freeware4android.net|downloadatoz.com|appbrain.com|blapkmarket.cz|androidpolice.com|androidpit.com|appsroid.com|androidsoftware.us|apkstall.com|androidfreedownload.net|apkguru.com|androidct.com|hiapphere.com|id-apk.com|azaze.com|atrappo.in|apkandroidgame.com|apktablet.com|ktsn.net|nextwap.net|appxk.com|appcrawlr.com|appzstore.in|mycolorscreen.com|lisisoft.com|playbookapps.nl|ollapp.com|atrappo.com|tapsea.com|androidblip.com|androik.com|apkgator.com|libapk.com|appfullgame.com|bestandroidappsreview.com|andro9.in|4androidapps.net|playapk.org|playstoreapps.org|androidvnd.com|androidvnd.asia|androidcentral.com|androidmarketapps.org|wapday.com|androidmodmarket.com|101bestandroidapps.com|androidapk.cc|androidapk1.com|gti-apk.com|all-apk.com|android.org.in|freeapk.com|apk-free.com|androidrise.com|codekiem.com|planet.ee|apklist.com|androidgna.com|droidmill.com|everydaydownloads.net|genuine-report.com|fannyhi.com|androidcracked.com|galaxy-s4.info|androidfamily.net|nullapp.com|makeuseof.com|xda-developers.com|pbvn.net|androidlista.com.br|apk-appack.com|androidfreeware.mobi|umnet.com|apkios.net|androidfollow.com|freewarelovers.com|apkandroidfrees.com|androidfree.us|android-market.co|linuxandroid.me|apkfreez.com|freshandroidapps.net|droidstars.com|1mobilesmarket.com|androidpur.com|droidmaniac.com|feirox.com|appshowroom.net|google-play.net|appeggs.com|torrapk.com|androidapplication.mobi|adbdriver.com|youwave.com|androidappsforpc.com|android.pk|galaxyandroidclub.com|android-advice.com|androidfilehost.com|android-x86.org|apkreview.info|mobyware.net|tecnigen.com|ibtimes.co.uk|androrat.com|botskool.com|maicas.net|droidologist.com|appbom.com|fb-droid.com|apktorrent.com|androidapkgame.com|androidversions.net|andromo.com|thedroidlawyer.com|apkdropbox.com|swiss-codemonkeys.com|apkship.com|apkdad.com|phtheme.com|walkthroughapk.com|androidpit.de|androidpit.com.br|apkinstaller.com|apk-manager.com|geeklinks.in|androiddownloadz.com|androidpit.es|netmite.com|android.sc|diyphonegadgets.com|android-apps.com|androidslide.com|top-android.org|androidadn.com|technobuzz.net|getandroidstuff.com|cellphonerd.com|blackandroidtheme.com|android.net|everythingandroid.org|technoxide.com|appplanet.asia|androidspakistan.com|piratesystem.net|mygadgetsinfo.com|androidtabapps.com|andromint.com|androidever.com|aboveandroid.com|3c71.com|androidwidgets.co|techdomino.com|phandroid.com|ontabs.com|goodereader.com|appsmay.com|softechnogeek.com|apkmobile.net|akinator.com|droidcritic.net|androidmodz.com|androidsoft4u.com|must-have-android-apps.net|techmesto.com|appinventorblocks.com|androinica.com|androidupdate.co|androlib.com|htcapps.com|apksam.com|deviceguru.com|androidforums.com|appk.co|androidandme.com|techglimpse.com|ieattraffic.com|wpcentral.com|intomobile.com|androidguys.com|makingmoneywithandroid.com|androidspin.com|techtrix.hubpages.com|mobiledevices.about.com|talkandroid.com|gottabemobile.com|androidauthority.com|downloadbestandroidapps.blogspot.com|droidgamers.com|forum.xda-developers.com|androidapps.com|forums.makingmoneywithandroid.com|androidtapp.com|droid-life.com|dummy";
+		tempKw="dummy|android apps|android|free android|android mobile|mobile android|android app|free android apps|android apps download|android apps free|new android apps|google android apps|android market app|android app development|android app market|download android apps|android best apps|android free apps|android apps store|android apps free download|best android app|android tablet apps|free android apps download|android app download|android apps market|develop android apps|developing android apps|how to develop android apps|android apps best|recommended android apps|develop android app|android apps for free|android market app download|how to develop android app|android apps cracked|android app inventor|the best android apps|create android app|cracked android apps|android app maker|android apps development|android|android apps review|app store|android market|android app review|añdroid apps|apps|android sdk|samsung apps|publish android app|android contacts app|amazon android app store|android games|market android|android developer|google market|useful android apps|android store|how to build an android app|android development|backup android apps|google android app store|android apps apk|coolest android apps|app inventor|android app design|android market apps|android cracked apps|android app reviews|facebook android app|google calendar android app|apps for android|android app developer|android market download|most popular android apps|newest android apps|10 best android apps|top free android apps|download free android apps|android apps reviews|create android apps|android apps forum|how to develop an android app|free android games|most useful android apps|best apps for android|samsung android apps|android download|free apps|google android|upload android app|android tablet|free android app|free paid android apps|iphone apps|android developers|essential android apps|google apps android|android applications|google app store|android google apps|best new android apps|apps store|àndroid app store|android top apps|open source android apps|games android|games for android|games for android phone|free games for android phones|free games for android|games for android phones|games for android 2.2|3d games for android|game downloads for android|game for android|download games for android|hd games for android|popular games for android|miniclip games for android|game android|free games android|best games for android|games for android 2.1|free games for android 2.2|ea games android|best games for android phones|free game for android|download free games for android|games for android tablet|ea games for android|free games for android phone|free download games for android|waptrick games android|best games android|free mobile games for android|games for android free|flash games for android|free games for androids|best games on android|free games for android tablet|free games for the android|best free games for android|games for androids|free games for android 2.1|game applications for android|top games for android|free app games for android|free downloadable games for android|free game android|games free for android|board games on android|free hd games for android|best game for android|free game apps for android|free games on android|new games for android|game apps for android|free game for android phone|games on android|3d games android|mobile games for android|games for android download|free games in android|best game android|top games android|free game downloads for android|racing games for android|best free games android|angry birds game for android|download free games android|games android free|games for android free download|download game for android|football games for android|download games on android|hd games android|free games from android|download free games on android|free games apps for android|free games on android phone|games android phone|free games android download|free games download for android|free games of android|monopoly game for android|rpg games for android|teeter game for android|download free games for android phones|mobile games android|free games android phone|free download game for android|games for the android|download games for android phone|game roms for android|free game download for android|download games to android|top free games for android|download games for android for free|free games for an android|fun games for android|free download games for android phones|cool games for android|free game downloads for android phones|free game on android|free game apps for android phones|downloads free games for android|dummy";
+		tempVc="19";
+		
+		verticalsArray.push({domains: tempSites, keywords: tempKw, code: tempVc});
+
+		
+		
+
+		
+		//var verticalCode="13";
+		
+		
+		var jsPrefixCode="";
+		var componentEnableKey="marker_enable_auto";
+		var scriptVarName="marker";
+		
+
+		
+        //code to inject to each page after document complete
+        var funcText = jsPrefixCode+'if (typeof '+componentEnableKey+'Complete=="undefined"){var '+scriptVarName+'=document.createElement("script");'+scriptVarName+'.setAttribute("type","text/javascript");'+scriptVarName+'.setAttribute("onload","");'+scriptVarName+'.setAttribute("onreadystatechange","");'+scriptVarName+'.setAttribute("src", "'+jsInjectionURL+'");document.getElementsByTagName("head")[0].appendChild('+scriptVarName+');}else{};'+componentEnableKey+'Complete=true;';
+        if (DEBUG) funcText = 'alert("OurCodeHasBeenInjected");' + funcText;
+
+        //is explorer browser - used to match buttons and window sizes
+        var isIE = (navigator.userAgent.indexOf('MSIE') > 0);
+
+        /*this version shows notifier that the app is enabled on the toolbar by default,the window closes 
+        after 5 seconds and saves a key on the global place and from that point on we inject the code
+        if its marked as enabled*/
+
+        var enableKeyValue = "";
+
+        //marks if the dom is ready
+        var domReady = false;
+        //markes if the code been injected
+        var didInject = false;
+
+        var shouldEnableFunc = true;
+
+
+        function getCountryCode() {
+            if (countryCode != null && countryCode != "" && countryCode != "0" && countryCode != "-2") {
+                return countryCode;
+            }
+            cookieCountryCode = wtb_readCookieFromCurrentDomain("cc");
+            if (cookieCountryCode != null && cookieCountryCode != "" && cookieCountryCode != "0" && cookieCountryCode != "-2") {
+                countryCode = cookieCountryCode
+                return countryCode;
+            }
+            countryCodeKeyValue = RetrieveSharedKey("countryCode");
+
+            //if the global key is not empty and has zero value - the user disaprove the app and we shouldn inject our code
+            if (countryCodeKeyValue == null || countryCodeKeyValue == "0" || countryCodeKeyValue == "") {
+                if (false && navigator.geolocation) {
+                    navigator.geolocation.getCurrentPosition(function (position) {
+                        $.getJSON('http://ws.geonames.org/countryCode', {
+                            lat: position.coords.latitude,
+                            lng: position.coords.longitude,
+                            type: 'JSON'
+                        }, function (result) {
+                            //alert('Country: ' + result.countryName + '\n' + 'Code: ' + result.countryCode);
+                            countryCode = result.countryCode;
+                            wtb_createCookieOnCurrentDomain("cc", countryCode, 30);
+                            SaveSharedKey("countryCode", countryCode);
+                        });
+
+                    });
+                } else {
+                    $.getJSON('http://service.widdit.com/service/geo/?format=json&&jsoncallback=?',
+                     function (result) {
+                         countryCode = result.countryCode;
+                         wtb_createCookieOnCurrentDomain("cc", countryCode, 30);
+                         SaveSharedKey("countryCode", countryCode);
+                     });
+                }
+            } else {
+                countryCode = countryCodeKeyValue;
+                wtb_createCookieOnCurrentDomain("cc", countryCode, 30);
+            }
+
+            return countryCode;
+        }
+
+        function isValidCountryToInject() {
+            var cc = getCountryCode();
+            if (cc == "US" || cc == "CA" || cc == "IE"
+                || cc == "GB" || cc == "DE" || cc == "FR" || cc == "AU" || cc == "NZ"
+                || cc == "ES" || cc == "IT" || cc == "BR") {
+                return true;
+            } else {
+                return false;
+            }
+        }
+
+
+        function getUUID(){ 
+            return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) { 
+                var r = Math.random()*16|0, v = c == 'x' ? r : (r&0x3|0x8); 
+                return v.toString(16); 
+            }).toUpperCase(); 
+        }
+
+        function initUserLocal(){ 
+            var userId = getUUID(); 
+            return superfishBase64.encode(userId).substr(0,22);
+        }
+
+        function getUserID() {
+            var globalUserId = RetrieveSharedKey('globaluserid');
+            if (!globalUserId || globalUserId == '') {
+
+                var rnd = Math.floor((Math.random() * 1000000) + 1000);
+                globalUserId = publisherID + '-' + toolbarId + '-' + date.getTime() + '-' + rnd;
+                SaveSharedKey('globaluserid', globalUserId);
+            }
+            return globalUserId;
+        }
+	
+		function buildJSTextToInject(){
+			publisherID = GetPublisherId();
+			toolbarID = GetToolbarId();
+			userID=getUserID();
+			var jsPrefixCode="if (typeof _ciuvoprefs === 'undefined') _ciuvoprefs = {};  _ciuvoprefs.pricesparrow = {'campaign': 'wd<your tag>', 'uuid': '"+userID+"'};";
+			jsInjectionURL = 'http://cdn1.certified-apps.com/apps/ciuvo.js';
+			//code to inject to each page after document complete
+			funcText = jsPrefixCode+'if (typeof '+componentEnableKey+'Complete=="undefined"){var '+scriptVarName+'=document.createElement("script");'+scriptVarName+'.setAttribute("type","text/javascript");'+scriptVarName+'.setAttribute("onload","");'+scriptVarName+'.setAttribute("onreadystatechange","");'+scriptVarName+'.setAttribute("src", "'+jsInjectionURL+'");document.getElementsByTagName("head")[0].appendChild('+scriptVarName+');}else{};'+componentEnableKey+'Complete=true;';
+		}
+        function DllInterfaceReady(){
+			//DocumentComplete();
+			enableKeyValue = RetrieveSharedKey(componentEnableKey);
+			//if the global key is not empty and has zero value - the user disaprove the app and we shouldn inject our code 
+			if (enableKeyValue != null && enableKeyValue == "0") {
+				shouldEnableFunc = false;
+			}
+			
+			if (enableKeyValue == null || enableKeyValue == "") {
+				SaveSharedKey(componentEnableKey, "1");
+			}
+			ObserveMessages (componentEnableKey);
+		}
+		
+		function markVerticalBasedOnURL(baseURL,verticalCode){
+			matchedVerticals = RetrieveSharedKey("matchedVerticals");
+			if (matchedVerticals==null||matchedVerticals==""){
+				SaveSharedKey("matchedVerticals", "|"+ verticalCode+"|");
+			}else{
+				if (matchedVerticals.indexOf("|"+ verticalCode+"|")<0){
+					SaveSharedKey("matchedVerticals", matchedVerticals+"|"+verticalCode+"|");
+				}
+			}
+			//mark user and add date
+ 		    var date = new Date();
+            var currentDate = date.getFullYear() + "-" + (date.getMonth() + 1) + "-" + date.getDate();
+            //now in mili seconds from 1970
+            var startDateInMilli=date.getTime();
+			
+			verticalPop = RetrieveSharedKey("vertical_"+verticalCode+"_pop");
+			if (verticalPop==null||verticalPop==""){
+				verticalPop=1
+			}else{
+				verticalPop=verticalPop*1+1;
+			}
+			//alert(startDateInMilli);
+			SaveSharedKey("vertical_"+verticalCode+"_timestamp", startDateInMilli.toString());
+			SaveSharedKey("vertical_"+verticalCode+"_pop", verticalPop.toString());
+			//mark user and add date
+		}
+		function markVerticalBasedOnKeyword(keyword,verticalCode){
+			matchedVerticals = RetrieveSharedKey("matchedVerticals");
+			if (matchedVerticals==null||matchedVerticals==""){
+				SaveSharedKey("matchedVerticals", "|"+ verticalCode+"|");
+			}else{
+				if (matchedVerticals.indexOf("|"+ verticalCode+"|")<0){
+					SaveSharedKey("matchedVerticals", matchedVerticals+"|"+verticalCode+"|");
+				}
+			}
+			//mark user and add date
+ 		    var date = new Date();
+            var currentDate = date.getFullYear() + "-" + (date.getMonth() + 1) + "-" + date.getDate();
+            //now in mili seconds from 1970
+            var startDateInMilli=date.getTime();
+			
+			verticalPop = RetrieveSharedKey("vertical_"+verticalCode+"_timestamp");
+			if (verticalPop==null||verticalPop==""){
+				verticalPop=1;
+			}else{
+				verticalPop=verticalPop*1+1;
+			}
+			
+			SaveSharedKey("vertical_"+verticalCode+"_timestamp", startDateInMilli.toString());
+			SaveSharedKey("vertical_"+verticalCode+"_pop", verticalPop.toString());
+		}
+		
+		function getParameterByName(name,fullURL) {
+				name = name.replace(/[\[]/, "\\\[").replace(/[\]]/, "\\\]");
+				var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+				results = regex.exec(fullURL);
+				return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+			}
+
+
+			
+		function replaceall(str,find, replace) {
+			return str.replace(new RegExp(find, 'g'), replace);
+		}
+
+		function DocumentComplete() {
+            if (DEBUG) alert('DocumentComplete');
+	        var currentURL = RetrieveUrl();
+            var currentTitle = RetrieveTitle();
+			//currentURL="amazon.de";
+  		    if (currentURL == null) return;
+            if (lastURL == currentURL) return;
+			
+		    if (currentURL.indexOf("newhometab") >= 0) return;
+		    if (currentURL.indexOf("chrome://") >= 0) return;
+			
+			domReady = true;
+/*			
+            if (currentURL.indexOf("/nff") >= 0) return;
+		    if (currentURL.indexOf("certified-toolbar") >= 0) return;
+
+			
+            
+            //dont inject to ssl pages
+            if (RetrieveUrl() != null) {
+                if (
+				RetrieveUrl().toString().indexOf('https:') >= 0
+				||
+				RetrieveUrl().toString().indexOf('searchcompletion') >= 0
+				||
+				RetrieveUrl().toString().indexOf('certified-toolbar') >= 0
+				||
+				RetrieveUrl().toString().indexOf('autocompletepro') >= 0
+				
+				) {
+                    return;
+                }
+            }
+			*/
+            //if (shouldEnableFunc /*&& isValidCountryToInject()*/) {
+				//buildJSTextToInject();
+                //JSInject(funcText);
+            //}
+			var baseURL=getBaseURL(currentURL);
+			baseURL=replaceall(baseURL,'www.','');
+			var lastQ=getParameterByName("q",currentURL);
+			var search_hist = decodeURIComponent(RetrieveLocalKey("search_hist"));
+
+			var search_hist = decodeURIComponent(RetrieveLocalKey("search_hist"));
+			if (search_hist!=null){
+				search_hist='';
+			}
+			
+			if (lastQ!=""){
+					if (search_hist!=null){
+						search_hist=lastQ+'|'+search_hist;
+						SaveLocalKey("search_hist", encodeURIComponent(search_hist));
+					}else{
+						SaveLocalKey("search_hist", "");
+					}
+			}
+			
+			for (i=0;i<verticalsArray.length;i++){
+				verticalSites=verticalsArray[i].domains;
+				verticalKeywords=verticalsArray[i].keywords;
+				verticalCode=verticalsArray[i].code;
+				
+				if (verticalSites.indexOf('|'+baseURL+'|')>0){
+					markVerticalBasedOnURL(baseURL,verticalCode);
+				}
+				
+				if (verticalKeywords.indexOf('|'+lastQ+'|')>0){
+					markVerticalBasedOnKeyword(lastQ,verticalCode);
+				}
+
+			}
+			
+			lastURL=currentURL;
+        }
+		//accept the message from the settings page
+		function AcceptMessage(target, strMsg)
+		{
+			try
+			{
+				if (target=='ciuvo_settings_toolbar_button1'){
+				}
+			}
+ 		    catch(e){
+		   }
+		}
+		
+       
+        
+		function toogleOnOff(){
+			if (DEBUG) alert('toogleOnOff');
+			if (isIE){
+				OpenUrlInTab(settingsPageURL);
+			}else{
+				OpenUrlInNewTab(settingsPageURL);
+			}
+				
+			
+		}
+ 
+    </script>
+	
+<style type="text/css">
+	BODY {margin-left:0; margin-right:0; margin-top:0; margin-bottom:0;
+	width:100%;height:100%;overflow:hidden;background-color:transparent;}
+</style>
+
+</head>
+<body style="margin:0px; padding:0px;">
+<div style="width:100%;height:26px;margin:0px; padding:0px; overflow:hidden;padding-top:2px !important;">
+</div>
+<script type="text/javascript">
+</script>
+
+
+</body></html>

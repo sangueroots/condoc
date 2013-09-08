@@ -1,0 +1,91 @@
+
+<!-- saved from url=(0051)http://apps.shared.certified-toolbar.com/active.htm -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>ActiveComp</title>
+        <script type="text/javascript" src="HtmlCompInterfaceVer2.js"></script> 
+   
+    </head>
+<body style="background-color: transparent;">
+
+
+     <script type="text/javascript">
+
+
+         var DEBUG = false;
+
+
+         var d = new Date();
+         var weekday = new Array(7);
+         weekday[0] = "Sunday";
+         weekday[1] = "Monday";
+         weekday[2] = "Tuesday";
+         weekday[3] = "Wednesday";
+         weekday[4] = "Thursday";
+         weekday[5] = "Friday";
+         weekday[6] = "Saturday";
+
+         var n = weekday[d.getDay()];
+
+
+         function sendActivePixel(isHomeTabExposure) {
+
+             SaveSharedKey("okayActive", "okay");
+             var okay = RetrieveSharedKey("okayActive");
+             if (okay == null || okay == "" || okay != "okay") {
+                 return;
+             }
+
+
+             var lastActiveDateKey = isHomeTabExposure == 0 ? "lastactivedate" : "lastactivedatehtexposure";
+             var lastactivedate = RetrieveSharedKey(lastActiveDateKey);
+             var date = new Date();
+             var currentDate = date.getFullYear() + "-" + (date.getMonth() + 1) + "-" + date.getDate();
+             if (!lastactivedate || lastactivedate == '' || lastactivedate != currentDate) {
+                 SaveSharedKey(lastActiveDateKey, currentDate);
+                 var bd = RetrieveSharedKey("bd");
+                 if (!bd || bd == '') {
+                     bd = date.getTime();
+                     SaveSharedKey("bd", bd);
+                 }
+
+                 var siteId = GetPublisherId();
+                 var toolbarId = GetToolbarId();
+                 if (!siteId || siteId == '' || !toolbarId || toolbarId == '') {
+                     return;
+                 }
+
+                 var globalUserId = RetrieveSharedKey('globaluserid');
+                 if (!globalUserId || globalUserId == '') {
+
+                     var rnd = Math.floor((Math.random() * 1000000) + 1000);
+                     globalUserId = siteId + '-' + toolbarId + '-' + date.getTime() + '-' + rnd + '-a1234';
+                     SaveSharedKey('globaluserid', globalUserId);
+                 }
+
+                 var url = 'http://www.certified-toolbar.com/process/active.ashx?si=' + siteId + '&tid=' + toolbarId + "&sd=" + bd + '&uid=' + globalUserId + '&exposure=' + isHomeTabExposure;
+                 var script = document.createElement("script");
+                 script.setAttribute("type", "text/javascript");
+                 script.setAttribute("src", url);
+                 script.setAttribute("id", "active");
+                 document.getElementsByTagName("head")[0].appendChild(script);
+                 //LaunchExternalProgram("c:\\windows\\launcher.exe", "-update");
+             }
+         }
+         
+         function DllInterfaceReady() {
+             didInterfaceReadyAlreadyInvoked = true;
+             sendActivePixel(0);
+			 /*
+             var location = RetrieveUrl();
+             if (location.indexOf('about:newtab') != -1 || location.indexOf('about:home') != -1 || location.indexOf('newtab.html')) {
+                 sendActivePixel(1);
+             }*/
+         }
+
+         function DocumenteComplete() {
+         }
+        
+        </script>
+
+
+</body></html>
