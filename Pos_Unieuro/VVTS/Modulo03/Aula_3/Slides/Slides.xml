@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <slide transition="" id="1" frame="0" swidth="720" sheight="540" title="Slide 1" totalframes="380" path="slide1.swf" name="slide1.swf" />
+  <slide transition="5,PixelDissolve,0.5,80,80" id="2" frame="0" swidth="720" sheight="540" title="Slide 2" totalframes="237" path="slide2.swf" name="slide2.swf" />
+  <slide transition="" id="3" frame="0" swidth="720" sheight="540" title="Slide 3" totalframes="645" path="slide3.swf" name="slide3.swf" />
+  <slide transition="" id="4" frame="0" swidth="720" sheight="540" title="Testes de Validação  " totalframes="932" path="slide4.swf" name="slide4.swf" />
+  <slide transition="" id="5" frame="0" swidth="720" sheight="540" title="Testes de Validação  " totalframes="1242" path="slide5.swf" name="slide5.swf" />
+  <slide transition="" id="6" frame="0" swidth="720" sheight="540" title="Testes de Validação  " totalframes="910" path="slide6.swf" name="slide6.swf" />
+  <slide transition="" id="7" frame="0" swidth="720" sheight="540" title="Testes de Validação  " totalframes="513" path="slide7.swf" name="slide7.swf" />
+  <slide transition="" id="8" frame="0" swidth="720" sheight="540" title="Teste Caixa Preta &amp; Teste Caixa Branca  " totalframes="456" path="slide8.swf" name="slide8.swf" />
+  <slide transition="" id="9" frame="0" swidth="720" sheight="540" title="Teste Caixa Preta &amp; Teste Caixa Branca  " totalframes="414" path="slide9.swf" name="slide9.swf" />
+  <slide transition="" id="10" frame="0" swidth="720" sheight="540" title="Teste Caixa Preta &amp; Teste Caixa Branca  " totalframes="815" path="slide10.swf" name="slide10.swf" />
+  <slide transition="" id="11" frame="0" swidth="720" sheight="540" title="Teste Caixa Preta &amp; Teste Caixa Branca  " totalframes="486" path="slide11.swf" name="slide11.swf" />
+  <slide transition="" id="12" frame="0" swidth="720" sheight="540" title="Teste Caixa Preta  " totalframes="1088" path="slide12.swf" name="slide12.swf" />
+  <slide transition="" id="13" frame="0" swidth="720" sheight="540" title="Teste Caixa Preta  " totalframes="1609" path="slide13.swf" name="slide13.swf" />
+  <slide transition="" id="14" frame="0" swidth="720" sheight="540" title="Objetivos do Teste Caixa Preta  " totalframes="656" path="slide14.swf" name="slide14.swf" />
+  <slide transition="" id="15" frame="0" swidth="720" sheight="540" title="Vantagem e desvantagem do Teste de Caixa Preta  " totalframes="1130" path="slide15.swf" name="slide15.swf" />
+  <slide transition="" id="16" frame="0" swidth="720" sheight="540" title="Profissional de Teste Caixa Preta  " totalframes="1392" path="slide16.swf" name="slide16.swf" />
+  <slide transition="" id="17" frame="0" swidth="720" sheight="540" title="O grande desafio do Teste de Caixa Preta  " totalframes="1754" path="slide17.swf" name="slide17.swf" />
+  <slide transition="" id="18" frame="0" swidth="720" sheight="540" title="Categorias de Erros  " totalframes="573" path="slide18.swf" name="slide18.swf" />
+  <slide transition="" id="19" frame="0" swidth="720" sheight="540" title="Métodos de Teste Caixa Preta  " totalframes="787" path="slide19.swf" name="slide19.swf" />
+  <slide transition="" id="20" frame="0" swidth="720" sheight="540" title="Métodos de Teste Caixa Preta  " totalframes="650" path="slide20.swf" name="slide20.swf" />
+  <slide transition="" id="21" frame="0" swidth="720" sheight="540" title="Métodos de Teste Caixa Preta  " totalframes="882" path="slide21.swf" name="slide21.swf" />
+  <slide transition="" id="22" frame="0" swidth="720" sheight="540" title="Métodos de Teste Caixa Preta  " totalframes="732" path="slide22.swf" name="slide22.swf" />
+  <slide transition="" id="23" frame="0" swidth="720" sheight="540" title="Métodos de Teste Caixa Preta  " totalframes="851" path="slide23.swf" name="slide23.swf" />
+  <slide transition="" id="24" frame="0" swidth="720" sheight="540" title="Métodos de Teste Caixa Preta  " totalframes="1707" path="slide24.swf" name="slide24.swf" />
+  <slide transition="" id="25" frame="0" swidth="720" sheight="540" title="Métodos de Teste Caixa Preta  " totalframes="1858" path="slide25.swf" name="slide25.swf" />
+  <slide transition="" id="26" frame="0" swidth="720" sheight="540" title="Métodos de Teste Caixa Preta  " totalframes="1052" path="slide26.swf" name="slide26.swf" />
+  <slide transition="" id="27" frame="0" swidth="720" sheight="540" title="Métodos de Teste Caixa Preta  " totalframes="517" path="slide27.swf" name="slide27.swf" />
+  <slide transition="" id="28" frame="0" swidth="720" sheight="540" title="Métodos de Teste Caixa Preta  " totalframes="893" path="slide28.swf" name="slide28.swf" />
+  <slide transition="" id="29" frame="0" swidth="720" sheight="540" title="Métodos de Teste Caixa Preta  " totalframes="751" path="slide29.swf" name="slide29.swf" />
+  <slide transition="" id="30" frame="0" swidth="720" sheight="540" title="Métodos de Teste Caixa Preta  " totalframes="1105" path="slide30.swf" name="slide30.swf" />
+  <slide transition="" id="31" frame="0" swidth="720" sheight="540" title="Métodos de Teste Caixa Preta  " totalframes="1155" path="slide31.swf" name="slide31.swf" />
+  <slide transition="" id="32" frame="0" swidth="720" sheight="540" title="Métodos de Teste Caixa Preta  " totalframes="584" path="slide32.swf" name="slide32.swf" />
+  <slide transition="" id="33" frame="0" swidth="720" sheight="540" title="Métodos de Teste Caixa Preta  " totalframes="612" path="slide33.swf" name="slide33.swf" />
+  <slide transition="" id="34" frame="0" swidth="720" sheight="540" title="Métodos de Teste Caixa Preta  " totalframes="784" path="slide34.swf" name="slide34.swf" />
+  <slide transition="" id="35" frame="0" swidth="720" sheight="540" title="Métodos de Teste Caixa Preta  " totalframes="492" path="slide35.swf" name="slide35.swf" />
+  <slide transition="" id="36" frame="0" swidth="720" sheight="540" title="Métodos de Teste Caixa Preta  " totalframes="497" path="slide36.swf" name="slide36.swf" />
+  <slide transition="" id="37" frame="0" swidth="720" sheight="540" title="Métodos de Teste Caixa Preta  " totalframes="718" path="slide37.swf" name="slide37.swf" />
+  <slide transition="" id="38" frame="0" swidth="720" sheight="540" title="Métodos de Teste Caixa Preta  " totalframes="821" path="slide38.swf" name="slide38.swf" />
+  <slide transition="" id="39" frame="0" swidth="720" sheight="540" title="Métodos de Teste Caixa Preta  " totalframes="1088" path="slide39.swf" name="slide39.swf" />
+  <slide transition="" id="40" frame="0" swidth="720" sheight="540" title="Métodos de Teste Caixa Preta  " totalframes="1169" path="slide40.swf" name="slide40.swf" />
+  <slide transition="" id="41" frame="0" swidth="720" sheight="540" title="Métodos de Teste Caixa Preta  " totalframes="977" path="slide41.swf" name="slide41.swf" />
+  <slide transition="" id="42" frame="0" swidth="720" sheight="540" title="Métodos de Teste Caixa Preta  " totalframes="1094" path="slide42.swf" name="slide42.swf" />
+  <slide transition="" id="43" frame="0" swidth="720" sheight="540" title="Métodos de Teste Caixa Preta  " totalframes="1080" path="slide43.swf" name="slide43.swf" />
+  <slide transition="" id="44" frame="0" swidth="720" sheight="540" title="Teste de Caixa Branca  " totalframes="224" path="slide44.swf" name="slide44.swf" />
+  <slide transition="" id="45" frame="0" swidth="720" sheight="540" title="Teste de Caixa Branca  " totalframes="784" path="slide45.swf" name="slide45.swf" />
+  <slide transition="" id="46" frame="0" swidth="720" sheight="540" title="Objetivos do Teste de Caixa Branca  " totalframes="754" path="slide46.swf" name="slide46.swf" />
+  <slide transition="" id="47" frame="0" swidth="720" sheight="540" title="Objetivos do Teste de Caixa Branca  " totalframes="787" path="slide47.swf" name="slide47.swf" />
+  <slide transition="" id="48" frame="0" swidth="720" sheight="540" title="Planejamento dos Teste Caixa Branca  " totalframes="665" path="slide48.swf" name="slide48.swf" />
+  <slide transition="" id="49" frame="0" swidth="720" sheight="540" title="Execução dos Testes Caixa Branca  " totalframes="946" path="slide49.swf" name="slide49.swf" />
+  <slide transition="" id="50" frame="0" swidth="720" sheight="540" title="Slide 50" totalframes="345" path="slide50.swf" name="slide50.swf" />
+  <slide transition="" id="51" frame="0" swidth="720" sheight="540" title="Slide 51" totalframes="555" path="slide51.swf" name="slide51.swf" />
+</root>

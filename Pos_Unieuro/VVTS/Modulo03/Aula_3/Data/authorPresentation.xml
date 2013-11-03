@@ -1,0 +1,1205 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<presentation>
+  <properties>
+    <title><![CDATA[Verificacao Validacao e Teste de software_aula03]]></title>
+    <creationdate>19/11/2009 10:47:15</creationdate>
+    <audio>on</audio>
+    <navigationonclick>false</navigationonclick>
+    <animations>true</animations>
+    <transitions>false</transitions>
+    <sdkversion>07</sdkversion>
+    <release>1.1</release>
+    <soundacrossslides>false</soundacrossslides>
+    <defaulturl>Slides/default_0.swf</defaulturl>
+    <video>
+    </video>
+    <templatecolor>Silver</templatecolor>
+    <layout>E-Learning Standard</layout>
+    <presentertitle><![CDATA[]]></presentertitle>
+    <presentername><![CDATA[]]></presentername>
+    <presentercompany><![CDATA[]]></presentercompany>
+    <presenteremail><![CDATA[]]></presenteremail>
+    <presentationtitle>Verificacao Validacao e Teste de software_aula03</presentationtitle>
+    <powerpointfile>Verificacao Validacao e Teste de software_aula03.ppt</powerpointfile>
+    <presentationdescription><![CDATA[]]></presentationdescription>
+    <presentationkeywords>Testes de Validação,Teste Caixa Preta &amp; Teste Caixa Branca,Teste Caixa Preta,Objetivos do Teste Caixa Preta,Vantagem e desvantagem do Teste de Caixa Preta,Profissional de Teste Caixa Preta,O grande desafio do Teste de Caixa Preta,Categorias de Erros,Métodos de Teste Caixa Preta,Teste de Caixa Branca,Objetivos do Teste de Caixa Branca,Planejamento dos Teste Caixa Branca,Execução dos Testes Caixa Branca</presentationkeywords>
+    <audioquality>Medium</audioquality>
+    <imagequality>9</imagequality>
+    <showslidenotesinoutput>True</showslidenotesinoutput>
+    <usenarrations>True</usenarrations>
+  </properties>
+  <slides>
+    <slide id="1">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide1.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide1_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 1]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[MBA em Engenharia de Software à Distância  Profª. Cleziana de Freitas CostaCleziana.costa@gmail.com  Verificação, Validação e Teste de Software  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>380</totalframes>
+      <time>00:00:19</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="2">
+      <transition>5,PixelDissolve,0.5,80,80</transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide2.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide2_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 2]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[MBA em Engenharia de Software à Distância  Você está aqui!  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>237</totalframes>
+      <time>00:00:11</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="3">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide3.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide3_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 3]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Explicar os Testes de Validação;Descrever os objetivos do Teste de validação;Distinguir o Teste de Caixa Preta e Teste de Caixa Branca;Conceituar Teste de Caixa Preta;Listar os métodos do Teste Caixa Preta;Conceituar Teste de Caixa Branca;  Objetivos da Aula  MBA em Engenharia de Software à Distância  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>645</totalframes>
+      <time>00:00:32</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="4">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide4.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide4_200,150.jpg</slideimage>
+      <title><![CDATA[Testes de Validação]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Testes de Validação  Verificação: estamos construindo certo o produto?Validação: estamos construindo o produto certo?  MBA em Engenharia de Software à Distância: Verificação de Software: Ênfase em Testes  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>932</totalframes>
+      <time>00:00:46</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="5">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide5.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide5_200,150.jpg</slideimage>
+      <title><![CDATA[Testes de Validação]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Testes de Validação  Os testes de validação estão focados na garantia da qualidade do produto de software.  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>1242</totalframes>
+      <time>00:01:02</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="6">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide6.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide6_200,150.jpg</slideimage>
+      <title><![CDATA[Testes de Validação]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Testes de Validação  Objetivos		 Identificar o maior número possível de erros tanto nos componentes isolados quanto na solução tecnológica como um todo.  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>910</totalframes>
+      <time>00:00:45</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="7">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide7.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide7_200,150.jpg</slideimage>
+      <title><![CDATA[Testes de Validação]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Estratégias Fundamentais dos Testes		Existem duas estratégias de teste para conduzir o processo de validação: pela estratégia caixa branca ou pela estratégia caixa preta.  Testes de Validação  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>513</totalframes>
+      <time>00:00:25</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="8">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide8.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide8_200,150.jpg</slideimage>
+      <title><![CDATA[Teste Caixa Preta & Teste Caixa Branca]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Teste Caixa Preta & Teste Caixa Branca  Nenhum desse tipo de teste é completo, na realidade eles se completam e devem ser aplicados em conjunto a fim de garantir um teste de boa qualidade.  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>456</totalframes>
+      <time>00:00:22</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="9">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide9.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide9_200,150.jpg</slideimage>
+      <title><![CDATA[Teste Caixa Preta & Teste Caixa Branca]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Os testes dinâmicos são aqueles que para a sua execução dependem da execução de programas.  Teste Caixa Preta & Teste Caixa Branca  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>414</totalframes>
+      <time>00:00:20</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="10">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide10.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide10_200,150.jpg</slideimage>
+      <title><![CDATA[Teste Caixa Preta & Teste Caixa Branca]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[  Teste de Caixa Branca  Teste de Caixa Preta  São Complexos Exigem grande esforço de planejamento e automação dos procedimentos  Teste Caixa Preta & Teste Caixa Branca  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>815</totalframes>
+      <time>00:00:40</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="11">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide11.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide11_200,150.jpg</slideimage>
+      <title><![CDATA[Teste Caixa Preta & Teste Caixa Branca]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Teste de caixa preta não exclui a necessidade de aplicarmos os testes de caixa branca e vice-versa. O que significa que teremos um produto de maior qualidade se ambos os processos forem aplicados nas etapas de validação do software.  Teste Caixa Preta & Teste Caixa Branca  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>486</totalframes>
+      <time>00:00:24</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="12">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide12.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide12_200,150.jpg</slideimage>
+      <title><![CDATA[Teste Caixa Preta]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Teste Caixa Preta  O programa é considerado uma entidade fechada e a sua estrutura interna não é considerada.  		O teste funcional é um exemplo de teste caixa preta.  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>1088</totalframes>
+      <time>00:00:54</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="13">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide13.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide13_200,150.jpg</slideimage>
+      <title><![CDATA[Teste Caixa Preta]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Como planejamento temos tipos de entradas, resultados esperados após o programa processar aquelas entradas. 		Se o tipo de saída não ocorre, então houve uma situação de defeito.  Teste Caixa Preta  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>1609</totalframes>
+      <time>00:01:20</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="14">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide14.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide14_200,150.jpg</slideimage>
+      <title><![CDATA[Objetivos do Teste Caixa Preta]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Objetivos do Teste Caixa Preta  Garantir que os requisitos do sistema são plenamente atendidos pelo software que foi construído. 		“Não é seu objetivo verificar como ocorrem internamente os processamentos no software, mas se o algoritmo  inserido no software produz os resultados esperados.”  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>656</totalframes>
+      <time>00:00:32</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="15">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide15.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide15_200,150.jpg</slideimage>
+      <title><![CDATA[Vantagem e desvantagem do Teste de Caixa Preta]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Vantagem e desvantagem do Teste de Caixa Preta  VantagemDirecionar os testes para os conjuntos mais significativos, de forma que sejam tanto eficientes como eficazes.Quanto melhor planejado e construído o teste, maior será o retorno para todos. 		Desvantagem Não se pode garantir que todas as linhas e caminhos do código foram testados, mesmo testando as entradas e saídas.  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>1130</totalframes>
+      <time>00:00:56</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="16">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide16.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide16_200,150.jpg</slideimage>
+      <title><![CDATA[Profissional de Teste Caixa Preta]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Profissional de Teste Caixa Preta    Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>1392</totalframes>
+      <time>00:01:09</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="17">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide17.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide17_200,150.jpg</slideimage>
+      <title><![CDATA[O grande desafio do Teste de Caixa Preta]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[O grande desafio do Teste de Caixa Preta  O grande desafio de se implantar o método de caixa preta nas organizações:Planejamento mais apurado e transparente na organização;Introduzir o conceito de massa controlada;Substituir processo manual por um processo automatizado e confiável.  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>1754</totalframes>
+      <time>00:01:27</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="18">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide18.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide18_200,150.jpg</slideimage>
+      <title><![CDATA[Categorias de Erros]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Categorias de Erros  Funções incorretas ou ausentes;Interfaces;Estruturas de dados ou acesso a bancos de dados externos;Desempenho;Inicialização e término.  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>573</totalframes>
+      <time>00:00:28</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="19">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide19.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide19_200,150.jpg</slideimage>
+      <title><![CDATA[Métodos de Teste Caixa Preta]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Métodos de Teste Caixa Preta  Particionamento de Equivalência		Elabora caso de teste que descubra classes de erros, reduzindo assim o número total de casos de teste que devem ser resolvidos.		Baseia-se numa avaliação de classes de equivalência para uma condição de entrada.  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>787</totalframes>
+      <time>00:00:39</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="20">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide20.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide20_200,150.jpg</slideimage>
+      <title><![CDATA[Métodos de Teste Caixa Preta]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Métodos de Teste Caixa Preta  Classe de Equivalência 	Conjunto de estados válidos ou inválidos para condições de entrada. Se uma condição de entrada especificar um intervalo, uma classe de equivalência válida e duas classes de equivalência inválidas são definidas.Se uma condição de entrada exigir um valor específico, uma classe de equivalência válida e duas classes de equivalência inválidas são definidas.  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>650</totalframes>
+      <time>00:00:32</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="21">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide21.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide21_200,150.jpg</slideimage>
+      <title><![CDATA[Métodos de Teste Caixa Preta]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Classe de Equivalência	Como exemplo podemos extrair de um sistema de gestão de Recursos Humanos, a idade válida dos funcionários que varia entre 18 e 90 anos. As classes identificadas são:Valores abaixo de 18Valores entre 18 e 90Valores acima 90  Métodos de Teste Caixa Preta  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>882</totalframes>
+      <time>00:00:44</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="22">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide22.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide22_200,150.jpg</slideimage>
+      <title><![CDATA[Métodos de Teste Caixa Preta]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Métodos de Teste Caixa Preta  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>732</totalframes>
+      <time>00:00:36</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="23">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide23.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide23_200,150.jpg</slideimage>
+      <title><![CDATA[Métodos de Teste Caixa Preta]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Métodos de Teste Caixa Preta  Análise de Valor Limite				Verifica o maior número de erros nas fronteiras do domínio de entrada do que no “centro”.		Os testes põem à prova os valores fronteiriços.		 Na análise de valores limites, tanto os valores de entrada quanto os de saída deverão ser analisados.  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>851</totalframes>
+      <time>00:00:42</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="24">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide24.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide24_200,150.jpg</slideimage>
+      <title><![CDATA[Métodos de Teste Caixa Preta]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Algumas condições de valores limitesSe uma condição de entrada um intervalo, delimitado pelos valores a e b, os casos de teste devem ser projetados com valores a e b logo acima e logo abaixo de a e b respectivamente.Se uma condição de entrada especificar uma série de valores, os casos de teste que ponham à prova números máximos e mínimos devem ser desenvolvidos. Aplique as diretrizes 1 e 2 às condições de saída.Se estruturas internas de dados do programa tiverem prescrito fronteiras, certifique-se de projetar um caso de teste para exercitar a estrutura de dados em sua fronteira.  Métodos de Teste Caixa Preta  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>1707</totalframes>
+      <time>00:01:25</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="25">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide25.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide25_200,150.jpg</slideimage>
+      <title><![CDATA[Métodos de Teste Caixa Preta]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Métodos de Teste Caixa Preta  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>1858</totalframes>
+      <time>00:01:32</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="26">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide26.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide26_200,150.jpg</slideimage>
+      <title><![CDATA[Métodos de Teste Caixa Preta]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Métodos de Teste Caixa Preta  Tabela de decisão				É uma técnica de teste baseada em uma combinação de situações que devem ocorrer para que uma determinada ação seja tomada, que pode ser expressa por um determinado processamento ou por um cálculo. 		Cada coluna da tabela corresponde a uma regra de negócio que define uma única combinação de condições que resulta na execução de ações associada com aquela regra.  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>1052</totalframes>
+      <time>00:00:52</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="27">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide27.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide27_200,150.jpg</slideimage>
+      <title><![CDATA[Métodos de Teste Caixa Preta]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Métodos de Teste Caixa Preta    Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>517</totalframes>
+      <time>00:00:25</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="28">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide28.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide28_200,150.jpg</slideimage>
+      <title><![CDATA[Métodos de Teste Caixa Preta]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Métodos de Teste Caixa Preta  O exemplo imaginário a decisão de se aceitar o seguro será baseado no número de acidentes combinado com o sexo do motorista. Esta suposta companhia de seguros entende que as pessoas do sexo feminino dirigem com mais cuidado, como podemos ver na tabela de decisão.  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>893</totalframes>
+      <time>00:00:44</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="29">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide29.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide29_200,150.jpg</slideimage>
+      <title><![CDATA[Métodos de Teste Caixa Preta]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Métodos de Teste Caixa Preta  Erro imaginado				Técnica pressupõe que o  testador pode desenvolver situações de teste baseadas na sua própria experiência e intuição. 		Produz bons resultados		 Concentram alta probabilidade de identificação de defeitos no software.  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>751</totalframes>
+      <time>00:00:37</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="30">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide30.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide30_200,150.jpg</slideimage>
+      <title><![CDATA[Métodos de Teste Caixa Preta]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Métodos de Teste Caixa Preta  Algumas técnicas que usamos para provocar erros na aplicação:Número máximo de caracteresValores Brancos ou NulosValores inválidos e Negativos  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>1105</totalframes>
+      <time>00:00:55</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="31">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide31.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide31_200,150.jpg</slideimage>
+      <title><![CDATA[Métodos de Teste Caixa Preta]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Métodos de Teste Caixa Preta  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>1155</totalframes>
+      <time>00:00:57</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="32">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide32.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide32_200,150.jpg</slideimage>
+      <title><![CDATA[Métodos de Teste Caixa Preta]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Métodos de Teste Caixa Preta  Teste de Interface de Programas				É uma técnica que avalia se dois ou mais programas que já passaram pelos respectivos testes unitários satisfazem ao processo de integração. 			Tem por objetivo garantir que a informação necessária está sendo passada de um programa para outro.  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>584</totalframes>
+      <time>00:00:29</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="33">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide33.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide33_200,150.jpg</slideimage>
+      <title><![CDATA[Métodos de Teste Caixa Preta]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Métodos de Teste Caixa Preta  Teste de Interface de programasProcedimentos para execução deste teste são:Identificar o fluxo de dados entre os programas;Estabelecer as classes de equivalência;Estabelecer os casos de teste;Estabelecer as ações e os resultados de teste;Estabelecer a base de dados de teste inicial;Montar os scripts de teste.  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>612</totalframes>
+      <time>00:00:30</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="34">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide34.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide34_200,150.jpg</slideimage>
+      <title><![CDATA[Métodos de Teste Caixa Preta]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Métodos de Teste Caixa Preta  Como exemplo temos o cadastramento de clientes de uma loja, existem três tipos possíveis de clientes de acordo com a sua renda. 	Existe um programa de:  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>784</totalframes>
+      <time>00:00:39</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="35">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide35.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide35_200,150.jpg</slideimage>
+      <title><![CDATA[Métodos de Teste Caixa Preta]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Métodos de Teste Caixa Preta  As situações de teste são as seguintes:Clientes A, B e C conforme a renda.Clientes A, B e C são cadastrados pelo programa1 Clientes A, B e C recebem mensagens de boas vindas através do programa 2  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>492</totalframes>
+      <time>00:00:24</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="36">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide36.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide36_200,150.jpg</slideimage>
+      <title><![CDATA[Métodos de Teste Caixa Preta]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Métodos de Teste Caixa Preta  Clientes A são selecionados para marketing 1 com aviso ao gerente pelo programa 3		Clientes B e C são selecionados para marketing 2 pelo programa 3  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>497</totalframes>
+      <time>00:00:24</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="37">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide37.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide37_200,150.jpg</slideimage>
+      <title><![CDATA[Métodos de Teste Caixa Preta]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Métodos de Teste Caixa Preta  Teste de semântica				Esta técnica de teste deve ser usada para avaliar o relacionamento entre os diversos campos de uma tela ou entre diversas telas.			Relacionamentos entre os campos;		Detalhar estes relacionamentos;		Estabelecer as ações e os respectivos resultados;		Definir a base de dados inicial;		Escrever os scripts de teste.  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>718</totalframes>
+      <time>00:00:35</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="38">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide38.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide38_200,150.jpg</slideimage>
+      <title><![CDATA[Métodos de Teste Caixa Preta]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Métodos de Teste Caixa Preta  Teste de semântica			Como exemplo podemos citar a emissão de um vale postal nos CORREIOS, quando o atendente informa o CPF do usuário o sistema traz todas as informações do usuário se ele já estiver cadastrado no sistema, ou seja, há um relacionamento entre o campo CPF e os demais campos do sistema.  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>821</totalframes>
+      <time>00:00:41</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="39">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide39.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide39_200,150.jpg</slideimage>
+      <title><![CDATA[Métodos de Teste Caixa Preta]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Métodos de Teste Caixa Preta  Teste de Sintaxe				Esta técnica de especificação deve ser usada para avaliar se as telas ou relatórios têm defeitos de sintaxe e estão em conformidade com o modelo de dados do sistema. 		Os procedimentos que devem ser seguidos são os seguintes:			Criar uma lista de verificação para as telas e relatórios;		Definir as telas e relatórios que serão testados;		Montar os scripts de teste.  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>1088</totalframes>
+      <time>00:00:54</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="40">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide40.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide40_200,150.jpg</slideimage>
+      <title><![CDATA[Métodos de Teste Caixa Preta]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Métodos de Teste Caixa Preta  Teste de Transição de Estados				O comportamento do sistema pode ser representado como um diagrama de transição de estados. Permite ao testador visualizar o software em termos de estados, transições entre estados, as entradas ou eventos que disparam as mudanças de estado (transição) e as ações que podem resultar daquelas transições.		Uma tabela de estado exibe a relação entre estados e entradas, e pode destacar possíveis transições que estão inválidas.  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>1169</totalframes>
+      <time>00:00:58</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="41">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide41.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide41_200,150.jpg</slideimage>
+      <title><![CDATA[Métodos de Teste Caixa Preta]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Métodos de Teste Caixa Preta  Teste de Transição de Estados					Teste de transição de estados é muito utilizada em softwares industriais embarcados e automações técnicas em geral. 		A técnica é também adequada para modelar um objeto de negócio tendo estado específico ou para testar fluxos de telas de diálogos.  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>977</totalframes>
+      <time>00:00:48</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="42">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide42.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide42_200,150.jpg</slideimage>
+      <title><![CDATA[Métodos de Teste Caixa Preta]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Métodos de Teste Caixa Preta  Teste de Caso de Uso		Testes podem ser especificados a partir de casos de uso ou cenários de negócios. Um caso de uso descreve interações entre os atores que produz um resultado relevante para um usuário do sistema. Cada caso de uso tem pré-condições, que precisam ser garantidas para que o caso de uso funcione com sucesso. 		Cada caso de uso é finalizado com uma pós-condição que representam os resultados observados e o estado final do sistema após o término do caso de uso.  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>1094</totalframes>
+      <time>00:00:54</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="43">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide43.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide43_200,150.jpg</slideimage>
+      <title><![CDATA[Métodos de Teste Caixa Preta]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Métodos de Teste Caixa Preta  Teste de Caso de Uso		Casos de uso muitas vezes são tratados como cenários, e úteis para construir testes de aceite com a participação do usuário final. Eles podem ajudar a descobrir defeitos de integração causados pela interação e interferência de diferentes componentes, que testes individuais de componentes podem não ter detectado.  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>1080</totalframes>
+      <time>00:00:54</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="44">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide44.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide44_200,150.jpg</slideimage>
+      <title><![CDATA[Teste de Caixa Branca]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Teste de Caixa Branca  Tipo de teste onde a estrutura interna do software é analisada.  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>224</totalframes>
+      <time>00:00:11</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="45">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide45.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide45_200,150.jpg</slideimage>
+      <title><![CDATA[Teste de Caixa Branca]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Teste de Caixa Branca  Os Testes de estrutura ou caixa-branca são baseados na estrutura do software ou sistema. 		Nível de Componente 			Nível de Integração			Nível de Sistema  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>784</totalframes>
+      <time>00:00:39</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="46">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide46.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide46_200,150.jpg</slideimage>
+      <title><![CDATA[Objetivos do Teste de Caixa Branca]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Objetivos do Teste de Caixa Branca  O objetivo do teste de Caixa Branca é identificar defeitos nas estruturas internas dos programas através da simulação de situações que exercitem adequadamente todas as estruturas utilizadas na codificação, como:		desvios condicionais 		laços de processamento 		caminhos alternativos de execução.  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>754</totalframes>
+      <time>00:00:37</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="47">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide47.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide47_200,150.jpg</slideimage>
+      <title><![CDATA[Objetivos do Teste de Caixa Branca]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Objetivos do Teste de Caixa Branca  Pontos de validações críticos para avaliar a qualidade dos componentes de software:		Linhas de código;		Desvios condicionais;		Fluxos alternativos de processamento.  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>787</totalframes>
+      <time>00:00:39</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="48">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide48.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide48_200,150.jpg</slideimage>
+      <title><![CDATA[Planejamento dos Teste Caixa Branca]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Planejamento dos Teste Caixa Branca  “Os métodos aplicados nos testes de caixa branca são técnicas bem diferentes das aplicadas nos métodos de caixa preta”.  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>665</totalframes>
+      <time>00:00:33</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="49">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide49.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide49_200,150.jpg</slideimage>
+      <title><![CDATA[Execução dos Testes Caixa Branca]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Execução dos Testes Caixa Branca  Construir um controlador de testes, onde disparamos rotinas “encapsuladas” na unidade de software e avaliamos os resultados gerados e comparamos com o resultado esperado. Analisamos o log de execução, identificando quais casos de testes obtiveram sucesso e quais falharam, permitindo a correção dos pontos de não-conformidade na unidade de software.  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>946</totalframes>
+      <time>00:00:47</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="50">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide50.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide50_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 50]]></title>
+      <notes><![CDATA[50]]></notes>
+      <slidetext><![CDATA[Baseado no livro: Base de Conhecimento em Teste de SoftwareAnderson BastosEmerson RiosTrayahu MoreiraRicardo Cristalli  MBA em Engenharia de Software à Distância  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>345</totalframes>
+      <time>00:00:17</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="51">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide51.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide51_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 51]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Parabéns!Até a próxima aula!  MBA em Engenharia de Software à Distância  Profª  Cleziana de Freitas Costa  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>555</totalframes>
+      <time>00:00:27</time>
+      <transitionmediaurl />
+    </slide>
+  </slides>
+</presentation>
