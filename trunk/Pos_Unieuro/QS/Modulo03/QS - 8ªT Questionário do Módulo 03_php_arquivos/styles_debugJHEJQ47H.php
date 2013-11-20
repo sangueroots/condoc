@@ -1,0 +1,3 @@
+#page-report-loglive-index .info {
+	margin: 10px;
+}
