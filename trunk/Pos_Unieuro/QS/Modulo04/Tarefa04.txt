@@ -1,3 +1,9 @@
-Tarefa do módulo 03 e 04 (5,0 pontos)
+﻿Tarefa do módulo 03 e 04 (5,0 pontos)
 
 Quais as diferenças entre as áreas de processo OPF e OPM do Gerenciamento de Processos em relação a implantação de melhorias? (Justifique sua resposta)
+
+OPF - Nível 2 - Foca no processo organizacional - Planejar, implementar e entregar melhorias nos processos organizacionais baseado no completo 
+entendimento dos pontos fortes e fracos dos processos e ativos de processos da organização.
+OPM - Nível 5 - Gestão do desempenho organizacional - Gerenciar proativamente o desempenho da organização para atender aos objetivos do negócio.
+
+
