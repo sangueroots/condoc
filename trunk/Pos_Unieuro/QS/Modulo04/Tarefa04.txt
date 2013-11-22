@@ -6,4 +6,7 @@ OPF - Nível 2 - Foca no processo organizacional - Planejar, implementar e entre
 entendimento dos pontos fortes e fracos dos processos e ativos de processos da organização.
 OPM - Nível 5 - Gestão do desempenho organizacional - Gerenciar proativamente o desempenho da organização para atender aos objetivos do negócio.
 
+Primeiramente estão em níveis completamente diferentes a nível de maturidade. A OPF faz a entrega de resultados esperados nas melhorias adotadas dentro da organização.
+Já a OPM faz as métricas do gerenciamento e desempenho das políticas adotadas na organização.
+
 
