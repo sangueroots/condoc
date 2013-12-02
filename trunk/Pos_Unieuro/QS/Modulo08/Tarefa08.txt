@@ -1,3 +1,11 @@
-Tarefa do Módulo 08(5,0 pontos)
+﻿Tarefa do Módulo 08(5,0 pontos)
 
 Quais são as diferenças entre as áreas de processo de desenvolvimento de requisitos e gerenciamento de requisitos? (Justifique sua resposta)
+
+Resposta:
+
+A área de processo de desenvolvimento tem o objetivo de produzir e analizar os requisitos do cliente do produto e de componentes do produto.
+
+Ja o Gerenciamento ja tem o objetivo de controlar e gerenciar os requisitos do cliente.
+
+No processo de desenvolvimento é onde em outras palavras vamos meter a mão na massa,  ja no gerenciamento ficamos só controlando e gerenciando.
