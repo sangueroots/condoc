@@ -1,3 +1,8 @@
-Tarefa do Módulo 10 (5,0 pontos)
+﻿Tarefa do Módulo 10 (5,0 pontos)
 Na sua opinião, a utilização do modelo de maturidade e capacidade integrado, o CMMI, garante a qualidade do produto e/ou serviço entregue ao cliente? 
 Justifique sua resposta (Texto Complementar Final).
+
+Sim, vejo que através do modelo de maturidade em níveis 3 e 4 ou acima, são níveis que se bem gerenciados, podem sim garantir
+a qualidade da entrega do produto de software.
+Podemos lembrar ainda que a qualidade depende de vários fatores de riscos dentro de qualquer modelegem existente no mercado,
+portanto a capacidade de integração do modelo CMMI obriga a prática da qualidade.
