@@ -1,0 +1,20 @@
+1) Cite 3 dificuldades encontradas no levantamento de requisitos.
+
+	1. Nem nem sempre são óbvios.
+	2. Nem sempre são facilmente expressos em palavras
+	3. Os requisitos mudam. 
+
+2) Defina de forma geral o que é a técnica de JAD?
+	
+		O desenvolvimento conjunto de aplicações ou JAD é uma das técnicas de levantamento de requisitos que tem como vantagens o rápido fonecimento do sistema, fazendo com que
+		o apoio ao software seja disponibilizado rapidamente e o compromisso do usuário com o sistema, de modo que o proceso de desenvolvimento do sistema tem maior 
+		possibilididade de atender a seus requisitos e faz com que os usuários finais assumam um compromisso e provavelmente vão querer contribuir para qeu ele funcione.
+
+3) Estudo de Viabilidade. Antes do levantamento de requisitos devemos nos questionar sobre a Viabilidade do projeto. 
+Que questões principais devem ser verificadas antes de prosseguirmos com o levantamento de requisitos ?
+
+O estudo de viabilidade analisa e as necessidades do cliente podem ser satisfeitas levando-se em consideração as restrições orçamentarias existentes.
+
+
+
+
