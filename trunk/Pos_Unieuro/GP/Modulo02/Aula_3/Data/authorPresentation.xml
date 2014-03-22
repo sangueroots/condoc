@@ -1,0 +1,1758 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<presentation>
+  <properties>
+    <title><![CDATA[aula3_Ciclo de Vida]]></title>
+    <creationdate>25/07/2012 00:49:02</creationdate>
+    <audio>on</audio>
+    <navigationonclick>false</navigationonclick>
+    <animations>true</animations>
+    <transitions>false</transitions>
+    <sdkversion>07</sdkversion>
+    <release>1.1</release>
+    <soundacrossslides>false</soundacrossslides>
+    <defaulturl>Slides/default_0.swf</defaulturl>
+    <video>
+    </video>
+    <templatecolor>Silver</templatecolor>
+    <layout>E-Learning Standard</layout>
+    <presentertitle><![CDATA[]]></presentertitle>
+    <presentername><![CDATA[]]></presentername>
+    <presentercompany><![CDATA[]]></presentercompany>
+    <presenteremail><![CDATA[]]></presenteremail>
+    <presentationtitle>aula3_Ciclo de Vida</presentationtitle>
+    <powerpointfile>aula3_Ciclo de Vida.ppt</powerpointfile>
+    <presentationdescription><![CDATA[]]></presentationdescription>
+    <presentationkeywords>Ciclo de vida e organização do projeto</presentationkeywords>
+    <audioquality>Medium</audioquality>
+    <imagequality>9</imagequality>
+    <showslidenotesinoutput>True</showslidenotesinoutput>
+    <usenarrations>True</usenarrations>
+  </properties>
+  <slides>
+    <slide id="1">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide1.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide1_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 1]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[MBA em Gestão de Projetos de Software  Introdução ao Gerenciamento de Projetos  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>120</totalframes>
+      <time>00:00:06</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="2">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide2.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide2_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Os projetos e o gerenciamento de projetos são executados em um ambiente mais amplo que o do projeto propriamente dito. A equipe de gerenciamento de projetos precisa entender esse contexto mais amplo para que possa selecionar as fases do ciclo de vida, os processos, as ferramentas e técnicas adequadas ao projeto.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>611</totalframes>
+      <time>00:00:30</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="3">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide3.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide3_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[O ciclo de vida do projetoA organização ou os gerentes de projetos podem dividir projetos em fases para oferecer melhor controle gerencial com ligações adequadas com as operações em andamento da organização executora. Essas fases são conhecidas como o ciclo de vida do projeto. Algumas organizações identificam um conjunto específico de ciclos de vida para serem usados em todos os seus projetos.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>657</totalframes>
+      <time>00:00:32</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="4">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide4.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide4_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[O ciclo de vida do projetoO ciclo de vida de um projeto consiste nas fases do mesmo que geralmente são seqüenciais e que às vezes se sobrepõem, cujo nome e número são determinados pelas necessidades de gerenciamento e controle da(s) organização(ões) envolvidas , a natureza do projeto em si e sua área de aplicação.Um ciclo de vida pode ser documentado com uma metodologia.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>590</totalframes>
+      <time>00:00:29</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="5">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide5.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide5_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[O ciclo de vida do projetoO ciclo de vida pode ser definido ou moldado de acordo com aspectos exclusivos da organização, indústria ou tecnologia empregada. Ao passo em que todos os projetos têm um início e um fim definidos, as entregas e atividades específicas conduzidas neste ínterim poderão variar muito de acordo com o projeto. O ciclo de vida oferece uma estrutura básica para o gerenciamento do projeto, independentemente do trabalho específico envolvido.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>727</totalframes>
+      <time>00:00:36</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="6">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide6.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide6_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Características do ciclo de vida do projeto Os projetos variam em tamanho e complexidade. Não importa se grandes ou pequenos, simples ou complexos, todos os projetos podem ser mapeados para a estrutura de ciclo de vida a seguir (veja a Figura 2.1): Início do projeto;Organização e preparação;Execução do trabalho do projeto eEncerramento do projeto.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>678</totalframes>
+      <time>00:00:33</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="7">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide7.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide7_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Características do ciclo de vida do projeto Esta estrutura genérica de ciclo de vida é frequentemente referenciada na comunicação com a alta administração ou outras entidades menos familiarizadas com os detalhes do projeto. Esta visão de alto nível pode oferecer um quadro de referência comum para comparação de projetos – mesmo que, em sua natureza, eles não sejam semelhantes.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>525</totalframes>
+      <time>00:00:26</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="8">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide8.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide8_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Ciclo de vida e organização do projeto  Fonte: PMBOK, 2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>941</totalframes>
+      <time>00:00:47</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="9">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide9.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide9_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Características do ciclo de vida do projeto A estrutura genérica do ciclo de vida geralmente apresenta as seguintes características:Os níveis de custo e de pessoal são baixos no início, atingem um valor máximo enquanto o projeto é executado e caem rapidamente conforme o projeto é finalizado. A linha pontilhada na Figura 2-1 ilustra este padrão típico.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>521</totalframes>
+      <time>00:00:26</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="10">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide10.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide10_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Características do ciclo de vida do projeto A influência das partes interessadas, os riscos e as incertezas (conforme ilustrado na Figura 2-2) são maiores durante o início do projeto. Estes fatores caem ao longo da vida do mesmo.A capacidade de influenciar as características finais do produto do projeto, sem impacto significativo sobre os custos, é mais alta no início e torna-se cada vez menor conforme o projeto progride para o seu término.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>639</totalframes>
+      <time>00:00:31</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="11">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide11.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide11_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Características do ciclo de vida do projeto A Figura 2-2 ilustra a idéia de que os custos das mudanças e correções de erros geralmente aumentam significativamente conforme o projeto se aproxima do término.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>249</totalframes>
+      <time>00:00:12</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="12">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide12.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide12_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Ciclo de vida e organização do projeto  Fonte: PMBOK, 2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>529</totalframes>
+      <time>00:00:26</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="13">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide13.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide13_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Características do ciclo de vida do projeto Dentro do contexto da estrutura genérica do ciclo de vida, um gerente de projetos pode determinar a necessidade de um controle mais eficaz sobre certas entregas. Projetos grandes e complexos em particular podem requerer este nível adicional de controle. Nestes casos, o trabalho realizado para atingir os objetivos do projeto pode se beneficiar com a divisão formal em fases.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>587</totalframes>
+      <time>00:00:29</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="14">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide14.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide14_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Relações entre o ciclo de vida do projeto e do produto O ciclo de vida do produto consiste em fases do produto, geralmente sequenciais e não sobrepostas, determinadas pela necessidade de produção e controle da organização.A última fase do ciclo de vida de um produto é geralmente a retirada de circulação do produto. Geralmente o ciclo de vida de um projeto está contido em um ou mais ciclos de vida do produto.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>690</totalframes>
+      <time>00:00:34</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="15">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide15.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide15_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Relações entre o ciclo de vida do projeto e do produto É necessário ter cuidado para distinguir o ciclo de vida do projeto do ciclo de vida do produto. Todos os projetos têm um fim ou objetivo, mas nos casos onde o objetivo é um serviço ou resultado, pode-se definir um ciclo de vida para o serviço ou resultado em vez de um ciclo de vida de produto.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>507</totalframes>
+      <time>00:00:25</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="16">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide16.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide16_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Relações entre o ciclo de vida do projeto e do produto Quando a saída do projeto está relacionada a um produto, existem muitas relações possíveis. Por exemplo, o desenvolvimento de um novo produto pode ser um projeto em si. Ao mesmo tempo, um produto existente pode se beneficiar de um projeto para o acréscimo de novas funções ou características, ou pode-se criar um projeto para desenvolver um novo modelo.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>568</totalframes>
+      <time>00:00:28</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="17">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide17.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide17_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Relações entre o ciclo de vida do projeto e do produto Vários aspectos do ciclo de vida do produto prestam-se à execução como projetos; por exemplo, a realização de um estudo de viabilidade, a condução de pesquisas de mercado, a execução de campanhas publicitárias, a instalação de um produto, realização de dinâmicas de grupo e de avaliações de produtos em mercados de teste, etc. Em cada um destes exemplos, o ciclo de vida do projeto difere-se do ciclo de vida do produto.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>626</totalframes>
+      <time>00:00:31</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="18">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide18.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide18_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Relações entre o ciclo de vida do projeto e do produto Como um produto pode ter muitos projetos associados a ele, é possível obter ganhos de eficiência adicionais gerenciando-se todos os projetos relacionados em conjunto. Por exemplo, uma série de projetos distintos pode ser relacionada ao desenvolvimento de um novo automóvel.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>510</totalframes>
+      <time>00:00:25</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="19">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide19.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide19_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Relações entre o ciclo de vida do projeto e do produto Cada projeto pode ser distinto, mas ainda assim contribuir com uma entrega-chave necessária para levar o automóvel ao mercado. A supervisão de todos os projetos por uma autoridade superior pode aumentar significativamente a probabilidade de sucesso.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>404</totalframes>
+      <time>00:00:20</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="20">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide20.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide20_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Fases do ProjetoAs fases do projeto são divisões de um projeto onde controle adicional é necessário para gerenciar de forma efetiva o término de uma entrega importante. Geralmente as fases são terminadas seqüencialmente, mas podem se sobrepor em algumas situações . A natureza de alto nível das fases de um projeto as torna um elemento do ciclo de vida do projeto. Uma fase não é um grupo de processos de gerenciamento de projetos.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>614</totalframes>
+      <time>00:00:30</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="21">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide21.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide21_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Fases do ProjetoA estrutura de fases permite que o projeto seja segmentado em subconjuntos lógicos para facilitar o gerenciamento, o planejamento e controle. O número de fases, a necessidade de fases e o grau de controle aplicado depende do tamanho, grau de complexidade e impacto potencial do projeto. Independentemente do número de fases que compõem um projeto, todas têm características semelhantes:  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>636</totalframes>
+      <time>00:00:31</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="22">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide22.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide22_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Fases do ProjetoQuando as fases são seqüenciais, o encerramento de uma fase termina com alguma forma de transferência ou entrega do produto do trabalho produzido como entrega da fase. O final desta fase representa um ponto natural de reavaliação dos esforços em andamento e de modificação ou término do projeto, caso necessário. Esses pontos também são chamados de saídas de fase, marcos, passagens de fase, passagens de estágio, portões de decisão ou pontos de término.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>682</totalframes>
+      <time>00:00:34</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="23">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide23.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide23_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Fases do ProjetoO trabalho tem um foco diferente de quaisquer outras fases. Isso geralmente envolve diferentes organizações e conjuntos de habilidades.A principal entrega ou objetivo da fase requer um grau superior de controle para ser atingido com sucesso. A repetição de processos entre todos os cinco grupos dos mesmos, proporciona o grau de controle adicional e define os limites da fase.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>586</totalframes>
+      <time>00:00:29</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="24">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide24.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide24_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Fases do ProjetoEmbora muitos projetos possam ter nomes de fases similares com entregas similares, poucos são idênticos. Alguns terão somente uma fase, conforme exibido na Figura 2-3. Outros projetos podem ter muitas fases. A Figura 2-4 mostra um exemplo de projeto com três fases. Fases distintas normalmente têm durações ou extensões diferentes.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>583</totalframes>
+      <time>00:00:29</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="25">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide25.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide25_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Ciclo de vida e organização do projeto  Fonte: PMBOK, 2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>336</totalframes>
+      <time>00:00:16</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="26">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide26.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide26_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Fases do ProjetoNão há uma forma única de definir a estrutura ideal para um projeto. Embora práticas comuns no setor normalmente levem à utilização de uma estrutura preferida, projetos no mesmo setor, ou mesmo dentro da mesma organização, podem apresentar variações significativas.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>693</totalframes>
+      <time>00:00:34</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="27">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide27.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide27_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Fases do ProjetoAlgumas organizações estabeleceram políticas que padronizam todos os projetos, enquanto outras permitem que a equipe de gerenciamento escolha as políticas mais apropriadas para seu projeto específico. Por exemplo, uma organização pode tratar um estudo de viabilidade como uma tarefa rotineira da fase pré-projeto, outra pode tratar o mesmo estudo como a primeira fase de um projeto e uma terceira pode tratar o estudo de viabilidade como um projeto distinto e independente.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>691</totalframes>
+      <time>00:00:34</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="28">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide28.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide28_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Fases do ProjetoDa mesma maneira, uma equipe de projeto pode dividir um projeto em duas fases onde uma equipe diferente pode escolher gerenciar todo o trabalho como uma única fase. Muito depende da natureza do projeto específico e do estilo da equipe de projeto ou da organização.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>416</totalframes>
+      <time>00:00:20</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="29">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide29.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide29_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Governança de projetos ao longo do ciclo de vida A governança de projetos oferece um método abrangente e consistente de controle e garantia de sucesso do projeto.A abordagem da governança do projeto deve ser descrita no plano de gerenciamento do projeto.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>388</totalframes>
+      <time>00:00:19</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="30">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide30.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide30_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Governança de projetos ao longo do ciclo de vida A governança do projeto deve se adequar ao contexto mais amplo do programa ou da organização patrocinadora. Consideradas tais restrições e as limitações adicionais de tempo e orçamento, cabe ao gerente de projetos e à equipe de gerenciamento determinar o método mais apropriado de execução do projeto.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>500</totalframes>
+      <time>00:00:25</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="31">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide31.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide31_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Governança de projetos ao longo do ciclo de vida Decisões devem ser tomadas sobre quais pessoas serão envolvidas, quais recursos serão necessários e qual a abordagem geral adotada para o término do trabalho. Outra consideração importante é se haverá mais de uma fase envolvida e, em caso afirmativo, determinar a estrutura de fases específica do projeto individual.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>490</totalframes>
+      <time>00:00:24</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="32">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide32.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide32_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Governança de projetos ao longo do ciclo de vida A estrutura de fases propicia uma base formal para o controle. Cada fase é formalmente iniciada para especificar o que é permitido e esperado dela. Uma análise do gerenciamento costuma ser feita para se chegar a uma decisão sobre o início das atividades de uma fase. Isso se aplica em especial quando uma fase anterior ainda não foi concluída. Um exemplo seria quando uma organização opta por um ciclo de vida em que mais de uma fase do projeto avança simultaneamente.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>742</totalframes>
+      <time>00:00:37</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="33">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide33.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide33_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Governança de projetos ao longo do ciclo de vida O início de uma fase é também o momento de revalidar antigas premissas, analisar riscos e definir mais detalhadamente os processos necessários para realizar a(s) entrega(s) da fase. Por exemplo, se uma fase específica não exigir a compra de novos materiais ou equipamentos, não será necessário executar as atividades ou processos de aquisição.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>518</totalframes>
+      <time>00:00:25</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="34">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide34.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide34_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Governança de projetos ao longo do ciclo de vida Uma fase de projeto é geralmente concluída e formalmente fechada com uma revisão das entregas para que se determine o término e a aceitação. Pode ser realizada uma análise de final de fase com os objetivos combinados de se obter autorização para encerrar a atual e iniciar a seguinte.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>513</totalframes>
+      <time>00:00:25</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="35">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide35.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide35_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Governança de projetos ao longo do ciclo de vida O final de uma fase representa um ponto natural de reavaliação do esforço em andamento e de modificação ou término do projeto, se necessário. Considera-se uma boa prática avaliar as principais entregas e o desempenho do projeto até a data em questão para:a)determinar se o projeto deve continuar para sua próxima fase eb) detectar e corrigir erros de forma eficaz.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>629</totalframes>
+      <time>00:00:31</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="36">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide36.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide36_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Governança de projetos ao longo do ciclo de vida O término formal da fase não inclui necessariamente uma autorização da seguinte. Por exemplo, se o risco é considerado grande demais para que a continuação do projeto seja permitida ou se os objetivos não forem mais necessários, uma fase poderá ser encerrada com a decisão de não se iniciar qualquer outra fase subseqüente.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>464</totalframes>
+      <time>00:00:23</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="37">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide37.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide37_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Relações entre fases Quando os projetos têm várias fases, estas são parte, em geral, de um processo seqüencial projetado para garantir um controle adequado do projeto e obter o produto, serviço ou resultado desejado. Contudo, há situações em que um projeto pode se beneficiar de fases sobrepostas ou simultâneas. Há três tipos básicos de relações entre fases:  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>574</totalframes>
+      <time>00:00:28</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="38">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide38.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide38_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Relações entre fases Uma relação seqüencial, em que uma fase só poderá iniciar depois que a anterior terminar. A Figura 2-4 mostra um exemplo de um projeto com fases inteiramente seqüenciais. A natureza passo a passo desta abordagem reduz incertezas, mas pode eliminar opções de redução do cronograma.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>411</totalframes>
+      <time>00:00:20</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="39">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide39.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide39_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Relações entre fases Uma relação sobreposta, em que a fase tem início antes do término da anterior (veja a Figura 2-5). Às vezes, ela pode ser aplicada como um exemplo da técnica de compressão de cronograma denominada paralelismo. As fases sobrepostas podem aumentar o risco e resultar em retrabalho caso uma fase subseqüente progrida antes que informações precisas sejam disponibilizadas pela fase anterior.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>665</totalframes>
+      <time>00:00:33</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="40">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide40.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide40_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Ciclo de vida e organização do projeto  Fonte: PMBOK, 2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>184</totalframes>
+      <time>00:00:09</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="41">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide41.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide41_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Ciclo de vida e organização do projeto  Fonte: PMBOK, 2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>209</totalframes>
+      <time>00:00:10</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="42">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide42.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide42_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Relações entre fases Uma relação iterativa, em que apenas uma fase está planejada a qualquer momento e o planejamento da próxima é feito à medida que o trabalho avança na fase atual e nas entregas. Esta abordagem é útil em ambientes muito indefinidos, incertos ou em rápida transformação, como pesquisas, mas pode reduzir a capacidade de fornecer um planejamento de longo prazo. Nesses casos, o escopo é gerenciado por entregas contínuas de incrementos do produto e priorização dos requisitos para minimizar riscos do projeto e maximizar o valor comercial do produto. Essa relação também pode fazer com que todos os membros da equipe (por exemplo, projetistas, desenvolvedores, etc.) tenham que ficar disponíveis durante todo o projeto ou, pelo menos, por duas fases consecutivas.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>1162</totalframes>
+      <time>00:00:58</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="43">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide43.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide43_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Relações entre fases Em projetos de várias fases, pode ocorrer mais de uma relação entre as mesmas durante o ciclo de vida do projeto. Considerações como, por exemplo, o nível de controle necessário, a eficácia e o grau de incerteza determinam a relação a ser aplicada entre as fases. Com base nessas considerações, todas as três relações podem ocorrer entre fases diferentes de um único projeto.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>590</totalframes>
+      <time>00:00:29</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="44">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide44.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide44_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Projeto versus trabalho operacional As organizações realizam um trabalho para atingir um conjunto de objetivos. Em muitas delas, o trabalho realizado pode ser categorizado como trabalho de projeto ou trabalho de operações. Esses dois tipos de trabalho compartilham várias características, como se segue:Realizados por pessoas;Limitados por restrições, incluindo restrições de recursos;Planejado, executado, monitorado e controlados e;  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>673</totalframes>
+      <time>00:00:33</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="45">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide45.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide45_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Projeto versus trabalho operacional Realizados para atingir objetivos organizacionais ou planos estratégicos.Os projetos e as operações diferem principalmente no fato de que as operações são contínuas e produzem produtos, serviços ou resultados repetitivos. Os projetos (juntamente com os membros da equipe e, muitas vezes, a oportunidade) são temporários e terminam. Por outro lado, o trabalho de operações é contínuo e mantém a organização ao longo do tempo.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>666</totalframes>
+      <time>00:00:33</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="46">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide46.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide46_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Projeto versus trabalho operacional O trabalho operacional não termina quando seus objetivos atuais são atingidos, mas, em vez disso, segue novas direções para apoiar os planos estratégicos da organização.O trabalho de operações apóia o ambiente empresarial em que os projetos são executados. Como resultado, há geralmente uma interação significativa entre os departamentos de operações e a equipe do projeto, pois eles trabalham juntos para atingir os objetivos do projeto.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>654</totalframes>
+      <time>00:00:32</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="47">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide47.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide47_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Projeto versus trabalho operacional Um exemplo disso é quando um projeto é criado para reprojetar um produto. O gerente de projetos pode trabalhar com vários gerentes operacionais para pesquisar as preferências do consumidor, redigir especificações técnicas, construir um protótipo, testá-lo e iniciar a fabricação.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>430</totalframes>
+      <time>00:00:21</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="48">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide48.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide48_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Projeto versus trabalho operacional A equipe fará interface com os departamentos operacionais para determinar a capacidade de fabricação dos equipamentos atuais ou para determinar o momento mais adequado da transição das linhas de produção para a fabricação do novo produto.A quantidade de recursos fornecida pelas operações variará de acordo com o projeto. Um exemplo dessa interação é quando pessoas de operações são designadas como recursos de projeto dedicados.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>646</totalframes>
+      <time>00:00:32</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="49">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide49.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide49_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Projeto versus trabalho operacional Sua experiência operacional é usada para executar e auxiliar no término das entregas do projeto trabalhando com o restante da equipe do projeto para terminá-lo. Dependendo da natureza do projeto, as entregas podem modificar ou contribuir para o trabalho das operações existentes. Nesse caso, o departamento de operações integrará as entregas em práticas empresariais futuras. Exemplos desses tipos de projetos incluem, mas não se limitam a:  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>669</totalframes>
+      <time>00:00:33</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="50">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide50.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide50_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Projeto versus trabalho operacional Desenvolvimento de um novo produto ou serviço que é adicionado à linha de produtos da organização para ser comercializado e vendido;Instalação de produtos ou serviços que precisarão de suporte contínuo;Projetos internos que afetarão a estrutura, os recursos humanos ou a cultura de uma organização, ouDesenvolvimento, aquisição ou aperfeiçoamento do sistema de informações de um departamento operacional.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>588</totalframes>
+      <time>00:00:29</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="51">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide51.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide51_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Partes InteressadasAs partes interessadas são pessoas ou organizações (por exemplo, clientes, patrocinadores, organização executora ou o público) ativamente envolvidas no projeto ou cujos interesses podem ser positiva ou negativamente afetados pela execução ou término do projeto. Elas também podem exercer influência sobre o projeto, suas entregas e sobre os membros da equipe do projeto.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>628</totalframes>
+      <time>00:00:31</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="52">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide52.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide52_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Ciclo de vida e organização do projeto  Fonte: PMBOK, 2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>907</totalframes>
+      <time>00:00:45</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="53">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide53.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide53_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Partes InteressadasAs partes interessadas possuem diversos níveis de responsabilidade e de autoridade quando participam de um projeto e eles podem mudar ao longo do ciclo de vida do mesmo. Sua responsabilidade e autoridade variam desde contribuições ocasionais em estudos e dinâmicas de grupo até o patrocínio total do projeto, que inclui o fornecimento de apoio financeiro e político. As partes interessadas podem ter um impacto prejudicial nos objetivos do projeto.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>710</totalframes>
+      <time>00:00:35</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="54">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide54.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide54_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Partes InteressadasA identificação das partes interessadas é um processo contínuo e pode ser difícil. Por exemplo, algumas pessoas poderiam argumentar que um trabalhador de linha de montagem cujo emprego no futuro depende do resultado do projeto de design de um novo produto é uma parte interessada. A identificação das partes interessadas e o entendimento de seu grau relativo de influência em um projeto é crítico.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>582</totalframes>
+      <time>00:00:29</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="55">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide55.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide55_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Partes InteressadasA não identificação de uma parte interessada pode estender o cronograma e aumentar substancialmente os custos. Por exemplo, o reconhecimento tardio de que o departamento jurídico é uma parte interessada significativa, que gera atrasos e aumenta as despesas, devido a requisitos legais.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>447</totalframes>
+      <time>00:00:22</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="56">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide56.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide56_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Partes InteressadasAs partes interessadas podem ter influência positiva ou negativa em um projeto. Algumas se beneficiam de um projeto bem-sucedido, enquanto outras enxergam resultados negativos oriundos do sucesso de um projeto. Por exemplo, líderes de negócios de uma comunidade que se beneficiará de um projeto de expansão industrial através dos benefícios econômicos positivos à comunidade.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>577</totalframes>
+      <time>00:00:28</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="57">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide57.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide57_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Partes InteressadasNo caso das partes interessadas com expectativas positivas do projeto, seus interesses serão atendidos da melhor forma possível se ajudarem o mesmo a ter sucesso. Os interesses das partes interessadas negativas seriam atendidos de melhor forma se impedissem o progresso do projeto. Negligenciar as partes interessadas negativas pode aumentar a probabilidade de falha.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>616</totalframes>
+      <time>00:00:30</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="58">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide58.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide58_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Partes InteressadasUma parte importante da responsabilidade de um gerente de projetos é gerenciar as expectativas das partes interessadas. Isso pode ser difícil pois elas em geral têm objetivos muito diferentes ou conflitantes. Parte da responsabilidade do gerente é balancear esses interesses e garantir que a equipe do projeto interaja com as partes interessadas de uma maneira profissional e cooperativa. As partes interessadas em projetos incluem:  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>615</totalframes>
+      <time>00:00:30</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="59">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide59.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide59_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Partes InteressadasClientes/usuários. Pessoas ou organizações que usarão o produto, serviço ou resultado do projeto. Os clientes/usuários podem ser internos e/ou externos em relação à organização executora. Podem existir também várias camadas de clientes. Por exemplo, os clientes de um novo produto farmacêutico podem incluir os médicos que o receitam, os pacientes que o utilizam e as empresas de saúde que pagam por ele. Em algumas áreas de aplicação, os termos clientes e usuários são sinônimos; enquanto em outras, clientes se referem à entidade que adquire o produto do projeto e usuários são os que o utilizarão diretamente.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>893</totalframes>
+      <time>00:00:44</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="60">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide60.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide60_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Partes InteressadasPatrocinador. A pessoa ou o grupo que fornece os recursos financeiros, em dinheiro ou em espécie, para o projeto. Quando um projeto é concebido pela primeira vez, o patrocinador o defende. Isso inclui servir de porta-voz para os níveis gerenciais mais elevados buscando obter o apoio de toda a organização e promover os benefícios que o projeto trará.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>589</totalframes>
+      <time>00:00:29</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="61">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide61.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide61_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Partes InteressadasO patrocinador conduz o projeto através do processo de comprometimento ou seleção até a autorização formal e desempenha um papel significativo no desenvolvimento do escopo inicial e do termo de abertura. Nas questões que estão além do controle do gerente de projetos, o patrocinador pode encaminhá-las para níveis hierárquicos superiores. O patrocinador também pode se envolver em outras questões importantes, como a autorização de mudanças no escopo, análises de final de fase e decisões de continuação/cancelamento quando os riscos são particularmente altos.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>888</totalframes>
+      <time>00:00:44</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="62">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide62.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide62_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Partes InteressadasGerentes de portfólios/comitê de análise de portfólios. Os gerentes de portfólios são responsáveis pela governança de alto nível de um conjunto de projetos ou programas, que podem ou não ser interdependentes. Os comitês de análise de portfólios são geralmente constituídos por executivos da organização que atuam como um painel de seleção de projetos. Eles analisam cada projeto de acordo com o retorno sobre o investimento, o seu valor , os riscos associados à adoção do projeto e outros atributos do mesmo.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>819</totalframes>
+      <time>00:00:40</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="63">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide63.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide63_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Partes InteressadasGerentes de programas. São responsáveis pelo gerenciamento de projetos relacionados de forma coordenada visando obter benefícios e controle não disponíveis no gerenciamento individual. Os gerentes de programas interagem com cada gerente de projetos para oferecer apoio e orientação em projetos individuais.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>458</totalframes>
+      <time>00:00:22</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="64">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide64.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide64_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Partes InteressadasEscritório de projetos. Um escritório de projetos (Project Management Office, PMO) é um corpo ou entidade organizacional à qual são atribuídas várias responsabilidades relacionadas ao gerenciamento centralizado e coordenado dos projetos sob seu domínio. As responsabilidades de um PMO podem variar desde o fornecimento de funções de apoio ao gerenciamento de projetos até a responsabilidade real pelo gerenciamento direto de um projeto.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>682</totalframes>
+      <time>00:00:34</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="65">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide65.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide65_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Partes InteressadasO PMO pode ser uma parte interessada se ele tiver responsabilidade direta ou indireta pelo resultado do projeto. O PMO pode oferecer, mas não se limita a: Serviços de suporte administrativo, como políticas, metodologias e modelos; Treinamento, aconselhamento e orientação de gerentes de projetos;  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>474</totalframes>
+      <time>00:00:23</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="66">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide66.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide66_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Partes InteressadasSuporte, orientação e treinamento em relação a como gerenciar projetos e usar as ferramentas; Alinhamento dos recursos humanos dos projetos e/ouComunicação centralizada entre gerentes de projetos, patrocinadores , gerentes e outras partes interessadas.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>412</totalframes>
+      <time>00:00:20</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="67">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide67.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide67_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Partes InteressadasGerentes de projetos. Os gerentes de projetos são designados pela organização executora para atingir os objetivos do projeto. Este é um papel conspícuo com grandes desafios, de grande responsabilidade e com prioridades mutáveis. Ela requer flexibilidade, bom senso, liderança forte e habilidades de negociação, além de um conhecimento sólido das práticas de gerenciamento de projetos.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>614</totalframes>
+      <time>00:00:30</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="68">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide68.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide68_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Partes InteressadasUm gerente de projetos precisa ser capaz de entender os detalhes do projeto, mas gerenciá-lo com uma perspectiva global . Como responsável pelo sucesso do projeto, um gerente de projetos fica encarregado de todos os aspectos do mesmo que incluem, mas não se limitam a:Desenvolvimento do plano de gerenciamento do projeto e todos os planos componentes relacionados; Manter o projeto na direção correta em relação ao cronograma e orçamento;  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>632</totalframes>
+      <time>00:00:31</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="69">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide69.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide69_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Partes InteressadasIdentificação, monitoramento e resposta aos riscos eFornecimento de relatórios precisos e oportunos das métricas dos projetos. O gerente de projetos é o líder responsável pela comunicação com todas as partes interessadas, particularmente com o patrocinador , a equipe do projeto e outras principais partes interessadas. O gerente de projetos ocupa o centro das interações entre as partes interessadas e o projeto em si.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>637</totalframes>
+      <time>00:00:31</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="70">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide70.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide70_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Partes InteressadasEquipe do projeto. Uma equipe de projeto é composta pelo gerente do projeto, pela equipe de gerenciamento do projeto e por outros membros da equipe que executam o trabalho mas não estão necessariamente envolvidos com o gerenciamento do projeto. Essa equipe é composta de pessoas de grupos diferentes, com conhecimento de um assunto específico ou com um conjunto específico de habilidades e que executam o trabalho do projeto.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>630</totalframes>
+      <time>00:00:31</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="71">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide71.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide71_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Partes InteressadasGerentes funcionais. Gerentes funcionais são pessoas-chave que desempenham uma função gerencial dentro de uma área administrativa ou funcional do negócio, como recursos humanos, finanças, contabilidade ou aquisição. Eles têm o seu próprio pessoal permanente para executar o trabalho contínuo e têm uma diretiva clara para gerenciar todas as tarefas dentro de sua área de responsabilidade funcional. O gerente funcional pode fornecer consultoria sobre determinado assunto ou serviços ao projeto.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>789</totalframes>
+      <time>00:00:39</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="72">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide72.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide72_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Partes InteressadasGerenciamento de operações. Os gerentes de operações são indivíduos que têm uma função gerencial em uma área de negócio principal, como pesquisa e desenvolvimento,design, fabricação, aprovisionamento, teste ou manutenção. Diferentemente dos gerentes funcionais, estes gerentes lidam diretamente com a produção e manutenção dos produtos ou serviços vendíveis da empresa.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>639</totalframes>
+      <time>00:00:31</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="73">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide73.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide73_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Partes InteressadasDependendo do tipo de projeto, uma entrega formal acontece no seu término para passar a documentação técnica e outros registros permanentes do mesmo para as mãos do grupo de gerenciamento de operações apropriado. O gerenciamento de operações incorpora então o projeto entregue nas operações normais e fornece o suporte de longo prazo.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>535</totalframes>
+      <time>00:00:26</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="74">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide74.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide74_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Partes InteressadasFornecedores/parceiros comerciais. Vendedores, fornecedores, ou contratadas, são empresas externas que assinam um contrato para fornecimento de componentes ou serviços necessários ao projeto. Parceiros comerciais são também empresas externas, mas têm uma relação especial com a empresa, às vezes obtida através de um processo de certificação. Os parceiros comerciais fornecem consultoria especializada ou preenchem um papel específico, como instalação, personalização, treinamento ou suporte.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>835</totalframes>
+      <time>00:00:41</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="75">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide75.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide75_200,150.jpg</slideimage>
+      <title><![CDATA[Ciclo de vida e organização do projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Partes InteressadasA equipe de gerenciamento do projeto precisa identificar as partes interessadas, tanto internas quanto externas, a fim de determinar os requisitos e as expectativas em relação ao projeto de todas as partes envolvidas. Além disso, o gerente do projeto precisa gerenciar a influência das várias partes interessadas em relação aos requisitos do projeto para garantir um resultado bem-sucedido. A Figura 2-6 ilustra a relação entre o projeto, a sua equipe e outras partes interessadas comuns.  Ciclo de vida e organização do projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>745</totalframes>
+      <time>00:00:37</time>
+      <transitionmediaurl />
+    </slide>
+  </slides>
+</presentation>
