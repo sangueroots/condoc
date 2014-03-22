@@ -1,0 +1,3621 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<presentation>
+  <properties>
+    <title><![CDATA[aula5_Processos]]></title>
+    <creationdate>25/07/2012 08:53:20</creationdate>
+    <audio>on</audio>
+    <navigationonclick>false</navigationonclick>
+    <animations>true</animations>
+    <transitions>false</transitions>
+    <sdkversion>07</sdkversion>
+    <release>1.1</release>
+    <soundacrossslides>false</soundacrossslides>
+    <defaulturl>Slides/default_0.swf</defaulturl>
+    <video>
+    </video>
+    <templatecolor>Silver</templatecolor>
+    <layout>E-Learning Standard</layout>
+    <presentertitle><![CDATA[]]></presentertitle>
+    <presentername><![CDATA[]]></presentername>
+    <presentercompany><![CDATA[]]></presentercompany>
+    <presenteremail><![CDATA[]]></presenteremail>
+    <presentationtitle>aula5_Processos</presentationtitle>
+    <powerpointfile>aula5_Processos.ppt</powerpointfile>
+    <presentationdescription><![CDATA[]]></presentationdescription>
+    <presentationkeywords>Processos de Gerenciamento deProjetos em um Projeto,Processos de Gerenciamento de Projetos e um Projeto,Processos de Gerenciamento deProjetos em um Projeto,Processos de Gerenciamento de Projetos e um Projeto,Processos de Gerenciamento deProjetos em um Projeto,Processos de Gerenciamento de Projetos e um Projeto,Processos de Gerenciamento deProjetos em um Projeto,Processos de Gerenciamento de Projetos e um Projeto,Processos de Gerenciamento deProjetos em um Projeto,Processos de Gerenciamento de Projetos e um Projeto,Processos de Gerenciamento deProjetos em um Projeto,Processos de Gerenciamento de Projetos e um Projeto</presentationkeywords>
+    <audioquality>Medium</audioquality>
+    <imagequality>9</imagequality>
+    <showslidenotesinoutput>True</showslidenotesinoutput>
+    <usenarrations>True</usenarrations>
+  </properties>
+  <slides>
+    <slide id="1">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide1.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide1_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 1]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[MBA em Gestão de Projetos de Software  Introdução ao Gerenciamento de Projetos  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>138</totalframes>
+      <time>00:00:06</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="2">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide2.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide2_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[O gerenciamento de projetos é a aplicação de conhecimentos, habilidades, ferramentas e técnicas às atividades do projeto a fim de cumprir seus requisitos. Esta aplicação de conhecimentos requer o gerenciamento eficaz de processos apropriados.Um processo é um conjunto de ações e atividades inter-relacionadas, que são executadas para alcançar um produto, resultado ou serviço predefinido. Cada processo é caracterizado por suas entradas, as ferramentas e as técnicas que podem ser aplicadas e as saídas resultantes.  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>941</totalframes>
+      <time>00:00:47</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="3">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide3.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide3_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[O gerente de projetos deve considerar os ativos de processos organizacionais e os fatores ambientais da empresa. Devem ser considerados para todos os processos, mesmo que não estejam explicitamente listados como entradas na especificação do processo.Os ativos de processos organizacionais fornecem diretrizes e critérios para adaptação dos processos da organização às necessidades específicas do projeto.Os fatores ambientais da empresa podem restringir as opções de gerenciamento do projeto.  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>812</totalframes>
+      <time>00:00:40</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="4">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide4.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide4_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Para que um projeto seja bem-sucedido, a equipe do projeto deve:Selecionar os processos apropriados necessários para cumprir os objetivos do projeto;Usar uma abordagem definida que possa ser adotada para atender aos requisitos;Cumprir os requisitos para atender às necessidades e expectativas das partes interessadas eObter um equilíbrio entre as demandas concorrentes de escopo, tempo, custo, qualidade, recursos e riscos, para gerar o produto, o serviço ou o resultado especificado.  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>758</totalframes>
+      <time>00:00:37</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="5">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide5.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide5_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Os processos do projeto também são executados pela equipe do projeto e, em geral, podem ser classificados em uma de duas categorias principais:Os processos de gerenciamento de projetos garantem o fluxo eficaz do projeto ao longo de sua existência. Esses processos abrangem as ferramentas e as técnicas envolvidas na aplicação de habilidades e capacidades descritas nas Áreas de Conhecimento.  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>598</totalframes>
+      <time>00:00:29</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="6">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide6.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide6_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Os processos orientados a produtos especificam e criam o produto do projeto. Em geral, são definidos pelo ciclo de vida do projeto e variam de acordo com a área de aplicação. O escopo do projeto não pode ser definido sem algum entendimento básico de como criar o produto especificado. Por exemplo, diversas técnicas e ferramentas de construção devem ser consideradas ao determinar a complexidade geral da casa que será construída.  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>677</totalframes>
+      <time>00:00:33</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="7">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide7.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide7_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Este padrão descreve apenas os processos de gerenciamento de projetos. Embora os processos orientados a produtos estejam fora do escopo deste padrão, não devem ser ignorados pelo gerente de projetos. Os processos de gerenciamento de projetos e os processos orientados a produtos sobrepõem-se e interagem ao longo da vida de um projeto.Os processos de gerenciamento de projetos são aplicados globalmente e nos mais variados setores e indústrias.  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>682</totalframes>
+      <time>00:00:34</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="8">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide8.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide8_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[“Boa prática” significa que existe um acordo geral de que a aplicação dos processos de gerenciamento de projetos pode aumentar as chances de sucesso em uma ampla série de projetos.Isso não significa que os conhecimentos, as habilidades e os processos descritos sempre devem ser aplicados de forma uniforme em todos os projetos. Para qualquer projeto específico, o gerente de projetos, em colaboração com a equipe de projetos, sempre é responsável por determinar quais processos são apropriados e o grau de rigor apropriado para cada um.  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>786</totalframes>
+      <time>00:00:39</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="9">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide9.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide9_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Os gerentes de projetos e suas equipes devem abordar com cuidado cada processo e as entradas e saídas que o constituem. Este esforço é conhecido como adequação.O gerenciamento de projetos é um empreendimento integrado, e requer que cada processo de projeto ou produto seja alinhado e conectado de forma apropriada com os outros processos para facilitar a coordenação.  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>613</totalframes>
+      <time>00:00:30</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="10">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide10.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide10_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[As ações adotadas durante um processo em geral afetam esse e outros processos relacionados. Por exemplo, uma mudança no escopo costuma afetar o custo do projeto, mas talvez não afete o plano de comunicações ou a qualidade do produto. Com frequência, essas interações entre processos requerem compensações entre os requisitos e os objetivos do projeto, e as compensações de desempenho especificas vão variar de um projeto para outro e de uma organização para outra.  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>703</totalframes>
+      <time>00:00:35</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="11">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide11.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide11_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[O gerenciamento de projetos bem-sucedido inclui gerenciar ativamente essas interações para cumprir os requisitos do patrocinador, do cliente e de outras partes interessadas.Em algumas circunstâncias, um processo ou conjunto deles deverá ser iterado várias vezes para alcançar o resultado desejado.  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>502</totalframes>
+      <time>00:00:25</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="12">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide12.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide12_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Os projetos existem em uma organização e não podem operar como um sistema fechado. Requerem a entrada de dados da organização e externos e entregam capacidades à organização. Os processos de projeto podem gerar informações para aprimorar o gerenciamento de projetos futuros. Este padrão descreve a natureza dos processos de gerenciamento de projetos em termos da integração entre os processos, suas interações e seus objetivos.  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>682</totalframes>
+      <time>00:00:34</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="13">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide13.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide13_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Os processos de gerenciamento de projetos são agrupados em cinco categorias, conhecidas como grupos de processos de gerenciamento de projetos (ou grupos de processos):Grupo de processos de iniciação. São os processos realizados para definir um novo projeto ou uma nova fase de um projeto existente através da obtenção de autorização para iniciar o projeto ou a fase;  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>567</totalframes>
+      <time>00:00:28</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="14">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide14.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide14_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de planejamento. Os processos realizados para definir o escopo do projeto, refinar os objetivos e desenvolver o curso de ação necessário para alcançar os objetivos para os quais o projeto foi criado; Grupo de processos de execução. Os processos realizados para executar o trabalho definido no plano de gerenciamento do projeto para satisfazer as especificações do mesmo;  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>640</totalframes>
+      <time>00:00:32</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="15">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide15.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide15_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de monitoramento e controle. Os processos necessários para acompanhar, revisar e regular o progresso e o desempenho do projeto, identificar todas as áreas nas quais serão necessárias mudanças no plano e iniciar as mudanças correspondentes;Grupo de processos de encerramento. Os processos executados para finalizar todas as atividades de todos os grupos de processos, visando encerrar formalmente o projeto ou a fase.  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>777</totalframes>
+      <time>00:00:38</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="16">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide16.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide16_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Interações comuns em processos de gerenciamento de projetosOs processos de gerenciamento de projetos são apresentados como elementos distintos com interfaces bem definidas. Porém, na prática eles se sobrepõem e interagem de formas que não são detalhadas integralmente nesta disciplina. Os profissionais de gerenciamento de projetos mais experientes reconhecem que há mais de uma forma de gerenciar um projeto.  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>588</totalframes>
+      <time>00:00:29</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="17">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide17.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide17_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Interações comuns em processos de gerenciamento de projetosOs grupos de processos necessários e os processos que os constituem são guias para a aplicação de conhecimentos e habilidades de gerenciamento de projetos apropriados durante o projeto. A aplicação dos processos de gerenciamento de projetos é iterativa e muitos deles são repetidos durante o projeto.  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>481</totalframes>
+      <time>00:00:24</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="18">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide18.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide18_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Interações comuns em processos de gerenciamento de projetosA natureza integrativa do gerenciamento de projetos requer que o grupo de processos de monitoramento e controle interaja com os outros grupos de processos, conforme mostra a Figura 3-1. Além disso, como o gerenciamento de um projeto é um esforço finito, o grupo de processos de iniciação começa o projeto e o grupo de processos de encerramento o termina.  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>528</totalframes>
+      <time>00:00:26</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="19">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide19.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide19_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Iniciação  Processos dePlanejamento  Processos deMonitoramento e Controle  Processos deExecução  Processos deEncerramento  Comprometimento para a execução do projeto  Planejamento das atividades, recursos e estimativas de tempo e custo do projeto baseado em seu escopo  Monitoração, medição e tomada de ações corretivas  Coordenação de pessoas e outros recursos  Aceite formal doproduto e finalizaçãodo Projeto  Processos de Gerenciamento de Projetos e um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>185</totalframes>
+      <time>00:00:09</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="20">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide20.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide20_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK, 2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>204</totalframes>
+      <time>00:00:10</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="21">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide21.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide21_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento de Projetos e um Projeto  Figura 1. Mapa Mental Grupos de Processos de Gerenciamento de Projetos em um Projeto (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>353</totalframes>
+      <time>00:00:17</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="22">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide22.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide22_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Interações comuns em processos de gerenciamento de projetosOs grupos de processos de gerenciamento de projetos são vinculados pelas saídas que produzem. Raramente os grupos de processos são eventos distintos ou que ocorrem uma única vez; são atividades sobrepostas que ocorrem ao longo de todo o projeto. A saída de um processo em geral torna-se uma entrada em outro processo ou é uma entrega do projeto.  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>556</totalframes>
+      <time>00:00:27</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="23">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide23.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide23_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Interações comuns em processos de gerenciamento de projetosO grupo de processos de planejamento fornece ao grupo de processos de execução o plano de gerenciamento e os documentos do projeto à medida que o projeto avança, com frequência envolve atualizações no plano de gerenciamento e documentos do projeto.  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>387</totalframes>
+      <time>00:00:19</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="24">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide24.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide24_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Interações comuns em processos de gerenciamento de projetosA Figura 3-2 ilustra como os grupos de processos interagem e mostra o nível de sobreposição em diversas ocasiões. Se o projeto estiver dividido em fases, os grupos de processos interagem dentro de cada fase.  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>337</totalframes>
+      <time>00:00:16</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="25">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide25.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide25_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK, 2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>388</totalframes>
+      <time>00:00:19</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="26">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide26.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide26_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Interações comuns em processos de gerenciamento de projetosUm exemplo disso seria a saída de uma fase de concepção, que requer a aceitação do cliente para o documento de concepção. Quando estiver disponível, o documento de concepção fornece a descrição do produto para os grupos de processos de planejamento e execução em uma ou mais fases posteriores.  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>474</totalframes>
+      <time>00:00:23</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="27">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide27.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide27_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Interações comuns em processos de gerenciamento de projetosQuando um projeto é dividido em fases, os grupos de processos são usados conforme apropriado para orientar o projeto com eficácia em direção à conclusão de forma controlada. Em projetos com várias fases, os processos são repetidos em cada fase até que os critérios para a conclusão das fases sejam cumpridos.  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>479</totalframes>
+      <time>00:00:23</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="28">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide28.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide28_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupos de Processos de Gerenciamento de ProjetosA seguir identificamos e descrevemos os cinco grupos de processos de gerenciamento de projetos necessários em qualquer projeto. Esses grupos têm dependências claras e em geral são executados na mesma sequência em qualquer projeto. Eles independem de áreas de aplicação ou setores.  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>443</totalframes>
+      <time>00:00:22</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="29">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide29.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide29_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupos de Processos de Gerenciamento de ProjetosOs grupos de processos individuais e os processos constituintes individuais com frequência são iterados antes da conclusão do projeto. Os processos constituintes podem ter interações dentro de um grupo e entre os grupos de processos. A natureza dessas interações varia de um projeto para outro e podem ou não ser executadas em uma ordem específica.  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>560</totalframes>
+      <time>00:00:28</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="30">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide30.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide30_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupos de Processos de Gerenciamento de ProjetosO diagrama de fluxo de processos, Figura 3-3, fornece um resumo geral do fluxo básico e das interações entre grupos de processos e partes interessadas específicas.Um grupo de processos inclui os processos de gerenciamento de projetos que o constituem e que estão vinculados pelas respectivas entradas e saídas, onde o resultado de um processo torna-se a entrada de outro.  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>618</totalframes>
+      <time>00:00:30</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="31">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide31.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide31_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupos de Processos de Gerenciamento de ProjetosOs grupos de processos não são fases do projeto. Quando projetos complexos ou de grande porte são separados em fases ou subprojetos distintos tal como estudo de viabilidade, desenvolvimento de conceito, design, protótipo, construção, teste, etc., todos os grupos de processos normalmente seriam repetidos para cada fase ou subprojeto.  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>571</totalframes>
+      <time>00:00:28</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="32">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide32.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide32_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 32]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Fonte: PMBOK, 2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>179</totalframes>
+      <time>00:00:08</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="33">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide33.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide33_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupos de Processos de Gerenciamento de ProjetosA Tabela 3-1 reflete o mapeamento dos 42 processos nos cinco Grupos de Processos de Gerenciamento de Projetos e nas nove Áreas de Conhecimento de Gerenciamento de Projetos. Os processos são mostrados no grupo em que a maior parte das atividades ocorre. Por exemplo, quando um processo que normalmente ocorre no grupo de planejamento é atualizado no grupo de execução, não é considerado um novo processo.  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>635</totalframes>
+      <time>00:00:31</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="34">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide34.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide34_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento de Projetos e um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>456</totalframes>
+      <time>00:00:22</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="35">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide35.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide35_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK, 2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>435</totalframes>
+      <time>00:00:21</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="36">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide36.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide36_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de iniciação O grupo de processos de iniciação consiste nos processos realizados para definir um novo projeto ou uma nova fase de um projeto existente, obtendo autorização para tal. Nos processos de iniciação, o escopo inicial é definido e os recursos financeiros iniciais são comprometidos. As partes interessadas internas e externas que vão interagir e influenciar o resultado geral do projeto são identificadas. Se ainda não foi designado, o gerente de projetos será selecionado.  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>764</totalframes>
+      <time>00:00:38</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="37">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide37.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide37_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de iniciação Estas informações são capturadas no termo de abertura do projeto e no registro das partes interessadas. Quando o termo de abertura do projeto é aprovado, o projeto se torna oficialmente autorizado. Embora a equipe de gerenciamento de projetos possa ajudar a escrever o termo de abertura do projeto, a aprovação e o financiamento são externos aos limites do projeto (Figura 3-4).  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>537</totalframes>
+      <time>00:00:26</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="38">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide38.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide38_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento deProjetos em um Projeto  Fonte: PMBOK, 2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>557</totalframes>
+      <time>00:00:27</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="39">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide39.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide39_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de iniciação Como parte do grupo de processos de iniciação, muitos projetos grandes ou complexos podem ser divididos em fases separadas. Nesses projetos, os processos de iniciação são realizados durante fases subsequentes para validar as decisões tomadas durante os processos originais de desenvolvimento do termo de abertura do projeto e de identificação das partes interessadas. O uso dos processos de iniciação no início de cada fase ajuda a manter o foco do projeto na necessidade empresarial para qual o mesmo foi criado.  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>794</totalframes>
+      <time>00:00:39</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="40">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide40.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide40_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de iniciação Os critérios para o sucesso são verificados e a influência e os objetivos das partes interessadas do projeto são analisados. Então é decidido se o projeto deve ser continuado, adiado ou interrompido. Em geral, o envolvimento dos clientes e de outras partes interessadas durante a iniciação aumenta a probabilidade de propriedade compartilhada, aceitação da entrega e satisfação do cliente e das outras partes interessadas.  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>674</totalframes>
+      <time>00:00:33</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="41">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide41.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide41_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de iniciação Os processos de iniciação podem ser executados por processos organizacionais, de programas ou de portfólios externos ao escopo de controle do projeto. Por exemplo, antes de se iniciar um projeto, a necessidade de requisitos de alto nível pode ser documentada como parte de uma iniciativa organizacional maior. A viabilidade do novo empreendimento pode ser determinada com um processo de avaliação de alternativas.  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>608</totalframes>
+      <time>00:00:30</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="42">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide42.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide42_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de iniciação São desenvolvidas descrições claras dos objetivos do projeto, incluindo os motivos por que um projeto específico é a melhor alternativa para cumprir os requisitos. A documentação para esta decisão também pode conter a declaração inicial do escopo do projeto, entregas, duração do projeto e uma previsão dos recursos para a análise do investimento da organização. Como parte dos processos de iniciação, o gerente de projetos recebe a autoridade para aplicar recursos organizacionais às atividades subsequentes do projeto.  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>742</totalframes>
+      <time>00:00:37</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="43">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide43.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide43_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento deProjetos em um Projeto  Fonte: PMBOK, 2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>536</totalframes>
+      <time>00:00:26</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="44">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide44.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide44_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de iniciação O grupo de processos de iniciação (Figura 3-5) inclui os seguintes processos de gerenciamento de projetos (Figuras 3-6 e 3-7): a) Desenvolver o termo de abertura do projeto Desenvolver o Termo de Abertura do Projeto é o processo de desenvolvimento de um documento que formalmente autoriza um projeto ou uma fase e a documentação dos requisitos iniciais que satisfaçam as necessidades e expectativas das partes interessadas.  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>557</totalframes>
+      <time>00:00:27</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="45">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide45.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide45_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de iniciação Em projetos com várias fases, este processo é usado para validar ou refinar as decisões tomadas durante a iteração anterior de Desenvolver o Termo de Abertura do Projeto.  Processos de Gerenciamento deProjetos em um Projeto  Fonte: PMBOK, 2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>277</totalframes>
+      <time>00:00:13</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="46">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide46.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide46_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de iniciação  Processos de Gerenciamento deProjetos em um Projeto  Figura 2. Mapa mental Desenvolver o termo de abertura do projeto : Entradas  e Saídas (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>576</totalframes>
+      <time>00:00:28</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="47">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide47.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide47_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de iniciação b) Identificar as partes interessadas Identificar as Partes Interessadas é o processo de identificação de todas as pessoas ou organizações que podem ser afetadas pelo projeto e de documentação das informações relevantes relacionadas aos seus interesses, envolvimento e impacto no sucesso do projeto.  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>542</totalframes>
+      <time>00:00:27</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="48">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide48.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide48_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de iniciação  Processos de Gerenciamento deProjetos em um Projeto  (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>174</totalframes>
+      <time>00:00:08</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="49">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide49.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide49_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de iniciação  Processos de Gerenciamento deProjetos em um Projeto  Figura 3. Mapa mental Identificar as Partes Interessadas: Entradas  e Saídas(Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>510</totalframes>
+      <time>00:00:25</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="50">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide50.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide50_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de planejamento O Grupo de Processos de Planejamento consiste nos processos realizados para estabelecer o escopo total do esforço, definir e refinar os objetivos e desenvolver o curso de ação necessário para alcançar esses objetivos. Os processos de planejamento desenvolvem o plano de gerenciamento e os documentos do projeto que serão usados para executá-lo.  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>587</totalframes>
+      <time>00:00:29</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="51">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide51.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide51_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de planejamento A natureza multidimensional do gerenciamento de projetos cria loops de feedback periódicos para análise adicional. À medida que mais informações ou características do projeto são coletadas e entendidas, pode ser necessário um planejamento adicional. Mudanças significativas ocorridas ao longo do ciclo de vida do projeto acionam uma necessidade de revisitar um ou mais dos processos de planejamento e possivelmente, alguns dos processos de iniciação.  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>745</totalframes>
+      <time>00:00:37</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="52">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide52.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide52_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de planejamento Este detalhamento progressivo do plano de gerenciamento do projeto com frequência é denominado “planejamento por ondas sucessivas”, indicando que o planejamento e a documentação são processos iterativos e contínuos.  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>365</totalframes>
+      <time>00:00:18</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="53">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide53.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide53_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 53]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>211</totalframes>
+      <time>00:00:10</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="54">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide54.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide54_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de planejamento O plano de gerenciamento e os documentos do projeto desenvolvidos como saídas do grupo de processos de planejamento explorarão todos os aspectos de escopo, tempo, custos, qualidade, comunicação, risco e aquisições. As atualizações resultantes de mudanças aprovadas durante o projeto podem ter um impacto significativo sobre partes do plano de gerenciamento e dos documentos do projeto.  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>613</totalframes>
+      <time>00:00:30</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="55">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide55.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide55_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de planejamento As atualizações nesses documentos fornecem maior precisão em relação ao cronograma, custos e requisitos de recursos para cumprir o escopo definido para o projeto. A equipe do projeto deve estimular o envolvimento de todas as partes interessadas apropriadas ao planejar o projeto e desenvolver o plano de gerenciamento e os documentos do mesmo.  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>519</totalframes>
+      <time>00:00:25</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="56">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide56.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide56_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de planejamento Como o processo de feedback e refinamento não pode continuar indefinidamente, os procedimentos definidos pela organização determinam quando o esforço de planejamento inicial termina. Esses procedimentos serão afetados pela natureza do projeto, pelos limites definidos para o mesmo, pelas atividades de monitoramento e controle apropriadas e também pelo ambiente em que o projeto será executado.  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>596</totalframes>
+      <time>00:00:29</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="57">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide57.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide57_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de planejamento Outras interações no grupo de processos de planejamento dependem da natureza do projeto. Por exemplo, para alguns projetos, haverá pouco ou nenhum risco identificável após a execução de um planejamento significativo. Nessa ocasião, a equipe poderá reconhecer que as metas de custos e cronograma são muito agressivas e, portanto, envolvem consideravelmente mais risco do que o entendimento anterior.  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>621</totalframes>
+      <time>00:00:31</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="58">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide58.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide58_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de planejamento Os resultados das iterações são documentados como atualizações no plano de gerenciamento ou nos documentos do projeto. O grupo de processos de planejamento (Figura 3-8) inclui os processos de gerenciamento de projetos identificados nos mapas mentais a seguir):  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>394</totalframes>
+      <time>00:00:19</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="59">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide59.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide59_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de planejamento 1) Desenvolver o plano de gerenciamento do projeto  Desenvolver o Plano de Gerenciamento do Projeto é o processo de documentação das ações necessárias para definir, preparar, integrar e coordenar todos os planos auxiliares. O plano de gerenciamento do projeto torna-se a fonte principal de informações sobre como o mesmo será planejado, executado, monitorado, controlado e encerrado.  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>629</totalframes>
+      <time>00:00:31</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="60">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide60.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide60_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento deProjetos em um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>225</totalframes>
+      <time>00:00:11</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="61">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide61.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide61_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento deProjetos em um Projeto  Figura 4. Mapa mental Desenvolver o Plano de Gerenciamento do Projeto : Entradas  e Saídas (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>496</totalframes>
+      <time>00:00:24</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="62">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide62.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide62_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de planejamento 2) Coletar os requisitos Coletar os Requisitos é o processo de definir e documentar as necessidades das partes interessadas para alcançar os objetivos do projeto.  Processos de Gerenciamento deProjetos em um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>272</totalframes>
+      <time>00:00:13</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="63">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide63.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide63_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento deProjetos em um Projeto  Figura 5. Mapa mental  Coletar os Requisitos : Entradas  e Saídas (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>433</totalframes>
+      <time>00:00:21</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="64">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide64.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide64_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de planejamento 3) Definir o escopoDefinir o Escopo é o processo de desenvolvimento de uma descrição detalhada do projeto e do produto.  Processos de Gerenciamento deProjetos em um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>205</totalframes>
+      <time>00:00:10</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="65">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide65.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide65_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento deProjetos em um Projeto  Figura 6. Mapa mental  Definir o Escopo : Entradas  e Saídas (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>374</totalframes>
+      <time>00:00:18</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="66">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide66.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide66_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de planejamento 4) Criar a estrutura analítica do projeto (EAP) Criar a Estrutura Analítica do Projeto (EAP) é o processo de subdivisão das entregas e do trabalho do projeto em componentes menores e de gerenciamento mais fácil.  Processos de Gerenciamento deProjetos em um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>347</totalframes>
+      <time>00:00:17</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="67">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide67.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide67_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento deProjetos em um Projeto  Figura 7. Mapa mental  Criar a Estrutura Analítica do Projeto EAP : Entradas  e Saídas (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>588</totalframes>
+      <time>00:00:29</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="68">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide68.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide68_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de planejamento 5) Definir as atividadesDefinir as Atividades é o processo de identificação das ações específicas a serem realizadas para produzir as entregas do projeto.  Processos de Gerenciamento deProjetos em um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>284</totalframes>
+      <time>00:00:14</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="69">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide69.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide69_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento deProjetos em um Projeto  Figura 8. Mapa mental  Definir as Atividades: Entradas  e Saídas (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>418</totalframes>
+      <time>00:00:20</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="70">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide70.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide70_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de planejamento 6) Sequenciar as AtividadesSequenciar as Atividades é o processo de identificação e documentação dos relacionamentos entre as atividades do projeto.  Processos de Gerenciamento deProjetos em um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>265</totalframes>
+      <time>00:00:13</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="71">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide71.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide71_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento deProjetos em um Projeto  Figura 09. Mapa mental  Sequenciar as Atividades: Entradas  e Saídas (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>525</totalframes>
+      <time>00:00:26</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="72">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide72.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide72_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de planejamento 7) Estimar os recursos das atividades Estimar os Recursos das Atividades é o processo de estimativa dos tipos e quantidades de material, pessoas, equipamentos ou suprimentos que serão necessários para realizar cada atividade.  Processos de Gerenciamento deProjetos em um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>389</totalframes>
+      <time>00:00:19</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="73">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide73.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide73_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento deProjetos em um Projeto  Fonte: PMBOK,2008  Figura 10. Mapa mental  Estimar os Recursos das Atividades: Entradas  e Saídas (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>578</totalframes>
+      <time>00:00:28</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="74">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide74.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide74_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de planejamento 8)Estimar as durações das atividades Estimar as Durações das Atividades é o processo de estimativa do número de períodos de trabalho que serão necessários para executar atividades específicas com os recursos estimados.  Processos de Gerenciamento deProjetos em um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>361</totalframes>
+      <time>00:00:18</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="75">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide75.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide75_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento deProjetos em um Projeto  Fonte: PMBOK,2008  Figura 11 Mapa mental  Estimar  a Duração das Atividades: Entradas  e Saídas (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>613</totalframes>
+      <time>00:00:30</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="76">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide76.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide76_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de planejamento 9) Desenvolver o cronograma Desenvolver o Cronograma é o processo de análise de sequências das atividades, suas durações, recursos necessários e restrições, visando criar o cronograma do projeto.  Processos de Gerenciamento deProjetos em um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>335</totalframes>
+      <time>00:00:16</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="77">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide77.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide77_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento de Projetos e um Projeto  (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>148</totalframes>
+      <time>00:00:07</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="78">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide78.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide78_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento de Projetos e um Projeto  Figura 12. Mapa mental  Desenvolver o Cronograma: Entradas  e Saídas (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>774</totalframes>
+      <time>00:00:38</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="79">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide79.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide79_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de planejamento 10) Estimar os custos Estimar os Custos é o processo de desenvolvimento de uma estimativa dos recursos monetários necessários para executar as atividades do projeto.  Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>279</totalframes>
+      <time>00:00:13</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="80">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide80.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide80_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento deProjetos em um Projeto  Figura 13. Mapa mental  Estimar os Custos : Entradas  e Saídas (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>573</totalframes>
+      <time>00:00:28</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="81">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide81.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide81_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de planejamento 11) Determinar o orçamento Determinar o Orçamento é o processo de agregação dos custos estimados de atividades individuais ou pacotes de trabalho para estabelecer uma linha de base dos custos autorizada.  Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>361</totalframes>
+      <time>00:00:18</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="82">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide82.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide82_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento de Projetos e um Projeto  Figura 14. Mapa mental  Determinar o Orçamento : Entradas  e Saídas (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>636</totalframes>
+      <time>00:00:31</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="83">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide83.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide83_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de planejamento 12) Planejar a QualidadePlanejar a Qualidade é o processo de identificação dos requisitos e/ou padrões de qualidade do projeto e do produto, além da documentação de como o projeto atingirá a conformidade.  Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>343</totalframes>
+      <time>00:00:17</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="84">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide84.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide84_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento deProjetos em um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento deProjetos em um Projeto  Figura 15. Mapa mental  Planejar a Qualidade: Entradas  e Saídas (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>740</totalframes>
+      <time>00:00:37</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="85">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide85.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide85_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de planejamento 13) Desenvolver o plano de recursos humanosDesenvolver o Plano de Recursos Humanos é o processo de identificação e documentação de papéis, responsabilidades, habilidades necessárias e relações hierárquicas do projeto, além da criação de um plano de gerenciamento de pessoal.  Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>422</totalframes>
+      <time>00:00:21</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="86">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide86.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide86_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento de Projetos e um Projeto  Figura 16. Mapa mental  Desenvolver o Plano de Recursos Humanos: Entradas  e Saídas (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>367</totalframes>
+      <time>00:00:18</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="87">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide87.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide87_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de planejamento 14) Planejar as comunicaçõesPlanejar as Comunicações é o processo de determinação das necessidades de informação das partes interessadas no projeto e definição de uma abordagem de comunicação.  Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>310</totalframes>
+      <time>00:00:15</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="88">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide88.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide88_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento de Projetos e um Projeto  Figura 17. Mapa mental  Planejar as Comunicações: Entradas  e Saídas (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>508</totalframes>
+      <time>00:00:25</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="89">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide89.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide89_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de planejamento 15) Planejar o gerenciamento de riscosPlanejar o Gerenciamento de Riscos é o processo de definição de como conduzir as atividades de gerenciamento de riscos de um projeto.  Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>288</totalframes>
+      <time>00:00:14</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="90">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide90.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide90_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento de Projetos e um Projeto  Figura 18. Mapa mental  Planejar o Gerenciamento de Riscos:  Entradas  e Saídas (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>542</totalframes>
+      <time>00:00:27</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="91">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide91.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide91_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de planejamento 16) Identificar os riscosIdentificar os Riscos é o processo de determinação dos riscos que podem afetar o projeto e de documentação de suas características.  Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>249</totalframes>
+      <time>00:00:12</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="92">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide92.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide92_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 92]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Figura 19. Mapa mental  Identificar os Riscos:  Entradas  e Saídas (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>726</totalframes>
+      <time>00:00:36</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="93">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide93.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide93_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de planejamento 17)Realizar a análise qualitativa de riscosRealizar a Análise Qualitativa de Riscos é o processo de priorização de riscos para análise ou ação adicional através da avaliação e combinação de sua probabilidade de ocorrência e impacto.  Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>387</totalframes>
+      <time>00:00:19</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="94">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide94.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide94_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento de Projetos e um Projeto  Figura 20. Mapa mental  Realizar a análise qualitativa de riscos: Entradas  e Saídas (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>435</totalframes>
+      <time>00:00:21</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="95">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide95.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide95_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de planejamento 18) Realizar a análise quantitativa de riscosRealizar a Análise Quantitativa de Riscos é o processo de analisar numericamente o efeito dos riscos identificados nos objetivos gerais do projeto.  Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>278</totalframes>
+      <time>00:00:13</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="96">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide96.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide96_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento de Projetos e um Projeto  Figura 21. Mapa mental  Realizar a análise quantitativa de riscos: Entradas  e Saídas (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>482</totalframes>
+      <time>00:00:24</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="97">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide97.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide97_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de planejamento 19) Planejar respostas a riscosPlanejar Respostas a Riscos é o processo de desenvolvimento de opções e ações para aumentar as oportunidades e reduzir as ameaças aos objetivos do projeto.  Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>364</totalframes>
+      <time>00:00:18</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="98">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide98.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide98_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  Figura 22. Mapa mental  Planejar Respostas a Riscos: Entradas  e Saídas (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>494</totalframes>
+      <time>00:00:24</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="99">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide99.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide99_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de planejamento 20) Planejar as aquisiçõesPlanejar as Aquisições é o processo de documentação das decisões de compras do projeto, especificando a abordagem e identificando fornecedores em potencial.  Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>344</totalframes>
+      <time>00:00:17</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="100">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide100.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide100_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  Figura 23. Mapa mental  Planejar  as Aquisições: Entradas  e Saídas (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>1026</totalframes>
+      <time>00:00:51</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="101">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide101.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide101_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de execução O Grupo de Processos de Execução consiste nos processos realizados para concluir o trabalho definido no plano de gerenciamento do projeto de forma a cumprir as especificações do projeto.Este grupo de processos envolve coordenar pessoas e recursos e também integrar e executar as atividades do projeto em conformidade com o plano de gerenciamento do mesmo (Figura 3-29)  Processos de Gerenciamento de Projetos e um Projeto  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>622</totalframes>
+      <time>00:00:31</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="102">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide102.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide102_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>306</totalframes>
+      <time>00:00:15</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="103">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide103.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide103_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de execução Durante a execução do projeto, os resultados poderão requerer atualizações no planejamento e mudanças nas linhas de base. Isso pode incluir mudanças nas durações previstas para as atividades, na produtividade e na disponibilidade dos recursos e riscos imprevistos. Essas variações podem afetar o plano de gerenciamento ou os documentos do projeto, e podem exigir uma análise detalhada e o desenvolvimento de respostas apropriadas de gerenciamento de projetos.  Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>818</totalframes>
+      <time>00:00:40</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="104">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide104.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide104_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de execução Os resultados da análise podem acionar solicitações de mudanças que, se forem aprovadas, poderão modificar o plano de gerenciamento ou os outros documentos do projeto e talvez exigir a definição de novas linhas de base. Uma grande parte do orçamento do projeto será consumida na execução dos processos do grupo de processos de execução. Esse grupo inclui os seguintes processos de gerenciamento de projetos (Figuras 3-30 até 3-37):  Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>664</totalframes>
+      <time>00:00:33</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="105">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide105.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide105_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de execução 1) Orientar e gerenciar a execução do projetoOrientar e Gerenciar a Execução do Projeto é o processo de realização do trabalho definido no plano de gerenciamento do projeto para atingir os objetivos do mesmo.  Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>286</totalframes>
+      <time>00:00:14</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="106">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide106.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide106_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento de Projetos e um Projeto  Figura 24. Mapa mental  Orientar e Gerenciar a Execução do Projeto:  Entradas  e Saídas (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>699</totalframes>
+      <time>00:00:34</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="107">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide107.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide107_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de execução 2) Realizar a garantia da qualidadeRealizar a Garantia da Qualidade é o processo de auditoria dos requisitos de qualidade e dos resultados das medições de controle de qualidade para garantir que sejam usados os padrões de qualidade e definições operacionais apropriados.  Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>425</totalframes>
+      <time>00:00:21</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="108">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide108.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide108_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento de Projetos e um Projeto  Figura 25. Mapa mental  Realizar a Garantia da Qualidade:  Entradas  e Saídas (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>616</totalframes>
+      <time>00:00:30</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="109">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide109.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide109_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de execução 3) Mobilizar a equipe do projetoMobilizar a Equipe do Projeto é o processo de confirmação da disponibilidade dos recursos humanos e obtenção da equipe necessária para terminar as designações do projeto.  Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>336</totalframes>
+      <time>00:00:16</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="110">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide110.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide110_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento de Projetos e um Projeto  Figura 26. Mapa mental  Mobilizar a Equipe do Projeto:  Entradas  e Saídas (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>481</totalframes>
+      <time>00:00:24</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="111">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide111.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide111_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de execução 4) Desenvolver a equipe do projetoDesenvolver a Equipe do Projeto é o processo de melhoria de competências, da interação da equipe e do ambiente global da equipe para aprimorar o desempenho do projeto.  Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>323</totalframes>
+      <time>00:00:16</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="112">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide112.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide112_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  Figura 27. Mapa mental  Desenvolver a Equipe do Projeto:  Entradas  e Saídas (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>464</totalframes>
+      <time>00:00:23</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="113">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide113.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide113_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de execução 5) Gerenciar a equipe do projetoGerenciar a Equipe do Projeto é o processo de acompanhar o desempenho dos membros da equipe, fornecer feedback, resolver questões e gerenciar mudanças para otimizar o desempenho do projeto.  Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>360</totalframes>
+      <time>00:00:18</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="114">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide114.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide114_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento de Projetos e um Projeto  Figura 28. Mapa mental  Gerenciar a Equipe do Projeto:  Entradas  e Saídas (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>677</totalframes>
+      <time>00:00:33</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="115">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide115.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide115_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de execução 6) Distribuir informaçõesDistribuir Informações é o processo de colocar as informações relevantes à disposição das partes interessadas no projeto conforme planejado.  Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>309</totalframes>
+      <time>00:00:15</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="116">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide116.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide116_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento de Projetos e um Projeto  Figura 29. Mapa mental  Distribuição das Informações:  Entradas  e Saídas (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>395</totalframes>
+      <time>00:00:19</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="117">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide117.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide117_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de execução 7)Gerenciar as expectativas das partes interessadasGerenciar as Expectativas das Partes Interessadas é o processo de comunicação e interação com as partes interessadas para atender às suas necessidades e resolver as questões à medida que ocorrerem.  Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>423</totalframes>
+      <time>00:00:21</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="118">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide118.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide118_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento de Projetos e um Projeto  Figura 30. Mapa mental  Gerenciar as Expectativas das Partes Interessadas:  Entradas  e Saídas (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>695</totalframes>
+      <time>00:00:34</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="119">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide119.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide119_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de execução 8) Realizar aquisiçõesRealizar Aquisições é o processo de obtenção de respostas de fornecedores, seleção de um fornecedor e adjudicação de um contrato.  Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>294</totalframes>
+      <time>00:00:14</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="120">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide120.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide120_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  Figura 31. Mapa mental Realizar Aquisições: Entradas  e Saídas (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>943</totalframes>
+      <time>00:00:47</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="121">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide121.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide121_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de monitoramento e controle O Grupo de Processos de Monitoramento e Controle consiste nos processos necessários para acompanhar, revisar e regular o progresso e o desempenho do projeto, identificar todas as áreas nas quais serão necessárias mudanças no plano e iniciar as mudanças correspondentes. O principal benefício deste grupo de processos é que o desempenho do projeto é observado e mensurado de forma periódica e uniforme para identificar variações em relação ao plano de gerenciamento do mesmo. O grupo de processos de monitoramento e controle também inclui:  Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>850</totalframes>
+      <time>00:00:42</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="122">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide122.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide122_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de monitoramento e controle Controlar as mudanças e recomendar ações preventivas em antecipação a possíveis problemas;Monitorar as atividades do projeto em relação ao plano de gerenciamento e à linha de base de desempenho do mesmo e;Influenciar os fatores que poderiam impedir o controle integrado de mudanças, para que somente as mudanças aprovadas sejam implementadas.  Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>565</totalframes>
+      <time>00:00:28</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="123">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide123.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide123_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de monitoramento e controle Este monitoramento contínuo fornece à equipe do projeto uma visão melhor sobre a saúde do mesmo e identifica quaisquer áreas que requeiram atenção adicional. O grupo de processos de monitoramento e controle não apenas monitora e controla o trabalho que está sendo feito durante um grupo de processos, mas também monitora e controla o projeto inteiro. Em projetos com várias fases, o grupo de processos de monitoramento e controle coordena as fases do projeto para implementar ações corretivas ou preventivas, a fim de que o projeto mantenha a conformidade com o plano de gerenciamento do mesmo.  Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>993</totalframes>
+      <time>00:00:49</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="124">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide124.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide124_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de monitoramento e controle Esta revisão pode resultar em atualizações recomendadas e aprovadas para o plano de gerenciamento do projeto. Por exemplo, uma data de término de atividade não cumprida pode exigir ajustes no plano de pessoal atual, dependência de horas extras ou compensações entre os objetivos de orçamento e cronograma.  Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>511</totalframes>
+      <time>00:00:25</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="125">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide125.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide125_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>235</totalframes>
+      <time>00:00:11</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="126">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide126.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide126_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de monitoramento e controle O Grupo de Processos de Monitoramento e Controle (Figura 3-38) inclui os seguintes processos de gerenciamento de projetos (Figuras 3-39 até 3-48):  Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>162</totalframes>
+      <time>00:00:08</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="127">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide127.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide127_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de monitoramento e controle 1) Monitorar e controlar o trabalho do projetoMonitorar e Controlar o Trabalho no Projeto é o processo de acompanhamento, avaliação e regulação do progresso para atender aos objetivos de desempenho definidos no plano de gerenciamento do projeto. O monitoramento inclui relatórios de status, medições do progresso e previsões. Os relatórios de desempenho fornecem informações sobre o desempenho do projeto com relação a escopo, cronograma, custo, recursos, qualidade e risco, que podem ser usadas como entradas para outros processos.  Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>854</totalframes>
+      <time>00:00:42</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="128">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide128.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide128_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>174</totalframes>
+      <time>00:00:08</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="129">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide129.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide129_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento de Projetos e um Projeto  Figura 32. Mapa mental Monitorar e Controlar o Trabalho do Projeto: Entradas  e Saídas (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>568</totalframes>
+      <time>00:00:28</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="130">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide130.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide130_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de monitoramento e controle 2) Realizar o controle integrado de mudançasRealizar o Controle Integrado de Mudanças é o processo de avaliação de todas as solicitações de mudanças, aprovação de mudanças e gerenciamento das mesmas em entregas, ativos de processos organizacionais, documentos e plano de gerenciamento do projeto.  Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>449</totalframes>
+      <time>00:00:22</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="131">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide131.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide131_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento de Projetos e um Projeto  Figura 33. Mapa mental Realizar o Controle Integrado de Mudanças: Entradas  e Saídas (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>695</totalframes>
+      <time>00:00:34</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="132">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide132.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide132_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de monitoramento e controle 3) Verificar o escopoVerificar o Escopo é o processo de formalização da aceitação das entregas terminadas do projeto.  Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>239</totalframes>
+      <time>00:00:11</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="133">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide133.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide133_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento de Projetos e um Projeto  Figura 34. Mapa mental Verificar o Escopo: Entradas  e Saídas (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>494</totalframes>
+      <time>00:00:24</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="134">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide134.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide134_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de monitoramento e controle 4) Controlar o escopoControlar o Escopo é o processo de monitoramento do andamento do escopo do projeto e do produto e gerenciamento das mudanças feitas na linha de base do escopo.  Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>310</totalframes>
+      <time>00:00:15</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="135">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide135.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide135_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento de Projetos e um Projeto  Figura 35. Mapa mental  Controlar o Escopo: Entradas  e Saídas (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>757</totalframes>
+      <time>00:00:37</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="136">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide136.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide136_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de monitoramento e controle 5) Controlar o cronograma Controlar o Cronograma é o processo de monitoramento do andamento do projeto para atualização do seu progresso e gerenciamento das mudanças feitas na linha de base do cronograma.  Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>346</totalframes>
+      <time>00:00:17</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="137">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide137.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide137_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento de Projetos e um Projeto  Figura 36. Mapa mental  Controlar o Cronograma: Entradas  e Saídas (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>651</totalframes>
+      <time>00:00:32</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="138">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide138.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide138_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de monitoramento e controle 6) Controlar os custosControlar os Custos é o processo de monitoramento do andamento do projeto para atualização do seu orçamento e gerenciamento das mudanças feitas na linha de base dos custos.  Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>327</totalframes>
+      <time>00:00:16</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="139">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide139.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide139_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento de Projetos e um Projeto  Figura 37. Mapa mental  Controlar os Custos : Entradas  e Saídas (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>707</totalframes>
+      <time>00:00:35</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="140">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide140.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide140_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de monitoramento e controle 7) Realizar o controle da qualidade Realizar o Controle da Qualidade é o processo de monitoramento e registro dos resultados da execução das atividades de qualidade para avaliar o desempenho e recomendar as mudanças necessárias.  Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>386</totalframes>
+      <time>00:00:19</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="141">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide141.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide141_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 141]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Figura 38. Mapa mental  Realizar o Controle da Qualidade: Entradas  e Saídas (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>882</totalframes>
+      <time>00:00:44</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="142">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide142.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide142_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de monitoramento e controle 8) Reportar o desempenhoReportar o Desempenho é o processo de coleta e distribuição de informações sobre o desempenho, inclusive relatórios de andamento, medições do progresso e previsões.  Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>319</totalframes>
+      <time>00:00:15</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="143">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide143.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide143_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento de Projetos e um Projeto  Figura 39. Mapa mental  Reportar o Desempenho: Entradas  e Saídas (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>586</totalframes>
+      <time>00:00:29</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="144">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide144.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide144_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de monitoramento e controle 9) Monitorar e controlar os riscosMonitorar e Controlar os Riscos é o processo de implementação de planos de respostas aos riscos, acompanhamento dos riscos identificados, monitoramento dos riscos residuais, identificação de novos riscos e avaliação do processo de risco durante todo o projeto.  Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>521</totalframes>
+      <time>00:00:26</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="145">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide145.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide145_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento de Projetos e um Projeto  Figura 40. Mapa mental  Monitorar e Controlar  os Riscos: Entradas  e Saídas (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>642</totalframes>
+      <time>00:00:32</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="146">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide146.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide146_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de monitoramento e controle 10) Administrar as aquisiçõesAdministrar as Aquisições é o processo de gerenciamento dos relacionamentos das aquisições e monitoramento dos desempenhos dos contratos, fazendo mudanças e correções conforme necessário.  Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>356</totalframes>
+      <time>00:00:17</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="147">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide147.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide147_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento de Projetos e um Projeto  Figura 41. Mapa mental  Administrar as Aquisições : Entradas  e Saídas (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>643</totalframes>
+      <time>00:00:32</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="148">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide148.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide148_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de encerramento O Grupo de Processos de Encerramento consiste nos processos executados para finalizar todas as atividades, de todos os grupos de processos de gerenciamento do projeto, visando completar formalmente o projeto ou a fase, ou obrigações contratuais. Este grupo de processos, quando concluído, verifica se os processos definidos estão completos em todos os grupos de processos para encerrar o projeto ou uma fase do projeto, da forma apropriada e definir formalmente que o projeto ou a fase do projeto estão concluídos.  Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>771</totalframes>
+      <time>00:00:38</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="149">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide149.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide149_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de encerramento No encerramento do projeto ou da fase, podem ocorrer as seguintes atividades: Obter aceitação do cliente ou patrocinador; Fazer uma revisão pós-projeto ou de final de fase; Registrar os impactos da adequação de qualquer processo; Documentar as lições aprendidas; Aplicar as atualizações apropriadas aos ativos de processos organizacionais;  Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>579</totalframes>
+      <time>00:00:28</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="150">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide150.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide150_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de encerramento Aplicar as atualizações apropriadas aos ativos de processos organizacionais; Arquivar todos os documentos relevantes no sistema de informações do gerenciamento de projetos (SIGP), para serem usadas como dados históricos e;Encerrar as aquisições.  Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>422</totalframes>
+      <time>00:00:21</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="151">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide151.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide151_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>253</totalframes>
+      <time>00:00:12</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="152">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide152.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide152_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de encerramento O Grupo de Processos de Encerramento (Figura 3-49) inclui os seguintes processos de gerenciamento de projetos (Figuras 3-50 e 3-51): 1) Encerrar o projeto ou a fase Encerrar o Projeto ou a Fase é o processo de finalização de todas as atividades de todos os grupos de processos de gerenciamento para terminar formalmente o projeto ou a fase.  Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>478</totalframes>
+      <time>00:00:23</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="153">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide153.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide153_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>162</totalframes>
+      <time>00:00:08</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="154">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide154.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide154_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento de Projetos e um Projeto  Figura 42. Mapa mental  Encerrar o Projeto ou a Fase : Entradas  e Saídas (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>478</totalframes>
+      <time>00:00:23</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="155">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide155.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide155_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Grupo de processos de encerramento 2) Encerrar as aquisições Encerrar as Aquisições é o processo de finalizar cada aquisição do projeto.  Processos de Gerenciamento de Projetos e um Projeto  Fonte: PMBOK,2008  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>170</totalframes>
+      <time>00:00:08</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="156">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide156.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide156_200,150.jpg</slideimage>
+      <title><![CDATA[Processos de Gerenciamento de Projetos e um Projeto]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Processos de Gerenciamento de Projetos e um Projeto  Figura 43. Mapa mental  Encerrar as Aquisições: Entradas  e Saídas (Fonte: PMBOK,2008)  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>363</totalframes>
+      <time>00:00:18</time>
+      <transitionmediaurl />
+    </slide>
+  </slides>
+</presentation>

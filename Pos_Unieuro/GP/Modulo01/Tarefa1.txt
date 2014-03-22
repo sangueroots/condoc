@@ -1,0 +1,12 @@
+Tarefa do Módulo 01 (4,0 pontos)
+
+1. Explique com suas palavras Gerenciamento de Projetos.
+São habilidades de planejar e acompanhar o planejado, consolidando todos os objetivos traçados
+dentro de um projeto. É a administração de recursos técnicos e ferramentas para monitiramento de tarefas dentro de um cronograma.
+
+2. Conceituar Partes Interessadas (Stakeholders).
+São todos que são afetados pelas atividades do projeto. Podem ser patrocinadores, clientes, alta administração e etc.
+
+3. Fale sobre o perfil ideal do gerente de projeto.
+É a pessoa responsável pelo desenvolvimento do projeto. O gerente perfeito é a pessoa que vai balancear e equilibrar as
+demandas de um projeto para que tenha uma evolução cumprindo prazos e gastos de recursos corretamente.

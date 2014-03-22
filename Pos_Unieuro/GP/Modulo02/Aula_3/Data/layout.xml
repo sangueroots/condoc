@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<layout>
+	<header text="mcHeader" value="true"/>
+	<video text="mcVideo" value="false"/>
+	<audio text="mcAudio" value="false"/>
+	<tab>
+		<toc position = "1" value="true">Table Of Contents</toc>
+		<search position = "3" value="true">Search</search>
+		<authorInfo position = "2" value="true">Presenter Info</authorInfo>
+		<thumbNail position = "4" value="true">Thumbnails</thumbNail>
+	</tab>
+	<logo text="mcLogoBase" value="true"/>
+	<navigationControl>
+		<previous text="mcControl" value="true"/>
+		<play text="mcPlay" value="true"/>
+		<pause text="mcPause" value="true"/>
+		<stop text="mcStop" value="true"/>
+		<replay text="mcReplay" value="true"/>
+		<next text="mcNext" value="true"/>
+	</navigationControl>
+	<slider text="mcSlider" value="true"/>
+	<print text="mcPrint" value="true"/>
+	<notes text="mcNotes" value="true"/>
+	<volume text="mcSoundSlider" value="true"/>
+	<volBtn text="mcSoundBtn" value="true"/>
+</layout>

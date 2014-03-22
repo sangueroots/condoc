@@ -1,0 +1,1344 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<presentation>
+  <properties>
+    <title><![CDATA[aula4_Estrutura Organizacional]]></title>
+    <creationdate>25/07/2012 08:41:53</creationdate>
+    <audio>on</audio>
+    <navigationonclick>false</navigationonclick>
+    <animations>true</animations>
+    <transitions>false</transitions>
+    <sdkversion>07</sdkversion>
+    <release>1.1</release>
+    <soundacrossslides>false</soundacrossslides>
+    <defaulturl>Slides/default_0.swf</defaulturl>
+    <video>
+    </video>
+    <templatecolor>Silver</templatecolor>
+    <layout>E-Learning Standard</layout>
+    <presentertitle><![CDATA[]]></presentertitle>
+    <presentername><![CDATA[]]></presentername>
+    <presentercompany><![CDATA[]]></presentercompany>
+    <presenteremail><![CDATA[]]></presenteremail>
+    <presentationtitle>aula4_Estrutura Organizacional</presentationtitle>
+    <powerpointfile>aula4_Estrutura Organizacional.ppt</powerpointfile>
+    <presentationdescription><![CDATA[]]></presentationdescription>
+    <presentationkeywords>Estruturas Organizacionais,PMI: Estruturas Organizacionais,Estruturas Organizacionais</presentationkeywords>
+    <audioquality>Medium</audioquality>
+    <imagequality>9</imagequality>
+    <showslidenotesinoutput>True</showslidenotesinoutput>
+    <usenarrations>True</usenarrations>
+  </properties>
+  <slides>
+    <slide id="1">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide1.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide1_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 1]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[MBA em Gestão de Projetos de Software  Introdução ao Gerenciamento de Projetos  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>136</totalframes>
+      <time>00:00:06</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="2">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide2.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide2_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Assim como os projetos são únicos, as organizações em que são executados também o são. O segredo para determinar o tipo de organização em que você trabalha é avaliar quanta autoridade a diretoria superior pretende delegar aos gerentes de projeto. Os projetos normalmente fazem parte de uma organização que é maior que o projeto.  Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>537</totalframes>
+      <time>00:00:26</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="3">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide3.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide3_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Exemplos de organizações incluem empresas, agências governamentais, instituições de saúde, organismos internacionais, associações profissionais, entre outros. A maturidade da organização em relação ao seu sistema de gerenciamento de projetos, sua cultura, seu estilo, sua estrutura organizacional e seu escritório de projetos também pode influenciar o projeto.  Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>598</totalframes>
+      <time>00:00:29</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="4">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide4.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide4_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Culturas e estilos organizacionaisA maior parte das organizações desenvolveram culturas exclusivas e descritíveis. Essas culturas se refletem em diversos fatores, que incluem, mas não se limitam a: Normas, crenças, expectativas e valores compartilhados;Políticas e procedimentos;Visão das relações de autoridade;Ética do trabalho e horas de trabalho.  Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>612</totalframes>
+      <time>00:00:30</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="5">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide5.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide5_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[As culturas organizacionais geralmente possuem influência direta no projeto. Por exemplo:Uma equipe que propõe uma abordagem pouco usual ou de alto risco tem maior probabilidade de garantir a aprovação em uma organização agressiva ou empreendedora;Um gerente de projetos com estilo altamente participativo provavelmente encontrará problemas em uma organização com hierarquia rígida, enquanto um gerente de projetos com estilo autoritário também enfrentará problemas em uma organização participativa.  Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>812</totalframes>
+      <time>00:00:40</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="6">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide6.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide6_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[As organizações são estruturadas por três modalidades: Funcional;Orientada a projetos ou;Matricial.  Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>202</totalframes>
+      <time>00:00:10</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="7">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide7.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide7_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[O nível de autoridade de um gerente de projeto é delineado pela estrutura organizacional. É possível que o cargo não seja gerente de projeto mas, sim, um líder de projeto, coordenador de projeto ou talvez um executor de projetos.  Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>411</totalframes>
+      <time>00:00:20</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="8">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide8.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide8_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[1) Organizações FuncionaisO tipo mais comum é a organização funcional. Este é o estilo mais antigo de organização, é conhecido como o método tradicional de organizar empresas.As organizações funcionais se centralizam em especialidades e são agrupadas por função; daí, o termo organização funcional.  Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>538</totalframes>
+      <time>00:00:26</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="9">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide9.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide9_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Os funcionários são agrupados por especialidade, como produção, marketing, engenharia e contabilidade, no nível superior. As organizações funcionais ainda possuem projetos, mas o escopo do projeto geralmente é restrito aos limites da função.  Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>656</totalframes>
+      <time>00:00:32</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="10">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide10.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide10_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>496</totalframes>
+      <time>00:00:24</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="11">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide11.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide11_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>437</totalframes>
+      <time>00:00:21</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="12">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide12.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide12_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[A organização é configurada hierarquicamente. Cada funcionário se reporta a um único gerente e, em última análise, só existe uma pessoa responsável no topo. Várias empresas enquadram na estrutura hierárquica.  Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>578</totalframes>
+      <time>00:00:28</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="13">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide13.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide13_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[É necessário conhecer a cadeia de comando, que pode ser bastante rigorosa e é possível que a cultura corporativa determine que devemos obedecer a hierarquia. 	“Não fale com o chefão sem conversar primeiro com seu chefe, que entrará em contato com o chefe dele, que falará com o chefão”.  Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>616</totalframes>
+      <time>00:00:30</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="14">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide14.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide14_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Os funcionários das organizações funcionais se especializam em uma área de conhecimento, tornando-se muito eficientes em sua especialidade.  Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>244</totalframes>
+      <time>00:00:12</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="15">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide15.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide15_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>938</totalframes>
+      <time>00:00:46</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="16">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide16.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide16_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[2) Organizações Estruturadas por ProjetosAs organizações estruturadas por projetos (projectized organizations) são praticamente o oposto das organizações funcionais. O enfoque desse tipo de organização é o próprio projeto. Cultiva-se a lealdade ao projeto, não a um gerente funcional.  Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>449</totalframes>
+      <time>00:00:22</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="17">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide17.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide17_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Os recursos organizacionais são dedicados aos projetos e ao esforço dos projetos. Em uma organização estritamente orientada a projetos, os departamentos de apoio, como recursos humanos e Tecnologia, também podem se reportar diretamente ao gerente de projeto.  Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>456</totalframes>
+      <time>00:00:22</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="18">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide18.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide18_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Os gerentes de projeto são responsáveis  pelas tomadas de decisões relacionadas ao projeto e à aquisição e alocação de recursos.Possuem autoridade para escolher e alocar recursos de outras áreas da organização ou para contratar recursos externos, se necessário. Em todas as estruturas organizacionais, os gerentes de projeto são limitados pelas três restrições (orçamento, tempo e escopo).  Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>658</totalframes>
+      <time>00:00:32</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="19">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide19.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide19_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>488</totalframes>
+      <time>00:00:24</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="20">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide20.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide20_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>313</totalframes>
+      <time>00:00:15</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="21">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide21.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide21_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Nas organizações por projeto as equipes são formadas e freqüentemente trabalham no mesmo local físico. Os membros da equipe do projeto são subordinados ao gerente de projeto, não a um gerente funcional ou de departamento. A maior parte dos recursos da organização está envolvida no trabalho do projeto e os gerentes de projetos possuem grande independência e autoridade.  Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>595</totalframes>
+      <time>00:00:29</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="22">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide22.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide22_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[As estruturas orientadas a projetos podem existir dentro das organizações funcionais. Por exemplo, no caso de um projeto crítico, de alto perfil, a organização funcional pode indicar uma equipe de projeto específica para esse projeto. A equipe está estruturada fora dos limites da organização funcional e o gerente de projeto tem autoridade máxima no projeto.  Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>601</totalframes>
+      <time>00:00:30</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="23">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide23.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide23_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[As organizações estruturadas por projetos são identificadas de várias maneiras:	1) Os gerentes de projeto têm autoridade máxima sobre o projeto.	2) O enfoque da organização é o projeto.	3) Os recursos da organização são destinados ao projeto e ao esforço do projeto.  Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>400</totalframes>
+      <time>00:00:20</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="24">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide24.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide24_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[4) Os integrantes da equipe trabalham no mesmo local físico.	5) A lealdade é cultivada em torno do projeto, não em torno de um gerente funcional.  Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>265</totalframes>
+      <time>00:00:13</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="25">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide25.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide25_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[3) Organizações MatriciaisSurgiram para minimizar as diferenças entre e beneficiar-se dos pontos fortes e fracos das organizações funcionais e das estruturadas por projetos. A idéia é obter o melhor das duas estruturas organizacionais, combinando-as em uma só. Os objetivos do projeto são atendidos, técnicas eficientes de gerenciamento de projetos são aplicadas, enquanto também é mantida uma estrutura hierárquica na organização.  Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>705</totalframes>
+      <time>00:00:35</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="26">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide26.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide26_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Os funcionários de uma organização matricial se reportam ao gerente funcional e a, no mínimo, um gerente de projeto. Os funcionários podem ser subordinados a vários gerentes de projeto, caso trabalhem em vários projetos simultaneamente. Os gerentes funcionais respondem pelas obrigações administrativas e alocam funcionários aos projetos.  Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>537</totalframes>
+      <time>00:00:26</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="27">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide27.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide27_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[O gerente de projeto é responsável por executar o projeto e distribuir as tarefas, de acordo com as atividades previstas. Os gerentes de projeto e gerentes funcionais dividem a responsabilidade das avaliações de desempenho dos funcionários.  Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>393</totalframes>
+      <time>00:00:19</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="28">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide28.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide28_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[As organizações matriciais permitem que os gerentes de projeto se concentrem no projeto e no esforço do projeto, exatamente como em uma organização estruturada por projetos. A equipe do projeto está livre para se dedicar aos objetivos do projeto, sem as distrações do departamento funcional.  Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>440</totalframes>
+      <time>00:00:22</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="29">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide29.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide29_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Neste tipo de organização há muita comunicação e negociação entre o gerente de projeto e o gerente funcional. Isso requer um equilíbrio de poder entre os dois; caso contrário, um dominará o outro.  Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>337</totalframes>
+      <time>00:00:16</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="30">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide30.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide30_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Estruturas Organizacionais  3.1) Organização Matricial FracaA organização matricial fraca mantém muitas das características de uma organização funcional e a função do gerente de projetos é mais parecida com a de um coordenador ou facilitador que com a de um gerente.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>386</totalframes>
+      <time>00:00:19</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="31">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide31.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide31_200,150.jpg</slideimage>
+      <title><![CDATA[PMI: Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[PMI: Estruturas Organizacionais  Organização matricial fraca  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>378</totalframes>
+      <time>00:00:18</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="32">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide32.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide32_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Estruturas Organizacionais  3.2) Organização Matricial BalanceadaEmbora a organização matricial balanceada reconheça a necessidade de um gerente de projetos, ela não fornece ao gerente de projetos autoridade total sobre o projeto e os recursos financeiros do projeto.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>357</totalframes>
+      <time>00:00:17</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="33">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide33.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide33_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Estruturas Organizacionais  Organização matricial balanceada  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>335</totalframes>
+      <time>00:00:16</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="34">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide34.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide34_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Estruturas Organizacionais  3.3) Organização Matricial ForteAs matrizes fortes possuem muitas das características da organização por projeto, e podem ter gerentes de projetos em tempo integral com autoridade considerável e pessoal administrativo trabalhando para o projeto em tempo integral.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>423</totalframes>
+      <time>00:00:21</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="35">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide35.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide35_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Estruturas Organizacionais  Organização matricial Forte  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>425</totalframes>
+      <time>00:00:21</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="36">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide36.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide36_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 36]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>1952</totalframes>
+      <time>00:01:37</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="37">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide37.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide37_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Estruturas Organizacionais  A maioria das organizações modernas envolve todas essas estruturas em vários níveis (Organização composta).  Por exemplo, uma organização funcional pode criar uma equipe de projeto especial para cuidar de um projeto crítico. Essa equipe pode ter muitas das características de uma equipe de projeto em uma organização por projeto.  A equipe pode incluir pessoal de diferentes departamentos funcionais trabalhando em tempo integral, pode desenvolver seu próprio conjunto de procedimentos operacionais e pode operar fora da estrutura hierárquica formal padrão.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>803</totalframes>
+      <time>00:00:40</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="38">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide38.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide38_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Estruturas Organizacionais  Organização composta  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>339</totalframes>
+      <time>00:00:16</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="39">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide39.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide39_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Estruturas Organizacionais  Estrutura organizacionalA estrutura da organização executora geralmente limita a disponibilidade de recursos em um espectro de uma estrutura funcional a uma estrutura por projeto, com diversas estruturas matriciais intermediárias. A Figura a seguir mostra importantes características relacionadas a projetos dos principais tipos de estruturas organizacionais.  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>521</totalframes>
+      <time>00:00:26</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="40">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide40.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide40_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Estruturas Organizacionais  Influências da estrutura organizacional nos projetos  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>299</totalframes>
+      <time>00:00:14</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="41">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide41.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide41_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[A função do PMO nas estruturas organizacionaisMuitas organizações compreendem os benefícios de desenvolver e implementar um PMO. Isso geralmente é verdadeiro nas organizações que usam uma estrutura organizacional matricial e quase sempre verdadeiro nas que usam uma estrutura organizacional por projeto, especialmente quando a matriz está envolvida com o gerenciamento simultâneo de vários projetos e/ou projetos seqüenciais.  Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>643</totalframes>
+      <time>00:00:32</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="42">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide42.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide42_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Um PMO pode existir em qualquer uma das estruturas organizacionais, inclusive nas que apresentam uma organização funcional, sendo que a probabilidade de ocorrência aumenta nas estruturas matriciais e por projeto.A função de um PMO em uma organização pode variar de uma assessoria, limitada à recomendação de políticas e procedimentos específicos sobre projetos individuais, até uma concessão formal de autoridade pela gerência executiva.  Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>673</totalframes>
+      <time>00:00:33</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="43">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide43.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide43_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[O PMO pode, por sua vez, delegar sua autoridade ao gerente de projetos específico. O gerente de projetos terá apoio administrativo do PMO através de funcionários dedicados ou de um funcionário compartilhado. Os membros da equipe do projeto serão dedicados ao projeto ou poderão incluir funcionários compartilhados com outros projetos e que, por sua vez, são gerenciados pelo PMO.  Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>629</totalframes>
+      <time>00:00:31</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="44">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide44.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide44_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Os membros da equipe do projeto se reportarão diretamente ao gerente de projetos ou, se forem compartilhados, ao PMO. O gerente de projetos se reporta diretamente ao PMO. Além disso, a flexibilidade do gerenciamento centralizado do PMO pode oferecer ao gerente de projetos maior oportunidade de promoção dentro da organização. Membros da equipe do projeto especializados também podem estar expostos a opções alternativas de carreira na área de gerenciamento de projetos em organizações com PMOs.  Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>842</totalframes>
+      <time>00:00:42</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="45">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide45.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide45_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Conhecer a estrutura organizacional ajudará o gerente de projeto no que diz respeito às influências culturais e vias de comunicação existentes na organização, a fim de ganhar a colaboração e concluir o projeto com êxito.  Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>350</totalframes>
+      <time>00:00:17</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="46">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide46.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide46_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Ativos de processos organizacionais Os ativos de processos organizacionais incluem qualquer um ou todos os ativos relacionados a processos, de quaisquer ou todas as organizações envolvidas no projeto que podem ser usados para influenciar o sucesso do projeto. Esses ativos de processos incluem planos formais e informais, políticas, procedimentos e diretrizes.  Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>592</totalframes>
+      <time>00:00:29</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="47">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide47.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide47_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Ativos de processos organizacionais Os ativos de processos organizacionais também incluem as bases de conhecimento das organizações, como lições aprendidas e informações históricas. Eles podem incluir cronogramas terminados, dados sobre riscos e dados de valor agregado. Normalmente, a responsabilidade por atualizar e adicionar aos ativos de processos organizacionais conforme necessário no transcorrer do projeto cabe aos membros da equipe de projeto.  Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>682</totalframes>
+      <time>00:00:34</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="48">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide48.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide48_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Ativos de processos organizacionais Os ativos de processos organizacionais podem ser agrupados em duas categorias: 1. Processos e procedimentos: Os processos e procedimentos da organização para a condução do trabalho incluem, mas não se limitam a:Processos organizacionais padrões, como normas, políticas (por exemplo, política de segurança e saúde, de ética e de gerenciamento de projetos), ciclos de vida padrão de produtos e projetos, e políticas e procedimentos de qualidade (por exemplo, auditorias de processos, metas de melhorias, listas de verificação e definições padronizadas de processos para uso na organização);  Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>876</totalframes>
+      <time>00:00:43</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="49">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide49.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide49_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Ativos de processos organizacionais Diretrizes padronizadas, instruções de trabalho, critérios de avaliação de propostas e critérios de medição de desempenho;Modelos (por exemplo, modelos de risco, estrutura analítica do projeto, diagrama de rede do cronograma do projeto e contrato); Diretrizes e critérios para adaptação do conjunto de processos padrão da organização de modo a satisfazer as necessidades específicas do projeto;  Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>730</totalframes>
+      <time>00:00:36</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="50">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide50.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide50_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Ativos de processos organizacionais Requisitos de comunicação da organização (por exemplo, tecnologia de comunicação específica disponível, mídia de comunicação permitida, política de retenção de registros e requisitos de segurança); Diretrizes ou requisitos de encerramento do projeto (por exemplo, auditorias finais do projeto, avaliações do projeto, validação do produto e critérios de aceitação);  Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>579</totalframes>
+      <time>00:00:28</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="51">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide51.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide51_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Ativos de processos organizacionais Procedimentos de controles financeiros (por exemplo, relatório de tempo, análises obrigatórias de gastos e despesas, códigos contábeis e cláusulas contratuais padrões); Procedimentos de gerenciamento de questões e defeitos que definem os seus controles, identificação e solução de questões e defeitos e acompanhamento dos seus itens de ação;  Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>561</totalframes>
+      <time>00:00:28</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="52">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide52.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide52_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Ativos de processos organizacionais Procedimentos de controle de mudanças, inclusive os passos para modificação de normas, políticas, planos e procedimentos oficiais da empresa, ou de qualquer documento do projeto, e o modo como quaisquer mudanças serão aprovadas e validadas; Procedimentos de controle de riscos, inclusive categorias de risco, definição de probabilidade e matriz de probabilidade e impacto e ;Procedimentos de priorização, aprovação e emissão de autorizações de trabalho.  Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>682</totalframes>
+      <time>00:00:34</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="53">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide53.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide53_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Ativos de processos organizacionais 2. Base de conhecimento corporativa: A base de conhecimento organizacional corporativa para armazenamento e recuperação de informações inclui, mas não se limita a: Bancos de dados de medição de processos usados para coletar e disponibilizar dados de medição de processos e produtos;  Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>489</totalframes>
+      <time>00:00:24</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="54">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide54.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide54_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Ativos de processos organizacionais Arquivos do projeto (por exemplo, linhas de base de escopo, custo, cronograma e qualidade, linhas de base de medição de desempenho, cronogramas de projeto, diagramas de rede do cronograma do projeto, registros de riscos, ações de resposta planejadas e impacto definido dos riscos);  Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>448</totalframes>
+      <time>00:00:22</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="55">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide55.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide55_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Ativos de processos organizacionais Bases de conhecimento de informações históricas e lições aprendidas (por exemplo, registros e documentos de projetos, todas as informações e documentação de encerramento dos projetos, informações sobre os resultados de decisões de seleção de projetos anteriores e do desempenho de projetos anteriores, assim como informações do esforço de gerenciamento de riscos);  Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>550</totalframes>
+      <time>00:00:27</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="56">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide56.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide56_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Ativos de processos organizacionais Bancos de dados de gerenciamento de questões e defeitos, que contêm o status dos mesmos, informações de controle, solução de problemas e defeitos e resultados de itens de ação; Bancos de dados de gerenciamento de configuração, que contêm as versões e linhas de base de todas as normas, políticas, procedimentos e quaisquer outros documentos oficiais de projetos da empresa e;  Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>540</totalframes>
+      <time>00:00:27</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="57">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide57.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide57_200,150.jpg</slideimage>
+      <title><![CDATA[Estruturas Organizacionais]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Ativos de processos organizacionais Bancos de dados financeiros, que contêm informações como horas de mão-de-obra, custos incorridos, orçamentos e qualquer estouro dos custos do projeto.  Estruturas Organizacionais  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>240</totalframes>
+      <time>00:00:12</time>
+      <transitionmediaurl />
+    </slide>
+  </slides>
+</presentation>
