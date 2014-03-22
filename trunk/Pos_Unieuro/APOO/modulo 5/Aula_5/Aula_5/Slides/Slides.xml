@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <slide transition="" id="1" frame="0" swidth="720" sheight="540" title="Slide 1" totalframes="292" path="slide1.swf" name="slide1.swf" />
+  <slide transition="" id="2" frame="0" swidth="720" sheight="540" title="Slide 2" totalframes="566" path="slide2.swf" name="slide2.swf" />
+  <slide transition="" id="3" frame="0" swidth="720" sheight="540" title="Slide 3" totalframes="312" path="slide3.swf" name="slide3.swf" />
+  <slide transition="" id="4" frame="0" swidth="720" sheight="540" title="Slide 4" totalframes="483" path="slide4.swf" name="slide4.swf" />
+  <slide transition="" id="5" frame="0" swidth="720" sheight="540" title="Slide 5" totalframes="709" path="slide5.swf" name="slide5.swf" />
+  <slide transition="" id="6" frame="0" swidth="720" sheight="540" title="Slide 6" totalframes="653" path="slide6.swf" name="slide6.swf" />
+  <slide transition="" id="7" frame="0" swidth="720" sheight="540" title="Slide 7" totalframes="347" path="slide7.swf" name="slide7.swf" />
+  <slide transition="" id="8" frame="0" swidth="720" sheight="540" title="Slide 8" totalframes="393" path="slide8.swf" name="slide8.swf" />
+</root>
