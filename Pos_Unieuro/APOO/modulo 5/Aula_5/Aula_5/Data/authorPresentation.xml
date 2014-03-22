@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<presentation>
+  <properties>
+    <title><![CDATA[Aula05]]></title>
+    <creationdate>26/07/2012 21:05:37</creationdate>
+    <audio>on</audio>
+    <navigationonclick>false</navigationonclick>
+    <animations>true</animations>
+    <transitions>false</transitions>
+    <sdkversion>07</sdkversion>
+    <release>1.1</release>
+    <soundacrossslides>false</soundacrossslides>
+    <defaulturl>Slides/default_0.swf</defaulturl>
+    <video>
+    </video>
+    <templatecolor>Silver</templatecolor>
+    <layout>E-Learning Standard</layout>
+    <presentertitle><![CDATA[]]></presentertitle>
+    <presentername><![CDATA[]]></presentername>
+    <presentercompany><![CDATA[]]></presentercompany>
+    <presenteremail><![CDATA[]]></presenteremail>
+    <presentationtitle>Aula05</presentationtitle>
+    <powerpointfile>Aula05.ppt</powerpointfile>
+    <presentationdescription><![CDATA[]]></presentationdescription>
+    <presentationkeywords>
+    </presentationkeywords>
+    <audioquality>Medium</audioquality>
+    <imagequality>9</imagequality>
+    <showslidenotesinoutput>True</showslidenotesinoutput>
+    <usenarrations>True</usenarrations>
+  </properties>
+  <slides>
+    <slide id="1">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound />
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide1.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide1_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 1]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Disciplina: Análise e Projeto Orientado a Objetos: UML  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <waitforuser>false</waitforuser>
+      <totalframes>292</totalframes>
+      <time>00:00:14</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="2">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide2.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide2_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 2]]></title>
+      <notes><![CDATA[2]]></notes>
+      <slidetext><![CDATA[Da análise ao projetoNo desenvolvimento de um SSOO, a mesma representação para as classes é utilizada durante a análise e o projeto desse sistema.Vantagem: há uma uniformidade na modelagem do sistema.Desvantagem: torna menos nítida a separação entre o que é feito na análise e o que é feito no projeto.  2  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>566</totalframes>
+      <time>00:00:28</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="3">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide3.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide3_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 3]]></title>
+      <notes><![CDATA[3]]></notes>
+      <slidetext><![CDATA[Na fase de análise, estamos interessados em identificar as funcionalidades e classes do SSOO. Modelo de casos de usoModelo de classes de análiseModelo de interações de análise  3  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>312</totalframes>
+      <time>00:00:15</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="4">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide4.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide4_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 4]]></title>
+      <notes><![CDATA[4]]></notes>
+      <slidetext><![CDATA[O modelo de classes de análise e o modelo de casos de uso esclarecem o problema a ser resolvido. O modelo de interações também deve começar na fase de análise para representar os aspectos dinâmicos do sistema. No entanto, esses modelos são insuficientes para se ter uma visão completa do SSOO para que a implementação comece.  4  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>483</totalframes>
+      <time>00:00:24</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="5">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide5.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide5_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 5]]></title>
+      <notes><![CDATA[5]]></notes>
+      <slidetext><![CDATA[Antes disso, diversos aspectos referentes à solução a ser utilizada devem ser definidos. É na fase de projeto que essas definições são realmente feitas.Na fase de projeto, o interesse recai sobre refinar os modelos de análise. Objetivo: encontrar alternativas para que o SSOO atenda aos requisitos funcionais, ao mesmo tempo em que respeite as restrições definidas pelos requisitos não-funcionais.  5  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>709</totalframes>
+      <time>00:00:35</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="6">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide6.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide6_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 6]]></title>
+      <notes><![CDATA[]]></notes>
+      <slidetext><![CDATA[Portanto, o foco da fase de projeto é definir a solução do problema relativo ao desenvolvimento do SSOO. Essa fase deve aderir a certos princípios de projeto para alcançar uma qualidade desejável no produto de software final.Após a realização do projeto de um SSOO, os modelos que resultarem estarão em um nível de detalhamento grande e suficiente para que o sistema possa ser implementado.  6  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>653</totalframes>
+      <time>00:00:32</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="7">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide7.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide7_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 7]]></title>
+      <notes><![CDATA[7]]></notes>
+      <slidetext><![CDATA[As principais atividades realizadas na fase de projeto são:1.	Detalhamento dos aspectos dinâmicos do sistema. 2.	Refinamento dos aspectos estáticos e estruturais do sistema. 3.	Detalhamento da arquitetura do sistema.  7  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>347</totalframes>
+      <time>00:00:17</time>
+      <transitionmediaurl />
+    </slide>
+    <slide id="8">
+      <transition>
+      </transition>
+      <width>720</width>
+      <height>540</height>
+      <transitionurl>
+      </transitionurl>
+      <embeddedsound>
+        <audio onclick="false" type="n" repeat="false" startframe="1" duration="1" />
+      </embeddedsound>
+      <slidenavigation onclick="true" slideadvmode="true" />
+      <fileurl>Slides/slide8.swf</fileurl>
+      <slideimage height="150" width="200">Images/slide8_200,150.jpg</slideimage>
+      <title><![CDATA[Slide 8]]></title>
+      <notes><![CDATA[8]]></notes>
+      <slidetext><![CDATA[4.	Definição das estratégias para armazenamento, gerenciamento e persistência dos dados manipulados pelo sistema. 5.	Realização do projeto da interface gráfica com o usuário.6.	Definição dos algoritmos a serem utilizados na implementação.  8  MBA em Engenharia de Software a Distância  ]]></slidetext>
+      <animations>
+      </animations>
+      <waitforuser>false</waitforuser>
+      <totalframes>393</totalframes>
+      <time>00:00:19</time>
+      <transitionmediaurl />
+    </slide>
+  </slides>
+</presentation>
