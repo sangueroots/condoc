@@ -1,5 +1,5 @@
 /**
- * @author Uira – Representa um boletim de notas que armazena e analisa notas. –
+ * @author Murilo – Representa um boletim de notas que armazena e analisa notas. –
  *         Não mantém valores de notas individuais. – A repetição dos cálculos
  *         exige a reinserção das mesmas notas. • Isso pode ser resolvido
  *         armazenando notas em um array.
@@ -14,6 +14,14 @@ public class GradeBook {
 		courseName = name; // inicializa courseName
 		grades = gradesArray; // armazena notas
 	} // construtor de dois argumentos inicializa courseName e array de notas
+
+	public GradeBook(String name, String string) {
+		// TODO Auto-generated constructor stub
+	}
+
+	public GradeBook(String string) {
+		// TODO Auto-generated constructor stub
+	}
 
 	// método para configura o nome do curso
 	public void setCourseName(String name) {

@@ -1,5 +1,5 @@
 /**************************************************************************
- * @autor Uirá Peixoto                                                     *
+ * @autor Murilo Andrade                                                   *
  * Tarefa 5 - Desenvolva um aplicativo em Java que                         * 
  * 1.determina o salário bruto semanal de 3 funcionários.                  *
  * 2. Seu aplicativo deve ler:                                             *
@@ -13,7 +13,7 @@
  * imprimir na tela de comando esses valores.                              *
  *                                                                         *
  *                                                                         *
- * @version 1.00 2013/06/01                                                *
+ * @version 1.00 2014/03/23                                                *
  *************************************************************************/
 
 import java.util.Scanner;

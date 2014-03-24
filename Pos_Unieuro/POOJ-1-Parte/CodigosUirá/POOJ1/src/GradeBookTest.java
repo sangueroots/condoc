@@ -1,5 +1,5 @@
 /**
- * @author Uira
+ * @author Murilo
  * 
  */
 public class GradeBookTest {
@@ -10,11 +10,11 @@ public class GradeBookTest {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
 
-		GradeBook gradeBook1 = new GradeBook("CS101 Introduction to JAVA Programming","Uirá");		
+		GradeBook gradeBook1 = new GradeBook("CS101 Introduction to JAVA Programming","Paulo");		
 		
-		GradeBook gradeBook2 = new GradeBook("CS102 Data Structures in JAVA","Murilo");
+		GradeBook gradeBook2 = new GradeBook("CS102 Data Structures in JAVA", "Joao");
 		
 				
 		gradeBook1.displayMessage();		

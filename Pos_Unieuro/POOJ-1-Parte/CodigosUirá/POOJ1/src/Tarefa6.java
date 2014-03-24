@@ -2,9 +2,9 @@ import java.util.Scanner;
 
 
 /**************************************************************************
- * @autor Uirá Peixoto                                                     *
+ * @autor Murilo Andrade                                                   *
  * Tarefa 6 - Escreva um método chamado integerPower(base, expoente) que   * 
- * retorna o valor baseexpoente . Por exemplo, integerPower(3, 4) calcula  *
+ * retorna o valor base expoente . Por exemplo, integerPower(3, 4) calcula *
  * 34, ou seja, 3*3*3*3. Assuma que expoente é um número inteiro maior     *
  * que zero e a base é um número inteiro. O método deve utilizar a         *
  * instrução de repetição for ou while para repetir as multiplicações.     *

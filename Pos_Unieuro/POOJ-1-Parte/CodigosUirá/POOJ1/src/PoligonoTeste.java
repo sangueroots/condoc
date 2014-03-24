@@ -1,4 +1,4 @@
-/* @author Uirá Peixoto
+/* @author Murilo Andrade 
  * 
  * Utilizando a mesma estrutura da tarefa anterior, crie as classes 
  * Quadrado, 
