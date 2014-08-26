@@ -4,7 +4,7 @@
  * inteiros ao usuário, obtenha-os pelo teclado e imprima na tela a soma,  *
  * a subtração, a multiplicação e a divisão deles                          *
  *                                                                         *
- * @version 1.00 2013/06/01                                                *
+ * @version 1.00 2014/06/21                                                *
  *************************************************************************/
 
 import java.util.Scanner;
