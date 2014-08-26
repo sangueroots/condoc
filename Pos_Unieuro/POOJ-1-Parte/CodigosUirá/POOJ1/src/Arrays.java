@@ -134,7 +134,7 @@ public class Arrays {
 		
 		Arrays arr = new Arrays();
 		
-		arr.InitArray();
+		arr.StudentPoll();
 		
 	}
 

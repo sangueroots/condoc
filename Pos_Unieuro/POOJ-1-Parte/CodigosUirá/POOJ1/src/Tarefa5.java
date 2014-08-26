@@ -1,5 +1,5 @@
 /**************************************************************************
- * @autor Murilo Andrade                                                   *
+ * @autor Uirá Peixoto                                              *
  * Tarefa 5 - Desenvolva um aplicativo em Java que                         * 
  * 1.determina o salário bruto semanal de 3 funcionários.                  *
  * 2. Seu aplicativo deve ler:                                             *
