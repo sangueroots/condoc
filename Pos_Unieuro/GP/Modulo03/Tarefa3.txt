@@ -1,0 +1,44 @@
+Tarefa do Módulo 02 (4,0 pontos)
+
+1) Explique os cinco grupos de processos do Gerenciamento de projetos e dê exemplos.
+
+a) Iniciação:
+
+Reconhecer um projeto ou fase inicial, com comprometimento a sua execução preliminar. 
+Estudar a viabilidade de realiza, determinar o objetivo a ser alcançado; juntamente com as expectativas dos usuários, clientes, direção e outros. 
+Definindo o escopo geral do projeto, selecionando os integrantes e formalizando a constituição do projeto.
+
+
+b) Planejamento:
+
+Manter o esquema de trabalho viável para atingir os objetivos. 
+Detalhamento do escopo em resultados, prazos e recursos. Listando as atividades necessárias para atingir os objetivos. 
+Seqüenciar processos facilitadores com cronograma e orçamento viável conforme os recursos disponíveis, obtendo a aprovação dos envolvidos e interessados no projeto.
+
+
+c) Execução:
+
+Coordenação de pessoas e recursos. 
+Gerenciar a equipe, reunindo os integrantes para informar os envolvidos e interessados com o intuito de solucionar conflitos durante a execução. 
+Assegurando os recursos necessários. Aqui executa-se o trabalho planejado. 
+O gerente usa as informações surgidas na linha de base (default = padrão) para medir e controlar o desempenho da equipe, lembrando que quanto maior o tempo gasto maiores serão os cursos, 
+e ênfase demasiada com o controle estenderá o cronograma.
+
+	Linha de base é o plano original detalhada para orientar em qual fase do projeto se está. 
+	Linha de base do escopo: declaração do escopo. 
+	Linha de base do custo: orçamento do projeto. 
+	Linha de base do cronograma: diagrama de rede e gráfico de Gantt. 
+	Plano de gerenciamento do projeto é o produto final do planejamento.
+
+d) Monitoramento e Controle:
+
+Assegurar o cumprimento dos objetivos, monitoramento e avaliação do progresso para melhoria das ações. 
+	Monitoramento dos desvios de atividades, tempo e custos; tomando ações corretas para harmonizar o executado e programado. 
+	Avaliando a necessidade de alterações diversas no projeto, e reprogramá-lo se necessário, ajustando o nível de recursos e proceder os ajustes necessários e obter a aprovação dos patrocinadores do projeto.
+
+
+e) Encerramento:
+
+Formalizar a aceitação do projeto ou fazer o seu encerramento de forma organizada. 
+Encerra as atividades, sendo a fase de avaliação do projeto, qual o motivo do resultado, documentando os relatórios do projeto. 
+E por fim, dissolvendo a equipe do projeto.
